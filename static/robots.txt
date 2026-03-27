@@ -3,3 +3,4 @@ Allow: /
 Disallow: /search/
 
 Sitemap: https://czystepowietrze-dotacje.pl/sitemap.xml
+Sitemap: https://czystepowietrze-dotacje.pl/news-sitemap.xml

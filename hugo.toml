@@ -5,8 +5,9 @@ defaultContentLanguage = "pl"
 enableRobotsTXT = true
 enableGitInfo = false
 summaryLength = 160
-paginate = 12
-paginatePath = "strona"
+[pagination]
+  pagerSize = 12
+  path = "strona"
 copyright = "© 2026 czystepowietrze-dotacje.pl"
 
 [params]

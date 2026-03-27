@@ -1,0 +1,91 @@
+baseURL = "https://czystepowietrze-dotacje.pl/"
+languageCode = "pl-PL"
+title = "Czyste Powietrze Dotacje – Dofinansowania OZE i Ekologiczne"
+defaultContentLanguage = "pl"
+enableRobotsTXT = true
+enableGitInfo = false
+summaryLength = 160
+paginate = 12
+paginatePath = "strona"
+copyright = "© 2026 czystepowietrze-dotacje.pl"
+
+[params]
+  siteName = "CzystePowietrzeDotacje.pl"
+  siteDescription = "Największy portal informacyjny o programie Czyste Powietrze, dotacjach OZE i dofinansowaniach do odnawialnych źródeł energii w Polsce."
+  siteKeywords = "czyste powietrze, dotacje OZE, dofinansowanie, pompa ciepła, fotowoltaika, ocieplenie domu"
+  siteImage = "/img/og-default.jpg"
+  author = "Redakcja CzystePowietrzeDotacje.pl"
+  email = "redakcja@czystepowietrze-dotacje.pl"
+  googleAnalytics = ""
+  adsenseClient = "ca-pub-XXXXXXXXXX"
+  adsenseSlotArticle = "1234567890"
+  adsenseSlotSidebar = "0987654321"
+  twitterHandle = "@czystepowietrze"
+  locale = "pl_PL"
+  dateFormat = "2 January 2006"
+  dateFormatShort = "02.01.2006"
+
+[taxonomies]
+  category = "kategorie"
+  tag = "tagi"
+  author = "autorzy"
+
+[menu]
+  [[menu.main]]
+    name = "Aktualności"
+    url = "/aktualnosci/"
+    weight = 1
+  [[menu.main]]
+    name = "Dotacje"
+    url = "/dotacje/"
+    weight = 2
+  [[menu.main]]
+    name = "Poradniki"
+    url = "/poradniki/"
+    weight = 3
+  [[menu.main]]
+    name = "Artykuły"
+    url = "/posts/"
+    weight = 4
+  [[menu.footer]]
+    name = "O portalu"
+    url = "/o-portalu/"
+    weight = 1
+  [[menu.footer]]
+    name = "Kontakt"
+    url = "/kontakt/"
+    weight = 2
+  [[menu.footer]]
+    name = "Polityka prywatności"
+    url = "/polityka-prywatnosci/"
+    weight = 3
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    style = "monokai"
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false

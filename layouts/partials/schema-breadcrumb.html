@@ -7,7 +7,7 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Strona główna",
-      "item": "{{ .Site.BaseURL }}"
+      "item": {{ .Site.BaseURL | jsonify }}
     }
     {{ if .IsSection }},
     {

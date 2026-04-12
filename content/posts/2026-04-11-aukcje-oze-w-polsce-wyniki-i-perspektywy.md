@@ -17,14 +17,8 @@ slug: "aukcje-oze-w-polsce-wyniki-i-perspektywy"
 ai_generated: true
 ---
 
-{
-  "title": "Aukcje OZE w Polsce - jak wygrać dofinansowanie",
-  "excerpt": "Aukcje OZE to szansa na uzyskanie dofinansowania do inwestycji w odnawialne źródła energii. Dowiedz się, jak złożyć wniosek i wygrać aukcję",
-  "tags": ["aukcje OZE", "dofinansowanie", "odnawialne źródła energii", "NFOŚiGW", "WFOŚiGW"],
-  "content": "
 Aukcje OZE to coraz popularniejsza forma uzyskania dofinansowania do inwestycji w odnawialne źródła energii. W ramach tych aukcji, Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej (NFOŚiGW) oraz Wojewódzkie Fundusze Ochrony Środowiska i Gospodarki Wodnej (WFOŚiGW) oferują dofinans
 
 ---
 
 > **Nota redakcyjna:** Powyższy artykuł został wygenerowany przez sztuczną inteligencję. Postać autora jest fikcyjna i stworzona wyłącznie na potrzeby redakcyjne. Treść ma charakter informacyjny i nie stanowi porady prawnej, finansowej ani technicznej. Przed podjęciem decyzji inwestycyjnych lub złożeniem wniosków dotacyjnych skonsultuj się z odpowiednim specjalistą.
-

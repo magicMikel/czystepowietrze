@@ -17,14 +17,8 @@ slug: "aktualne-trendy-w-fotowoltaice-w-polsce-2025"
 ai_generated: true
 ---
 
-{
-  "title": "Fotowoltaika w Polsce - trendy i dofinansowania 2026",
-  "excerpt": "Odkryj najnowsze trendy w fotowoltaice w Polsce i dowiedz się, jak uzyskać dofinansowania na instalację paneli słonecznych. W 2026 roku możesz liczyć na nawet 25 000 zł dofinansowania!",
-  "tags": ["fotowoltaika", "dofinansowania", "panele słoneczne", "NFOŚiGW", "WFOŚiGW"],
-  "content": "
 Fotowoltaika w Polsce to coraz bardziej popularny sposób na produkcję energii elektrycznej. W 2026 roku możemy spodziewać się dalszego rozwoju tej branży, a co za tym idzie, również wzrostu dostępnych dofinansowań. W tym artykule przedstawimy najnowsze trendy w fotowoltaice w Polsce oraz pomożemy Ci zrozumieć, jak uzyskać dofinansowania na instal
 
 ---
 
 > **Nota redakcyjna:** Powyższy artykuł został wygenerowany przez sztuczną inteligencję. Postać autora jest fikcyjna i stworzona wyłącznie na potrzeby redakcyjne. Treść ma charakter informacyjny i nie stanowi porady prawnej, finansowej ani technicznej. Przed podjęciem decyzji inwestycyjnych lub złożeniem wniosków dotacyjnych skonsultuj się z odpowiednim specjalistą.
-

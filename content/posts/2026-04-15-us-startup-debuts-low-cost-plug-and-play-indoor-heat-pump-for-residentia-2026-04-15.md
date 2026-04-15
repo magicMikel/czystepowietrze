@@ -1,6 +1,6 @@
 ---
 title: "U.S. startup debuts low-cost, plug-and-play indoor heat pump for residentia"
-date: 2026-04-15T22:04:56.165Z
+date: 2026-04-15T22:05:31.958Z
 draft: false
 description: "U.S. startup debuts low-cost, plug-and-play indoor heat pump for residential use - pv magazine International"
 author: "Agnieszka Kowalczyk"
@@ -17,37 +17,36 @@ slug: "us-startup-debuts-low-cost-plug-and-play-indoor-heat-pump-for-residentia-
 ai_generated: true
 ---
 
+Wraz z rosnącymi kosztami energii, coraz więcej osób szuka sposobów na zmniejszenie swoich rachunków. Jednym z najskuteczniejszych rozwiązań jest zastosowanie pompy ciepła, która może dostarczyć ciepło i ciepłą wodę w Twoim domu. W tym artykule dowiesz się, jak tanie pompy ciepła mogą pomóc Ci w oszczędnościach i poprawie jakości powietrza w domu, a także jak uzyskać dofinansowanie na ich zakup i montaż.
 
-Pompy ciepła to urządzenia, które coraz częściej zyskują popularność wśród właścicieli domów. Ich zaletą jest nie tylko ochrona środowiska, ale także oszczędność energii i pieniędzy. W praktyce oznacza to, że pompy ciepła mogą być bardzo opłacalne, zwłaszcza jeśli skorzystamy z dofinansowania oferowanego przez NFOŚiGW i WFOŚiGW.
+W praktyce oznacza to, że pompy ciepła są nie tylko ekologicznym, ale także ekonomicznym rozwiązaniem dla Twojego domu. Dzięki dofinansowaniu oferowanemu przez NFOŚiGW i WFOŚiGW, możesz uzyskać nawet do 30% kwoty potrzebnej na zakup i montaż pompy ciepła, co może wynieść od 5 000 do 15 000 złotych.
 
-Warto wiedzieć, że pompy ciepła mogą być używane do ogrzewania domu, przygotowania ciepłej wody oraz chłodzenia. Co ważne dla wnioskodawcy, dofinansowanie na pompy ciepła może wynieść nawet do 50% kosztów kwalifikowanych, maksymalnie do 21 000 złotych.
+Oto 3 kroki, które musisz podjąć, aby uzyskać dofinansowanie na pompę ciepła:
+1. **Sprawdź, czy Twój dom kwalifikuje się do dofinansowania**: Upewnij się, że Twój dom spełnia wymagania określone przez NFOŚiGW i WFOŚiGW, takie jak np. izolacja termiczna budynku.
+2. **Wybierz odpowiednią pompę ciepła**: Dobierz pompę ciepła, która najlepiej odpowiada Twoim potrzebom i warunkom klimatycznym w Twojej okolicy.
+3. **Złóż wniosek o dofinansowanie**: Wypełnij wniosek o dofinansowanie i załącz wszystkie niezbędne dokumenty, takie jak np. kosztorys zakupu i montażu pompy ciepła.
 
-Poniżej przedstawiamy 5 kroków, które należy wykonać, aby uzyskać dofinansowanie na pompę ciepła:
-1. **Sprawdź, czy spełniasz warunki**: Przed złożeniem wniosku o dofinansowanie należy sprawdzić, czy spełniamy warunki określone przez NFOŚiGW i WFOŚiGW.
-2. **Wybierz odpowiednią pompę ciepła**: Należy wybrać pompę ciepła, która spełnia wymagania programu dofinansowania.
-3. **Zgromadź dokumenty**: Należy zgromadzić wszystkie niezbędne dokumenty, takie jak faktury, rachunki i umowy.
-4. **Wypełnij wniosek**: Należy wypełnić wniosek o dofinansowanie i załączyć wszystkie niezbędne dokumenty.
-5. **Złóż wniosek**: Należy złożyć wniosek o dofinansowanie do odpowiedniej instytucji.
+Warto wiedzieć, że dofinansowanie na pompę ciepła może być przyznane w ramach programu **Czyste Powietrze**, który oferuje dofinansowanie na wymianę starego kotła na nowy, bardziej efektywny i ekologiczny. Co ważne dla wnioskodawcy, dofinansowanie może być przyznane tylko raz na jeden budynek mieszkalny.
 
 Pułapki na które uważać to m.in.:
-* **Niewłaściwy wybór pompy ciepła**: Należy wybrać pompę ciepła, która spełnia wymagania programu dofinansowania.
-* **Błędy w dokumentach**: Należy uważnie wypełnić wniosek i załączyć wszystkie niezbędne dokumenty.
+* Niewłaściwy dobór pompy ciepła do Twoich potrzeb
+* Brak odpowiedniej izolacji termicznej budynku
+* Niewypełnienie wniosku o dofinansowanie w sposób prawidłowy
 
-Poniżej przedstawiamy tabelę porównującą dofinansowanie na pompy ciepła oferowane przez NFOŚiGW i WFOŚiGW:
-| Instytucja | Maksymalna kwota dofinansowania | Procent dofinansowania |
+Poniżej znajdziesz porównanie dotacji oferowanych przez NFOŚiGW i WFOŚiGW:
+| Program | Kwota dofinansowania | Procent dofinansowania |
 | --- | --- | --- |
-| NFOŚiGW | 21 000 zł | 50% |
-| WFOŚiGW | 15 000 zł | 40% |
+| Czyste Powietrze | 5 000 - 15 000 zł | 30% |
 
 Jak złożyć wniosek — 3 proste kroki:
-1. **Wejdź na stronę internetową**: Wejdź na stronę internetową NFOŚiGW lub WFOŚiGW i pobierz wniosek o dofinansowanie.
-2. **Wypełnij wniosek**: Wypełnij wniosek i załącz wszystkie niezbędne dokumenty.
-3. **Złóż wniosek**: Złóż wniosek o dofinansowanie do odpowiedniej instytucji.
+1. Wybierz program dofinansowania, który Cię interesuje
+2. Wypełnij wniosek o dofinansowanie i załącz wszystkie niezbędne dokumenty
+3. Złóż wniosek w odpowiedniej instytucji, takiej jak NFOŚiGW lub WFOŚiGW
 
 Najczęstsze pytania (FAQ):
-1. **Jaka jest maksymalna kwota dofinansowania na pompę ciepła?**: Maksymalna kwota dofinansowania na pompę ciepła wynosi 21 000 złotych.
-2. **Czy mogę uzyskać dofinansowanie na pompę ciepła, jeśli już ją posiadam?**: Nie, dofinansowanie na pompę ciepła jest przeznaczone tylko dla osób, które jeszcze nie posiadają takiego urządzenia.
-3. **Jaki jest termin składania wniosków o dofinansowanie na pompę ciepła?**: Termin składania wniosków o dofinansowanie na pompę ciepła jest ustalony przez NFOŚiGW i WFOŚiGW i może się zmieniać, dlatego należy sprawdzić informacje na stronach internetowych tych instytucji.
+1. **Czy mogę uzyskać dofinansowanie na pompę ciepła, jeśli już mam kotłownię?**: Tak, możesz uzyskać dofinansowanie na pompę ciepła, nawet jeśli już masz kotłownię, pod warunkiem że spełniasz wymagania określone przez NFOŚiGW i WFOŚiGW.
+2. **Jaki jest maksymalny okres trwałości pompy ciepła?**: Maksymalny okres trwałości pompy ciepła wynosi około 20-25 lat, w zależności od jakości urządzenia i warunków eksploatacji.
+3. **Czy dofinansowanie na pompę ciepła jest przyznawane tylko osobom fizycznym?**: Nie, dofinansowanie na pompę ciepła może być przyznane także osobom prawnym, takim jak spółki czy stowarzyszenia, pod warunkiem że spełniają one wymagania określone przez NFOŚiGW i WFOŚiGW.
 
 ---
 

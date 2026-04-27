@@ -1,7 +1,7 @@
 ---
 title: "Artykuły o OZE, dotacjach i energii odnawialnej – pełna lista zasobów"
 description: "Kompletna lista artykułów i poradników o programach dofinansowania OZE w Polsce: Czyste Powietrze, Mój Prąd, fotowoltaika, pompy ciepła i inne."
-date: 2026-04-27T17:57:42Z
+date: 2026-04-27T18:02:00Z
 draft: false
 author: "Redakcja CzystePowietrze-Dotacje.pl"
 tags:
@@ -47,11 +47,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [lg traci 3 975 mld krw bez dotacji usa zielony rynek nie ist](https://portalozepl.mataroa.blog/blog/lg-traci-3-975-mld-krw-bez-dotacji-usa-zielony-rynek-nie-istnieje-bez-panstwa/)
 - [lg traci 3 975 mld krw bez dotacji usa zielony rynek nie ist](https://solarnefinancepl.mataroa.blog/blog/lg-traci-3-975-mld-krw-bez-dotacji-usa-zielony-rynek-nie-istnieje-bez-panstwa/)
 - [lg traci 3 975 mld krw bez dotacji usa zielony rynek nie ist](https://ecoaudytapp.mataroa.blog/blog/lg-traci-3-975-mld-krw-bez-dotacji-usa-zielony-rynek-nie-istnieje-bez-panstwa/)
-- [zpl oze f235e2](https://rentry.co/zpl-oze-f235e2)
-- [zpl eco f235e2](https://rentry.co/zpl-eco-f235e2)
-- [zpl krt f235e2](https://rentry.co/zpl-krt-f235e2)
-- [zpl ene f235e2](https://rentry.co/zpl-ene-f235e2)
-- [zpl sol f235e2](https://rentry.co/zpl-sol-f235e2)
 - [LG traci 3 975 mld KRW bez dotacji USA Zielony rynek nie ist](https://telegra.ph/LG-traci-3-975-mld-KRW-bez-dotacji-USA-Zielony-rynek-nie-istnieje-bez-państwa-04-09)
 - [LG traci 3 975 mld KRW bez dotacji USA Zielony rynek nie ist](https://telegra.ph/LG-traci-3-975-mld-KRW-bez-dotacji-USA-Zielony-rynek-nie-istnieje-bez-państwa-04-09-2)
 - [LG traci 3 975 mld KRW bez dotacji USA Zielony rynek nie ist](https://telegra.ph/LG-traci-3-975-mld-KRW-bez-dotacji-USA-Zielony-rynek-nie-istnieje-bez-państwa-04-09-3)
@@ -60,6 +55,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [LG traci 3 975 mld KRW bez dotacji USA Zielony rynek nie ist](https://telegra.ph/LG-traci-3-975-mld-KRW-bez-dotacji-USA-Zielony-rynek-nie-istnieje-bez-państwa-04-09-6)
 - [LG traci 3 975 mld KRW bez dotacji USA Zielony rynek nie ist](https://telegra.ph/LG-traci-3-975-mld-KRW-bez-dotacji-USA-Zielony-rynek-nie-istnieje-bez-państwa-04-09-7)
 - [LG traci 3 975 mld KRW bez dotacji USA Zielony rynek nie ist](https://telegra.ph/LG-traci-3-975-mld-KRW-bez-dotacji-USA-Zielony-rynek-nie-istnieje-bez-państwa-04-09-8)
+- [zpl oze f235e2](https://rentry.co/zpl-oze-f235e2)
+- [zpl eco f235e2](https://rentry.co/zpl-eco-f235e2)
+- [zpl krt f235e2](https://rentry.co/zpl-krt-f235e2)
+- [zpl ene f235e2](https://rentry.co/zpl-ene-f235e2)
+- [zpl sol f235e2](https://rentry.co/zpl-sol-f235e2)
 
 ## Chiny nie dbają o klimat — budują monopol infrastrukturalny za 400 mld $
 
@@ -86,11 +86,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [chiny nie dbaja o klimat buduja monopol infrastrukturalny za](https://portalozepl.mataroa.blog/blog/chiny-nie-dbaja-o-klimat-buduja-monopol-infrastrukturalny-za-400-mld/)
 - [chiny nie dbaja o klimat buduja monopol infrastrukturalny za](https://solarnefinancepl.mataroa.blog/blog/chiny-nie-dbaja-o-klimat-buduja-monopol-infrastrukturalny-za-400-mld/)
 - [chiny nie dbaja o klimat buduja monopol infrastrukturalny za](https://ecoaudytapp.mataroa.blog/blog/chiny-nie-dbaja-o-klimat-buduja-monopol-infrastrukturalny-za-400-mld/)
-- [zpl oze 1f1a67](https://rentry.co/zpl-oze-1f1a67)
-- [zpl eco 1f1a67](https://rentry.co/zpl-eco-1f1a67)
-- [zpl krt 1f1a67](https://rentry.co/zpl-krt-1f1a67)
-- [zpl ene 1f1a67](https://rentry.co/zpl-ene-1f1a67)
-- [zpl sol 1f1a67](https://rentry.co/zpl-sol-1f1a67)
 - [Chiny nie dbają o klimat  budują monopol infrastrukturalny z](https://telegra.ph/Chiny-nie-dbają-o-klimat--budują-monopol-infrastrukturalny-za-400-mld-04-09)
 - [Chiny nie dbają o klimat  budują monopol infrastrukturalny z](https://telegra.ph/Chiny-nie-dbają-o-klimat--budują-monopol-infrastrukturalny-za-400-mld-04-09-2)
 - [Chiny nie dbają o klimat  budują monopol infrastrukturalny z](https://telegra.ph/Chiny-nie-dbają-o-klimat--budują-monopol-infrastrukturalny-za-400-mld-04-09-3)
@@ -99,6 +94,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Chiny nie dbają o klimat  budują monopol infrastrukturalny z](https://telegra.ph/Chiny-nie-dbają-o-klimat--budują-monopol-infrastrukturalny-za-400-mld-04-09-6)
 - [Chiny nie dbają o klimat  budują monopol infrastrukturalny z](https://telegra.ph/Chiny-nie-dbają-o-klimat--budują-monopol-infrastrukturalny-za-400-mld-04-09-7)
 - [Chiny nie dbają o klimat  budują monopol infrastrukturalny z](https://telegra.ph/Chiny-nie-dbają-o-klimat--budują-monopol-infrastrukturalny-za-400-mld-04-09-8)
+- [zpl oze 1f1a67](https://rentry.co/zpl-oze-1f1a67)
+- [zpl eco 1f1a67](https://rentry.co/zpl-eco-1f1a67)
+- [zpl krt 1f1a67](https://rentry.co/zpl-krt-1f1a67)
+- [zpl ene 1f1a67](https://rentry.co/zpl-ene-1f1a67)
+- [zpl sol 1f1a67](https://rentry.co/zpl-sol-1f1a67)
 
 ## Flow batteries wracają do gry. Rynek szuka magazynów, które wytrzymają dłużej niż klasyczne BESS
 
@@ -106,7 +106,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [flow batteries wracaj do gry rynek szuka magazyn w kt re wyt](https://solarfinance.pl/2026/04/22/flow-batteries-wracaj-do-gry-rynek-szuka-magazyn-w-kt-re-wyt/)
 - [flow batteries wracaja do gry rynek szuka magazynow ktore wy](https://worldofozepoland.hashnode.dev/flow-batteries-wracaja-do-gry-rynek-szuka-magazynow-ktore-wytrzymaja-dluzej-niz-klasyczne-bess)
 - [flow batteries wracaja do gry rynek szuka magazynow ktore wy](https://localozepoland.hashnode.dev/flow-batteries-wracaja-do-gry-rynek-szuka-magazynow-ktore-wytrzymaja-dluzej-niz-klasyczne-bess)
 - [flow batteries wracaja do gry rynek szuka magazynow ktore wy](https://kasiasearchingpv.hashnode.dev/flow-batteries-wracaja-do-gry-rynek-szuka-magazynow-ktore-wytrzymaja-dluzej-niz-klasyczne-bess)
@@ -119,11 +118,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [flow batteries wracaja do gry rynek szuka magazynow ktore wy](https://tomekwanttoinstalpc.hashnode.dev/flow-batteries-wracaja-do-gry-rynek-szuka-magazynow-ktore-wytrzymaja-dluzej-niz-klasyczne-bess)
 - [flow batteries wracaja do gry rynek szuka magazynow ktore wy](https://electricycarpoland.hashnode.dev/flow-batteries-wracaja-do-gry-rynek-szuka-magazynow-ktore-wytrzymaja-dluzej-niz-klasyczne-bess)
 - [flow batteries wracaja do gry rynek szuka magazynow ktore wy](https://effectiveone.mataroa.blog/blog/flow-batteries-wracaja-do-gry-rynek-szuka-magazynow-ktore-wytrzymaja-duzej-niz-klasyczne-bess/)
-- [zpl oze 92022d](https://rentry.co/zpl-oze-92022d)
-- [zpl eco 92022d](https://rentry.co/zpl-eco-92022d)
-- [zpl krt 92022d](https://rentry.co/zpl-krt-92022d)
-- [zpl ene 92022d](https://rentry.co/zpl-ene-92022d)
-- [zpl sol 92022d](https://rentry.co/zpl-sol-92022d)
+- [flow batteries wracaj do gry rynek szuka magazyn w kt re wyt](https://solarfinance.pl/2026/04/22/flow-batteries-wracaj-do-gry-rynek-szuka-magazyn-w-kt-re-wyt/)
 - [Flow batteries wracają do gry Rynek szuka magazynów które wy](https://telegra.ph/Flow-batteries-wracają-do-gry-Rynek-szuka-magazynów-które-wytrzymają-dłużej-niż-klasyczne-BESS-04-22)
 - [Flow batteries wracają do gry Rynek szuka magazynów które wy](https://telegra.ph/Flow-batteries-wracają-do-gry-Rynek-szuka-magazynów-które-wytrzymają-dłużej-niż-klasyczne-BESS-04-22-2)
 - [Flow batteries wracają do gry Rynek szuka magazynów które wy](https://telegra.ph/Flow-batteries-wracają-do-gry-Rynek-szuka-magazynów-które-wytrzymają-dłużej-niż-klasyczne-BESS-04-22-3)
@@ -132,6 +127,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Flow batteries wracają do gry Rynek szuka magazynów które wy](https://telegra.ph/Flow-batteries-wracają-do-gry-Rynek-szuka-magazynów-które-wytrzymają-dłużej-niż-klasyczne-BESS-04-22-6)
 - [Flow batteries wracają do gry Rynek szuka magazynów które wy](https://telegra.ph/Flow-batteries-wracają-do-gry-Rynek-szuka-magazynów-które-wytrzymają-dłużej-niż-klasyczne-BESS-04-22-7)
 - [Flow batteries wracają do gry Rynek szuka magazynów które wy](https://telegra.ph/Flow-batteries-wracają-do-gry-Rynek-szuka-magazynów-które-wytrzymają-dłużej-niż-klasyczne-BESS-04-22-8)
+- [zpl oze 92022d](https://rentry.co/zpl-oze-92022d)
+- [zpl eco 92022d](https://rentry.co/zpl-eco-92022d)
+- [zpl krt 92022d](https://rentry.co/zpl-krt-92022d)
+- [zpl ene 92022d](https://rentry.co/zpl-ene-92022d)
+- [zpl sol 92022d](https://rentry.co/zpl-sol-92022d)
 
 ## Sieć stała się wąskim gardłem transformacji. Projekty OZE są gotowe, ale system nie nadąża z przyłączeniami
 
@@ -139,7 +139,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [sie sta a si w skim gard em transformacji projekty oze s got](https://solarfinance.pl/2026/04/22/sie-sta-a-si-w-skim-gard-em-transformacji-projekty-oze-s-got/)
 - [siec stala sie waskim gardlem transformacji projekty oze sa ](https://worldofozepoland.hashnode.dev/siec-stala-sie-waskim-gardlem-transformacji-projekty-oze-sa-gotowe-ale-system-nie-nadaza-z-przylaczeniami)
 - [siec stala sie waskim gardlem transformacji projekty oze sa ](https://localozepoland.hashnode.dev/siec-stala-sie-waskim-gardlem-transformacji-projekty-oze-sa-gotowe-ale-system-nie-nadaza-z-przylaczeniami)
 - [siec stala sie waskim gardlem transformacji projekty oze sa ](https://kasiasearchingpv.hashnode.dev/siec-stala-sie-waskim-gardlem-transformacji-projekty-oze-sa-gotowe-ale-system-nie-nadaza-z-przylaczeniami)
@@ -152,11 +151,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [siec stala sie waskim gardlem transformacji projekty oze sa ](https://tomekwanttoinstalpc.hashnode.dev/siec-stala-sie-waskim-gardlem-transformacji-projekty-oze-sa-gotowe-ale-system-nie-nadaza-z-przylaczeniami)
 - [siec stala sie waskim gardlem transformacji projekty oze sa ](https://electricycarpoland.hashnode.dev/siec-stala-sie-waskim-gardlem-transformacji-projekty-oze-sa-gotowe-ale-system-nie-nadaza-z-przylaczeniami)
 - [siec staa sie waskim gardem transformacji projekty oze sa go](https://effectiveone.mataroa.blog/blog/siec-staa-sie-waskim-gardem-transformacji-projekty-oze-sa-gotowe-ale-system-nie-nadaza-z-przyaczeniami/)
-- [zpl oze e6e536](https://rentry.co/zpl-oze-e6e536)
-- [zpl eco e6e536](https://rentry.co/zpl-eco-e6e536)
-- [zpl krt e6e536](https://rentry.co/zpl-krt-e6e536)
-- [zpl ene e6e536](https://rentry.co/zpl-ene-e6e536)
-- [zpl sol e6e536](https://rentry.co/zpl-sol-e6e536)
+- [sie sta a si w skim gard em transformacji projekty oze s got](https://solarfinance.pl/2026/04/22/sie-sta-a-si-w-skim-gard-em-transformacji-projekty-oze-s-got/)
 - [Sieć stała się wąskim gardłem transformacji Projekty OZE są ](https://telegra.ph/Sieć-stała-się-wąskim-gardłem-transformacji-Projekty-OZE-są-gotowe-ale-system-nie-nadąża-z-przyłączeniami-04-22)
 - [Sieć stała się wąskim gardłem transformacji Projekty OZE są ](https://telegra.ph/Sieć-stała-się-wąskim-gardłem-transformacji-Projekty-OZE-są-gotowe-ale-system-nie-nadąża-z-przyłączeniami-04-22-2)
 - [Sieć stała się wąskim gardłem transformacji Projekty OZE są ](https://telegra.ph/Sieć-stała-się-wąskim-gardłem-transformacji-Projekty-OZE-są-gotowe-ale-system-nie-nadąża-z-przyłączeniami-04-22-3)
@@ -165,6 +160,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Sieć stała się wąskim gardłem transformacji Projekty OZE są ](https://telegra.ph/Sieć-stała-się-wąskim-gardłem-transformacji-Projekty-OZE-są-gotowe-ale-system-nie-nadąża-z-przyłączeniami-04-22-6)
 - [Sieć stała się wąskim gardłem transformacji Projekty OZE są ](https://telegra.ph/Sieć-stała-się-wąskim-gardłem-transformacji-Projekty-OZE-są-gotowe-ale-system-nie-nadąża-z-przyłączeniami-04-22-7)
 - [Sieć stała się wąskim gardłem transformacji Projekty OZE są ](https://telegra.ph/Sieć-stała-się-wąskim-gardłem-transformacji-Projekty-OZE-są-gotowe-ale-system-nie-nadąża-z-przyłączeniami-04-22-8)
+- [zpl oze e6e536](https://rentry.co/zpl-oze-e6e536)
+- [zpl eco e6e536](https://rentry.co/zpl-eco-e6e536)
+- [zpl krt e6e536](https://rentry.co/zpl-krt-e6e536)
+- [zpl ene e6e536](https://rentry.co/zpl-ene-e6e536)
+- [zpl sol e6e536](https://rentry.co/zpl-sol-e6e536)
 
 ## REPowerEU w połowie drogi. Unia przyspieszyła, ale sieci i tempo wdrożeń nadal nie nadążają
 
@@ -172,7 +172,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [repowereu w po owie drogi unia przyspieszy a ale sieci i tem](https://solarfinance.pl/2026/04/22/repowereu-w-po-owie-drogi-unia-przyspieszy-a-ale-sieci-i-tem/)
 - [repowereu w polowie drogi unia przyspieszyla ale sieci i tem](https://worldofozepoland.hashnode.dev/repowereu-w-polowie-drogi-unia-przyspieszyla-ale-sieci-i-tempo-wdrozen-nadal-nie-nadazaja)
 - [repowereu w polowie drogi unia przyspieszyla ale sieci i tem](https://localozepoland.hashnode.dev/repowereu-w-polowie-drogi-unia-przyspieszyla-ale-sieci-i-tempo-wdrozen-nadal-nie-nadazaja)
 - [repowereu w polowie drogi unia przyspieszyla ale sieci i tem](https://kasiasearchingpv.hashnode.dev/repowereu-w-polowie-drogi-unia-przyspieszyla-ale-sieci-i-tempo-wdrozen-nadal-nie-nadazaja)
@@ -185,11 +184,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [repowereu w polowie drogi unia przyspieszyla ale sieci i tem](https://tomekwanttoinstalpc.hashnode.dev/repowereu-w-polowie-drogi-unia-przyspieszyla-ale-sieci-i-tempo-wdrozen-nadal-nie-nadazaja)
 - [repowereu w polowie drogi unia przyspieszyla ale sieci i tem](https://electricycarpoland.hashnode.dev/repowereu-w-polowie-drogi-unia-przyspieszyla-ale-sieci-i-tempo-wdrozen-nadal-nie-nadazaja)
 - [repowereu w poowie drogi unia przyspieszya ale sieci i tempo](https://effectiveone.mataroa.blog/blog/repowereu-w-poowie-drogi-unia-przyspieszya-ale-sieci-i-tempo-wdrozen-nadal-nie-nadazaja/)
-- [zpl oze 27b0bd](https://rentry.co/zpl-oze-27b0bd)
-- [zpl eco 27b0bd](https://rentry.co/zpl-eco-27b0bd)
-- [zpl krt 27b0bd](https://rentry.co/zpl-krt-27b0bd)
-- [zpl ene 27b0bd](https://rentry.co/zpl-ene-27b0bd)
-- [zpl sol 27b0bd](https://rentry.co/zpl-sol-27b0bd)
+- [repowereu w po owie drogi unia przyspieszy a ale sieci i tem](https://solarfinance.pl/2026/04/22/repowereu-w-po-owie-drogi-unia-przyspieszy-a-ale-sieci-i-tem/)
 - [REPowerEU w połowie drogi Unia przyspieszyła ale sieci i tem](https://telegra.ph/REPowerEU-w-połowie-drogi-Unia-przyspieszyła-ale-sieci-i-tempo-wdrożeń-nadal-nie-nadążają-04-22)
 - [REPowerEU w połowie drogi Unia przyspieszyła ale sieci i tem](https://telegra.ph/REPowerEU-w-połowie-drogi-Unia-przyspieszyła-ale-sieci-i-tempo-wdrożeń-nadal-nie-nadążają-04-22-2)
 - [REPowerEU w połowie drogi Unia przyspieszyła ale sieci i tem](https://telegra.ph/REPowerEU-w-połowie-drogi-Unia-przyspieszyła-ale-sieci-i-tempo-wdrożeń-nadal-nie-nadążają-04-22-3)
@@ -198,6 +193,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [REPowerEU w połowie drogi Unia przyspieszyła ale sieci i tem](https://telegra.ph/REPowerEU-w-połowie-drogi-Unia-przyspieszyła-ale-sieci-i-tempo-wdrożeń-nadal-nie-nadążają-04-22-6)
 - [REPowerEU w połowie drogi Unia przyspieszyła ale sieci i tem](https://telegra.ph/REPowerEU-w-połowie-drogi-Unia-przyspieszyła-ale-sieci-i-tempo-wdrożeń-nadal-nie-nadążają-04-22-7)
 - [REPowerEU w połowie drogi Unia przyspieszyła ale sieci i tem](https://telegra.ph/REPowerEU-w-połowie-drogi-Unia-przyspieszyła-ale-sieci-i-tempo-wdrożeń-nadal-nie-nadążają-04-22-8)
+- [zpl oze 27b0bd](https://rentry.co/zpl-oze-27b0bd)
+- [zpl eco 27b0bd](https://rentry.co/zpl-eco-27b0bd)
+- [zpl krt 27b0bd](https://rentry.co/zpl-krt-27b0bd)
+- [zpl ene 27b0bd](https://rentry.co/zpl-ene-27b0bd)
+- [zpl sol 27b0bd](https://rentry.co/zpl-sol-27b0bd)
 
 ## Baterie stały się infrastrukturą krytyczną. Świat buduje BESS nie jako dodatek, tylko warunek działania systemu
 
@@ -205,7 +205,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [baterie sta y si infrastruktur krytyczn wiat buduje bess nie](https://solarfinance.pl/2026/04/22/baterie-sta-y-si-infrastruktur-krytyczn-wiat-buduje-bess-nie/)
 - [baterie staly sie infrastruktura krytyczna swiat buduje bess](https://worldofozepoland.hashnode.dev/baterie-staly-sie-infrastruktura-krytyczna-swiat-buduje-bess-nie-jako-dodatek-tylko-warunek-dzialania-systemu-1)
 - [baterie staly sie infrastruktura krytyczna swiat buduje bess](https://localozepoland.hashnode.dev/baterie-staly-sie-infrastruktura-krytyczna-swiat-buduje-bess-nie-jako-dodatek-tylko-warunek-dzialania-systemu-1)
 - [baterie staly sie infrastruktura krytyczna swiat buduje bess](https://kasiasearchingpv.hashnode.dev/baterie-staly-sie-infrastruktura-krytyczna-swiat-buduje-bess-nie-jako-dodatek-tylko-warunek-dzialania-systemu-1)
@@ -218,11 +217,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [baterie staly sie infrastruktura krytyczna swiat buduje bess](https://tomekwanttoinstalpc.hashnode.dev/baterie-staly-sie-infrastruktura-krytyczna-swiat-buduje-bess-nie-jako-dodatek-tylko-warunek-dzialania-systemu-1)
 - [baterie staly sie infrastruktura krytyczna swiat buduje bess](https://electricycarpoland.hashnode.dev/baterie-staly-sie-infrastruktura-krytyczna-swiat-buduje-bess-nie-jako-dodatek-tylko-warunek-dzialania-systemu-1)
 - [baterie stay sie infrastruktura krytyczna swiat buduje bess ](https://effectiveone.mataroa.blog/blog/baterie-stay-sie-infrastruktura-krytyczna-swiat-buduje-bess-nie-jako-dodatek-tylko-warunek-dziaania-systemu-d17c9876/)
-- [zpl oze ee36b3](https://rentry.co/zpl-oze-ee36b3)
-- [zpl eco ee36b3](https://rentry.co/zpl-eco-ee36b3)
-- [zpl krt ee36b3](https://rentry.co/zpl-krt-ee36b3)
-- [zpl ene ee36b3](https://rentry.co/zpl-ene-ee36b3)
-- [zpl sol ee36b3](https://rentry.co/zpl-sol-ee36b3)
+- [baterie sta y si infrastruktur krytyczn wiat buduje bess nie](https://solarfinance.pl/2026/04/22/baterie-sta-y-si-infrastruktur-krytyczn-wiat-buduje-bess-nie/)
 - [Baterie stały się infrastrukturą krytyczną Świat buduje BESS](https://telegra.ph/Baterie-stały-się-infrastrukturą-krytyczną-Świat-buduje-BESS-nie-jako-dodatek-tylko-warunek-działania-systemu-04-22)
 - [Baterie stały się infrastrukturą krytyczną Świat buduje BESS](https://telegra.ph/Baterie-stały-się-infrastrukturą-krytyczną-Świat-buduje-BESS-nie-jako-dodatek-tylko-warunek-działania-systemu-04-22-2)
 - [Baterie stały się infrastrukturą krytyczną Świat buduje BESS](https://telegra.ph/Baterie-stały-się-infrastrukturą-krytyczną-Świat-buduje-BESS-nie-jako-dodatek-tylko-warunek-działania-systemu-04-22-3)
@@ -231,6 +226,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Baterie stały się infrastrukturą krytyczną Świat buduje BESS](https://telegra.ph/Baterie-stały-się-infrastrukturą-krytyczną-Świat-buduje-BESS-nie-jako-dodatek-tylko-warunek-działania-systemu-04-22-6)
 - [Baterie stały się infrastrukturą krytyczną Świat buduje BESS](https://telegra.ph/Baterie-stały-się-infrastrukturą-krytyczną-Świat-buduje-BESS-nie-jako-dodatek-tylko-warunek-działania-systemu-04-22-7)
 - [Baterie stały się infrastrukturą krytyczną Świat buduje BESS](https://telegra.ph/Baterie-stały-się-infrastrukturą-krytyczną-Świat-buduje-BESS-nie-jako-dodatek-tylko-warunek-działania-systemu-04-22-8)
+- [zpl oze ee36b3](https://rentry.co/zpl-oze-ee36b3)
+- [zpl eco ee36b3](https://rentry.co/zpl-eco-ee36b3)
+- [zpl krt ee36b3](https://rentry.co/zpl-krt-ee36b3)
+- [zpl ene ee36b3](https://rentry.co/zpl-ene-ee36b3)
+- [zpl sol ee36b3](https://rentry.co/zpl-sol-ee36b3)
 
 ## Słońce rządzi rynkiem energii — po raz pierwszy PV odpowiada za ponad 25% wzrostu globalnego popytu
 
@@ -238,7 +238,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [s o ce rz dzi rynkiem energii po raz pierwszy pv odpowiada z](https://solarfinance.pl/2026/04/22/s-o-ce-rz-dzi-rynkiem-energii-po-raz-pierwszy-pv-odpowiada-z/)
 - [slonce rzadzi rynkiem energii po raz pierwszy pv odpowiada z](https://worldofozepoland.hashnode.dev/slonce-rzadzi-rynkiem-energii-po-raz-pierwszy-pv-odpowiada-za-ponad-25-wzrostu-globalnego-popytu)
 - [slonce rzadzi rynkiem energii po raz pierwszy pv odpowiada z](https://localozepoland.hashnode.dev/slonce-rzadzi-rynkiem-energii-po-raz-pierwszy-pv-odpowiada-za-ponad-25-wzrostu-globalnego-popytu)
 - [slonce rzadzi rynkiem energii po raz pierwszy pv odpowiada z](https://kasiasearchingpv.hashnode.dev/slonce-rzadzi-rynkiem-energii-po-raz-pierwszy-pv-odpowiada-za-ponad-25-wzrostu-globalnego-popytu)
@@ -251,11 +250,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [slonce rzadzi rynkiem energii po raz pierwszy pv odpowiada z](https://tomekwanttoinstalpc.hashnode.dev/slonce-rzadzi-rynkiem-energii-po-raz-pierwszy-pv-odpowiada-za-ponad-25-wzrostu-globalnego-popytu)
 - [slonce rzadzi rynkiem energii po raz pierwszy pv odpowiada z](https://electricycarpoland.hashnode.dev/slonce-rzadzi-rynkiem-energii-po-raz-pierwszy-pv-odpowiada-za-ponad-25-wzrostu-globalnego-popytu)
 - [sonce rzadzi rynkiem energii po raz pierwszy pv odpowiada za](https://effectiveone.mataroa.blog/blog/sonce-rzadzi-rynkiem-energii-po-raz-pierwszy-pv-odpowiada-za-ponad-25-wzrostu-globalnego-popytu/)
-- [zpl oze 58359f](https://rentry.co/zpl-oze-58359f)
-- [zpl eco 58359f](https://rentry.co/zpl-eco-58359f)
-- [zpl krt 58359f](https://rentry.co/zpl-krt-58359f)
-- [zpl ene 58359f](https://rentry.co/zpl-ene-58359f)
-- [zpl sol 58359f](https://rentry.co/zpl-sol-58359f)
+- [s o ce rz dzi rynkiem energii po raz pierwszy pv odpowiada z](https://solarfinance.pl/2026/04/22/s-o-ce-rz-dzi-rynkiem-energii-po-raz-pierwszy-pv-odpowiada-z/)
 - [Słońce rządzi rynkiem energii  po raz pierwszy PV odpowiada ](https://telegra.ph/Słońce-rządzi-rynkiem-energii--po-raz-pierwszy-PV-odpowiada-za-ponad-25-wzrostu-globalnego-popytu-04-22)
 - [Słońce rządzi rynkiem energii  po raz pierwszy PV odpowiada ](https://telegra.ph/Słońce-rządzi-rynkiem-energii--po-raz-pierwszy-PV-odpowiada-za-ponad-25-wzrostu-globalnego-popytu-04-22-2)
 - [Słońce rządzi rynkiem energii  po raz pierwszy PV odpowiada ](https://telegra.ph/Słońce-rządzi-rynkiem-energii--po-raz-pierwszy-PV-odpowiada-za-ponad-25-wzrostu-globalnego-popytu-04-22-3)
@@ -264,6 +259,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Słońce rządzi rynkiem energii  po raz pierwszy PV odpowiada ](https://telegra.ph/Słońce-rządzi-rynkiem-energii--po-raz-pierwszy-PV-odpowiada-za-ponad-25-wzrostu-globalnego-popytu-04-22-6)
 - [Słońce rządzi rynkiem energii  po raz pierwszy PV odpowiada ](https://telegra.ph/Słońce-rządzi-rynkiem-energii--po-raz-pierwszy-PV-odpowiada-za-ponad-25-wzrostu-globalnego-popytu-04-22-7)
 - [Słońce rządzi rynkiem energii  po raz pierwszy PV odpowiada ](https://telegra.ph/Słońce-rządzi-rynkiem-energii--po-raz-pierwszy-PV-odpowiada-za-ponad-25-wzrostu-globalnego-popytu-04-22-8)
+- [zpl oze 58359f](https://rentry.co/zpl-oze-58359f)
+- [zpl eco 58359f](https://rentry.co/zpl-eco-58359f)
+- [zpl krt 58359f](https://rentry.co/zpl-krt-58359f)
+- [zpl ene 58359f](https://rentry.co/zpl-ene-58359f)
+- [zpl sol 58359f](https://rentry.co/zpl-sol-58359f)
 
 ## Zielony wodór w Europie Środkowej — Polska i Węgry chcą wspólnie budować system aukcji
 
@@ -271,7 +271,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [zielony wod r w europie rodkowej polska i w gry chc wsp lnie](https://solarfinance.pl/2026/04/22/zielony-wod-r-w-europie-rodkowej-polska-i-w-gry-chc-wsp-lnie/)
 - [zielony wodor w europie srodkowej polska i wegry chca wspoln](https://worldofozepoland.hashnode.dev/zielony-wodor-w-europie-srodkowej-polska-i-wegry-chca-wspolnie-budowac-system-aukcji)
 - [zielony wodor w europie srodkowej polska i wegry chca wspoln](https://localozepoland.hashnode.dev/zielony-wodor-w-europie-srodkowej-polska-i-wegry-chca-wspolnie-budowac-system-aukcji)
 - [zielony wodor w europie srodkowej polska i wegry chca wspoln](https://kasiasearchingpv.hashnode.dev/zielony-wodor-w-europie-srodkowej-polska-i-wegry-chca-wspolnie-budowac-system-aukcji)
@@ -284,11 +283,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [zielony wodor w europie srodkowej polska i wegry chca wspoln](https://tomekwanttoinstalpc.hashnode.dev/zielony-wodor-w-europie-srodkowej-polska-i-wegry-chca-wspolnie-budowac-system-aukcji)
 - [zielony wodor w europie srodkowej polska i wegry chca wspoln](https://electricycarpoland.hashnode.dev/zielony-wodor-w-europie-srodkowej-polska-i-wegry-chca-wspolnie-budowac-system-aukcji)
 - [zielony wodor w europie srodkowej polska i wegry chca wspoln](https://effectiveone.mataroa.blog/blog/zielony-wodor-w-europie-srodkowej-polska-i-wegry-chca-wspolnie-budowac-system-aukcji/)
-- [zpl oze af4c14](https://rentry.co/zpl-oze-af4c14)
-- [zpl eco af4c14](https://rentry.co/zpl-eco-af4c14)
-- [zpl krt af4c14](https://rentry.co/zpl-krt-af4c14)
-- [zpl ene af4c14](https://rentry.co/zpl-ene-af4c14)
-- [zpl sol af4c14](https://rentry.co/zpl-sol-af4c14)
+- [zielony wod r w europie rodkowej polska i w gry chc wsp lnie](https://solarfinance.pl/2026/04/22/zielony-wod-r-w-europie-rodkowej-polska-i-w-gry-chc-wsp-lnie/)
 - [Zielony wodór w Europie Środkowej  Polska i Węgry chcą wspól](https://telegra.ph/Zielony-wodór-w-Europie-Środkowej--Polska-i-Węgry-chcą-wspólnie-budować-system-aukcji-04-22)
 - [Zielony wodór w Europie Środkowej  Polska i Węgry chcą wspól](https://telegra.ph/Zielony-wodór-w-Europie-Środkowej--Polska-i-Węgry-chcą-wspólnie-budować-system-aukcji-04-22-2)
 - [Zielony wodór w Europie Środkowej  Polska i Węgry chcą wspól](https://telegra.ph/Zielony-wodór-w-Europie-Środkowej--Polska-i-Węgry-chcą-wspólnie-budować-system-aukcji-04-22-3)
@@ -297,6 +292,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Zielony wodór w Europie Środkowej  Polska i Węgry chcą wspól](https://telegra.ph/Zielony-wodór-w-Europie-Środkowej--Polska-i-Węgry-chcą-wspólnie-budować-system-aukcji-04-22-6)
 - [Zielony wodór w Europie Środkowej  Polska i Węgry chcą wspól](https://telegra.ph/Zielony-wodór-w-Europie-Środkowej--Polska-i-Węgry-chcą-wspólnie-budować-system-aukcji-04-22-7)
 - [Zielony wodór w Europie Środkowej  Polska i Węgry chcą wspól](https://telegra.ph/Zielony-wodór-w-Europie-Środkowej--Polska-i-Węgry-chcą-wspólnie-budować-system-aukcji-04-22-8)
+- [zpl oze af4c14](https://rentry.co/zpl-oze-af4c14)
+- [zpl eco af4c14](https://rentry.co/zpl-eco-af4c14)
+- [zpl krt af4c14](https://rentry.co/zpl-krt-af4c14)
+- [zpl ene af4c14](https://rentry.co/zpl-ene-af4c14)
+- [zpl sol af4c14](https://rentry.co/zpl-sol-af4c14)
 
 ## Europa straciła rynek paneli PV na rzecz Chin. Czy teraz straci elektrolizery — i co to może zmienić dla cen zielonego wodoru w firmach i domach?
 
@@ -304,7 +304,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [europa straci a rynek paneli pv na rzecz chin czy teraz stra](https://solarfinance.pl/2026/04/22/europa-straci-a-rynek-paneli-pv-na-rzecz-chin-czy-teraz-stra/)
 - [europa stracila rynek paneli pv na rzecz chin czy teraz stra](https://worldofozepoland.hashnode.dev/europa-stracila-rynek-paneli-pv-na-rzecz-chin-czy-teraz-straci-elektrolizery-i-co-to-moze-zmienic-dla-cen-zielonego-wodoru-w-firmach-i-domach)
 - [europa stracila rynek paneli pv na rzecz chin czy teraz stra](https://localozepoland.hashnode.dev/europa-stracila-rynek-paneli-pv-na-rzecz-chin-czy-teraz-straci-elektrolizery-i-co-to-moze-zmienic-dla-cen-zielonego-wodoru-w-firmach-i-domach)
 - [europa stracila rynek paneli pv na rzecz chin czy teraz stra](https://kasiasearchingpv.hashnode.dev/europa-stracila-rynek-paneli-pv-na-rzecz-chin-czy-teraz-straci-elektrolizery-i-co-to-moze-zmienic-dla-cen-zielonego-wodoru-w-firmach-i-domach)
@@ -317,11 +316,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [europa stracila rynek paneli pv na rzecz chin czy teraz stra](https://tomekwanttoinstalpc.hashnode.dev/europa-stracila-rynek-paneli-pv-na-rzecz-chin-czy-teraz-straci-elektrolizery-i-co-to-moze-zmienic-dla-cen-zielonego-wodoru-w-firmach-i-domach)
 - [europa stracila rynek paneli pv na rzecz chin czy teraz stra](https://electricycarpoland.hashnode.dev/europa-stracila-rynek-paneli-pv-na-rzecz-chin-czy-teraz-straci-elektrolizery-i-co-to-moze-zmienic-dla-cen-zielonego-wodoru-w-firmach-i-domach)
 - [europa stracia rynek paneli pv na rzecz chin czy teraz strac](https://effectiveone.mataroa.blog/blog/europa-stracia-rynek-paneli-pv-na-rzecz-chin-czy-teraz-straci-elektrolizery-i-co-to-moze-zmienic-dla-cen-zielonego-wodoru-w-firmach-i-domach/)
-- [zpl oze f8f935](https://rentry.co/zpl-oze-f8f935)
-- [zpl eco f8f935](https://rentry.co/zpl-eco-f8f935)
-- [zpl krt f8f935](https://rentry.co/zpl-krt-f8f935)
-- [zpl ene f8f935](https://rentry.co/zpl-ene-f8f935)
-- [zpl sol f8f935](https://rentry.co/zpl-sol-f8f935)
+- [europa straci a rynek paneli pv na rzecz chin czy teraz stra](https://solarfinance.pl/2026/04/22/europa-straci-a-rynek-paneli-pv-na-rzecz-chin-czy-teraz-stra/)
 - [Europa straciła rynek paneli PV na rzecz Chin Czy teraz stra](https://telegra.ph/Europa-straciła-rynek-paneli-PV-na-rzecz-Chin-Czy-teraz-straci-elektrolizery--i-co-to-może-zmienić-dla-cen-zielonego-wodoru-w-fi-04-22)
 - [Europa straciła rynek paneli PV na rzecz Chin Czy teraz stra](https://telegra.ph/Europa-straciła-rynek-paneli-PV-na-rzecz-Chin-Czy-teraz-straci-elektrolizery--i-co-to-może-zmienić-dla-cen-zielonego-wodoru-w-fi-04-22-2)
 - [Europa straciła rynek paneli PV na rzecz Chin Czy teraz stra](https://telegra.ph/Europa-straciła-rynek-paneli-PV-na-rzecz-Chin-Czy-teraz-straci-elektrolizery--i-co-to-może-zmienić-dla-cen-zielonego-wodoru-w-fi-04-22-3)
@@ -330,6 +325,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Europa straciła rynek paneli PV na rzecz Chin Czy teraz stra](https://telegra.ph/Europa-straciła-rynek-paneli-PV-na-rzecz-Chin-Czy-teraz-straci-elektrolizery--i-co-to-może-zmienić-dla-cen-zielonego-wodoru-w-fi-04-22-6)
 - [Europa straciła rynek paneli PV na rzecz Chin Czy teraz stra](https://telegra.ph/Europa-straciła-rynek-paneli-PV-na-rzecz-Chin-Czy-teraz-straci-elektrolizery--i-co-to-może-zmienić-dla-cen-zielonego-wodoru-w-fi-04-22-7)
 - [Europa straciła rynek paneli PV na rzecz Chin Czy teraz stra](https://telegra.ph/Europa-straciła-rynek-paneli-PV-na-rzecz-Chin-Czy-teraz-straci-elektrolizery--i-co-to-może-zmienić-dla-cen-zielonego-wodoru-w-fi-04-22-8)
+- [zpl oze f8f935](https://rentry.co/zpl-oze-f8f935)
+- [zpl eco f8f935](https://rentry.co/zpl-eco-f8f935)
+- [zpl krt f8f935](https://rentry.co/zpl-krt-f8f935)
+- [zpl ene f8f935](https://rentry.co/zpl-ene-f8f935)
+- [zpl sol f8f935](https://rentry.co/zpl-sol-f8f935)
 
 ## Polska zmarnowała 1,4 TWh energii z OZE w 2025 — dlaczego sieć nie nadąża za fotowoltaiką
 
@@ -337,7 +337,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [polska zmarnowa a 1 4 twh energii z oze w 2025 dlaczego sie ](https://solarfinance.pl/2026/04/22/polska-zmarnowa-a-1-4-twh-energii-z-oze-w-2025-dlaczego-sie-/)
 - [polska zmarnowala 14 twh energii z oze w 2025 dlaczego siec ](https://worldofozepoland.hashnode.dev/polska-zmarnowala-14-twh-energii-z-oze-w-2025-dlaczego-siec-nie-nadaza-za-fotowoltaika)
 - [polska zmarnowala 14 twh energii z oze w 2025 dlaczego siec ](https://localozepoland.hashnode.dev/polska-zmarnowala-14-twh-energii-z-oze-w-2025-dlaczego-siec-nie-nadaza-za-fotowoltaika)
 - [polska zmarnowala 14 twh energii z oze w 2025 dlaczego siec ](https://kasiasearchingpv.hashnode.dev/polska-zmarnowala-14-twh-energii-z-oze-w-2025-dlaczego-siec-nie-nadaza-za-fotowoltaika)
@@ -350,11 +349,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [polska zmarnowala 14 twh energii z oze w 2025 dlaczego siec ](https://tomekwanttoinstalpc.hashnode.dev/polska-zmarnowala-14-twh-energii-z-oze-w-2025-dlaczego-siec-nie-nadaza-za-fotowoltaika)
 - [polska zmarnowala 14 twh energii z oze w 2025 dlaczego siec ](https://electricycarpoland.hashnode.dev/polska-zmarnowala-14-twh-energii-z-oze-w-2025-dlaczego-siec-nie-nadaza-za-fotowoltaika)
 - [polska zmarnowaa 14 twh energii z oze w 2025 dlaczego siec n](https://effectiveone.mataroa.blog/blog/polska-zmarnowaa-14-twh-energii-z-oze-w-2025-dlaczego-siec-nie-nadaza-za-fotowoltaika/)
-- [zpl oze 1ec9f6](https://rentry.co/zpl-oze-1ec9f6)
-- [zpl eco 1ec9f6](https://rentry.co/zpl-eco-1ec9f6)
-- [zpl krt 1ec9f6](https://rentry.co/zpl-krt-1ec9f6)
-- [zpl ene 1ec9f6](https://rentry.co/zpl-ene-1ec9f6)
-- [zpl sol 1ec9f6](https://rentry.co/zpl-sol-1ec9f6)
+- [polska zmarnowa a 1 4 twh energii z oze w 2025 dlaczego sie ](https://solarfinance.pl/2026/04/22/polska-zmarnowa-a-1-4-twh-energii-z-oze-w-2025-dlaczego-sie-/)
 - [Polska zmarnowała 14 TWh energii z OZE w 2025  dlaczego sieć](https://telegra.ph/Polska-zmarnowała-14-TWh-energii-z-OZE-w-2025--dlaczego-sieć-nie-nadąża-za-fotowoltaiką-04-22)
 - [Polska zmarnowała 14 TWh energii z OZE w 2025  dlaczego sieć](https://telegra.ph/Polska-zmarnowała-14-TWh-energii-z-OZE-w-2025--dlaczego-sieć-nie-nadąża-za-fotowoltaiką-04-22-2)
 - [Polska zmarnowała 14 TWh energii z OZE w 2025  dlaczego sieć](https://telegra.ph/Polska-zmarnowała-14-TWh-energii-z-OZE-w-2025--dlaczego-sieć-nie-nadąża-za-fotowoltaiką-04-22-3)
@@ -363,6 +358,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Polska zmarnowała 14 TWh energii z OZE w 2025  dlaczego sieć](https://telegra.ph/Polska-zmarnowała-14-TWh-energii-z-OZE-w-2025--dlaczego-sieć-nie-nadąża-za-fotowoltaiką-04-22-6)
 - [Polska zmarnowała 14 TWh energii z OZE w 2025  dlaczego sieć](https://telegra.ph/Polska-zmarnowała-14-TWh-energii-z-OZE-w-2025--dlaczego-sieć-nie-nadąża-za-fotowoltaiką-04-22-7)
 - [Polska zmarnowała 14 TWh energii z OZE w 2025  dlaczego sieć](https://telegra.ph/Polska-zmarnowała-14-TWh-energii-z-OZE-w-2025--dlaczego-sieć-nie-nadąża-za-fotowoltaiką-04-22-8)
+- [zpl oze 1ec9f6](https://rentry.co/zpl-oze-1ec9f6)
+- [zpl eco 1ec9f6](https://rentry.co/zpl-eco-1ec9f6)
+- [zpl krt 1ec9f6](https://rentry.co/zpl-krt-1ec9f6)
+- [zpl ene 1ec9f6](https://rentry.co/zpl-ene-1ec9f6)
+- [zpl sol 1ec9f6](https://rentry.co/zpl-sol-1ec9f6)
 
 ## Ceny umów PPA w Europie spadają, w USA biją rekordy — raport LevelTen Q1 2026
 
@@ -370,7 +370,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [ceny um w ppa w europie spadaj w usa bij rekordy raport leve](https://solarfinance.pl/2026/04/22/ceny-um-w-ppa-w-europie-spadaj-w-usa-bij-rekordy-raport-leve/)
 - [ceny umow ppa w europie spadaja w usa bija rekordy raport le](https://worldofozepoland.hashnode.dev/ceny-umow-ppa-w-europie-spadaja-w-usa-bija-rekordy-raport-levelten-q1-2026)
 - [ceny umow ppa w europie spadaja w usa bija rekordy raport le](https://localozepoland.hashnode.dev/ceny-umow-ppa-w-europie-spadaja-w-usa-bija-rekordy-raport-levelten-q1-2026)
 - [ceny umow ppa w europie spadaja w usa bija rekordy raport le](https://kasiasearchingpv.hashnode.dev/ceny-umow-ppa-w-europie-spadaja-w-usa-bija-rekordy-raport-levelten-q1-2026)
@@ -383,11 +382,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [ceny umow ppa w europie spadaja w usa bija rekordy raport le](https://tomekwanttoinstalpc.hashnode.dev/ceny-umow-ppa-w-europie-spadaja-w-usa-bija-rekordy-raport-levelten-q1-2026)
 - [ceny umow ppa w europie spadaja w usa bija rekordy raport le](https://electricycarpoland.hashnode.dev/ceny-umow-ppa-w-europie-spadaja-w-usa-bija-rekordy-raport-levelten-q1-2026)
 - [ceny umow ppa w europie spadaja w usa bija rekordy raport le](https://effectiveone.mataroa.blog/blog/ceny-umow-ppa-w-europie-spadaja-w-usa-bija-rekordy-raport-levelten-q1-2026/)
-- [zpl oze a7aa2e](https://rentry.co/zpl-oze-a7aa2e)
-- [zpl eco a7aa2e](https://rentry.co/zpl-eco-a7aa2e)
-- [zpl krt a7aa2e](https://rentry.co/zpl-krt-a7aa2e)
-- [zpl ene a7aa2e](https://rentry.co/zpl-ene-a7aa2e)
-- [zpl sol a7aa2e](https://rentry.co/zpl-sol-a7aa2e)
+- [ceny um w ppa w europie spadaj w usa bij rekordy raport leve](https://solarfinance.pl/2026/04/22/ceny-um-w-ppa-w-europie-spadaj-w-usa-bij-rekordy-raport-leve/)
 - [Ceny umów PPA w Europie spadają w USA biją rekordy  raport L](https://telegra.ph/Ceny-umów-PPA-w-Europie-spadają-w-USA-biją-rekordy--raport-LevelTen-Q1-2026-04-22)
 - [Ceny umów PPA w Europie spadają w USA biją rekordy  raport L](https://telegra.ph/Ceny-umów-PPA-w-Europie-spadają-w-USA-biją-rekordy--raport-LevelTen-Q1-2026-04-22-2)
 - [Ceny umów PPA w Europie spadają w USA biją rekordy  raport L](https://telegra.ph/Ceny-umów-PPA-w-Europie-spadają-w-USA-biją-rekordy--raport-LevelTen-Q1-2026-04-22-3)
@@ -396,6 +391,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Ceny umów PPA w Europie spadają w USA biją rekordy  raport L](https://telegra.ph/Ceny-umów-PPA-w-Europie-spadają-w-USA-biją-rekordy--raport-LevelTen-Q1-2026-04-22-6)
 - [Ceny umów PPA w Europie spadają w USA biją rekordy  raport L](https://telegra.ph/Ceny-umów-PPA-w-Europie-spadają-w-USA-biją-rekordy--raport-LevelTen-Q1-2026-04-22-7)
 - [Ceny umów PPA w Europie spadają w USA biją rekordy  raport L](https://telegra.ph/Ceny-umów-PPA-w-Europie-spadają-w-USA-biją-rekordy--raport-LevelTen-Q1-2026-04-22-8)
+- [zpl oze a7aa2e](https://rentry.co/zpl-oze-a7aa2e)
+- [zpl eco a7aa2e](https://rentry.co/zpl-eco-a7aa2e)
+- [zpl krt a7aa2e](https://rentry.co/zpl-krt-a7aa2e)
+- [zpl ene a7aa2e](https://rentry.co/zpl-ene-a7aa2e)
+- [zpl sol a7aa2e](https://rentry.co/zpl-sol-a7aa2e)
 
 ## Morska energetyka wiatrowa przekroczyła 85 GW globalnie — a Polska buduje Baltica 2
 
@@ -403,7 +403,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [morska energetyka wiatrowa przekroczy a 85 gw globalnie a po](https://solarfinance.pl/2026/04/22/morska-energetyka-wiatrowa-przekroczy-a-85-gw-globalnie-a-po/)
 - [morska energetyka wiatrowa przekroczyla 85 gw globalnie a po](https://worldofozepoland.hashnode.dev/morska-energetyka-wiatrowa-przekroczyla-85-gw-globalnie-a-polska-buduje-baltica-2)
 - [morska energetyka wiatrowa przekroczyla 85 gw globalnie a po](https://localozepoland.hashnode.dev/morska-energetyka-wiatrowa-przekroczyla-85-gw-globalnie-a-polska-buduje-baltica-2)
 - [morska energetyka wiatrowa przekroczyla 85 gw globalnie a po](https://kasiasearchingpv.hashnode.dev/morska-energetyka-wiatrowa-przekroczyla-85-gw-globalnie-a-polska-buduje-baltica-2)
@@ -416,11 +415,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [morska energetyka wiatrowa przekroczyla 85 gw globalnie a po](https://tomekwanttoinstalpc.hashnode.dev/morska-energetyka-wiatrowa-przekroczyla-85-gw-globalnie-a-polska-buduje-baltica-2)
 - [morska energetyka wiatrowa przekroczyla 85 gw globalnie a po](https://electricycarpoland.hashnode.dev/morska-energetyka-wiatrowa-przekroczyla-85-gw-globalnie-a-polska-buduje-baltica-2)
 - [morska energetyka wiatrowa przekroczya 85 gw globalnie a pol](https://effectiveone.mataroa.blog/blog/morska-energetyka-wiatrowa-przekroczya-85-gw-globalnie-a-polska-buduje-baltica-2/)
-- [zpl oze 8d9516](https://rentry.co/zpl-oze-8d9516)
-- [zpl eco 8d9516](https://rentry.co/zpl-eco-8d9516)
-- [zpl krt 8d9516](https://rentry.co/zpl-krt-8d9516)
-- [zpl ene 8d9516](https://rentry.co/zpl-ene-8d9516)
-- [zpl sol 8d9516](https://rentry.co/zpl-sol-8d9516)
+- [morska energetyka wiatrowa przekroczy a 85 gw globalnie a po](https://solarfinance.pl/2026/04/22/morska-energetyka-wiatrowa-przekroczy-a-85-gw-globalnie-a-po/)
 - [Morska energetyka wiatrowa przekroczyła 85 GW globalnie  a P](https://telegra.ph/Morska-energetyka-wiatrowa-przekroczyła-85-GW-globalnie--a-Polska-buduje-Baltica-2-04-22)
 - [Morska energetyka wiatrowa przekroczyła 85 GW globalnie  a P](https://telegra.ph/Morska-energetyka-wiatrowa-przekroczyła-85-GW-globalnie--a-Polska-buduje-Baltica-2-04-22-2)
 - [Morska energetyka wiatrowa przekroczyła 85 GW globalnie  a P](https://telegra.ph/Morska-energetyka-wiatrowa-przekroczyła-85-GW-globalnie--a-Polska-buduje-Baltica-2-04-22-3)
@@ -429,6 +424,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Morska energetyka wiatrowa przekroczyła 85 GW globalnie  a P](https://telegra.ph/Morska-energetyka-wiatrowa-przekroczyła-85-GW-globalnie--a-Polska-buduje-Baltica-2-04-22-6)
 - [Morska energetyka wiatrowa przekroczyła 85 GW globalnie  a P](https://telegra.ph/Morska-energetyka-wiatrowa-przekroczyła-85-GW-globalnie--a-Polska-buduje-Baltica-2-04-22-7)
 - [Morska energetyka wiatrowa przekroczyła 85 GW globalnie  a P](https://telegra.ph/Morska-energetyka-wiatrowa-przekroczyła-85-GW-globalnie--a-Polska-buduje-Baltica-2-04-22-8)
+- [zpl oze 8d9516](https://rentry.co/zpl-oze-8d9516)
+- [zpl eco 8d9516](https://rentry.co/zpl-eco-8d9516)
+- [zpl krt 8d9516](https://rentry.co/zpl-krt-8d9516)
+- [zpl ene 8d9516](https://rentry.co/zpl-ene-8d9516)
+- [zpl sol 8d9516](https://rentry.co/zpl-sol-8d9516)
 
 ## Net-billing vs net-metering — co Węgry zrobiły z rozliczeniem prosumentów i czego Polska może się nauczyć
 
@@ -436,7 +436,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [net billing vs net metering co w gry zrobi y z rozliczeniem ](https://solarfinance.pl/2026/04/22/net-billing-vs-net-metering-co-w-gry-zrobi-y-z-rozliczeniem-/)
 - [net billing vs net metering co wegry zrobily z rozliczeniem ](https://worldofozepoland.hashnode.dev/net-billing-vs-net-metering-co-wegry-zrobily-z-rozliczeniem-prosumentow-i-czego-polska-moze-sie-nauczyc)
 - [net billing vs net metering co wegry zrobily z rozliczeniem ](https://localozepoland.hashnode.dev/net-billing-vs-net-metering-co-wegry-zrobily-z-rozliczeniem-prosumentow-i-czego-polska-moze-sie-nauczyc)
 - [net billing vs net metering co wegry zrobily z rozliczeniem ](https://kasiasearchingpv.hashnode.dev/net-billing-vs-net-metering-co-wegry-zrobily-z-rozliczeniem-prosumentow-i-czego-polska-moze-sie-nauczyc)
@@ -449,11 +448,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [net billing vs net metering co wegry zrobily z rozliczeniem ](https://tomekwanttoinstalpc.hashnode.dev/net-billing-vs-net-metering-co-wegry-zrobily-z-rozliczeniem-prosumentow-i-czego-polska-moze-sie-nauczyc)
 - [net billing vs net metering co wegry zrobily z rozliczeniem ](https://electricycarpoland.hashnode.dev/net-billing-vs-net-metering-co-wegry-zrobily-z-rozliczeniem-prosumentow-i-czego-polska-moze-sie-nauczyc)
 - [net billing vs net metering co wegry zrobiy z rozliczeniem p](https://effectiveone.mataroa.blog/blog/net-billing-vs-net-metering-co-wegry-zrobiy-z-rozliczeniem-prosumentow-i-czego-polska-moze-sie-nauczyc/)
-- [zpl oze 5f750f](https://rentry.co/zpl-oze-5f750f)
-- [zpl eco 5f750f](https://rentry.co/zpl-eco-5f750f)
-- [zpl krt 5f750f](https://rentry.co/zpl-krt-5f750f)
-- [zpl ene 5f750f](https://rentry.co/zpl-ene-5f750f)
-- [zpl sol 5f750f](https://rentry.co/zpl-sol-5f750f)
+- [net billing vs net metering co w gry zrobi y z rozliczeniem ](https://solarfinance.pl/2026/04/22/net-billing-vs-net-metering-co-w-gry-zrobi-y-z-rozliczeniem-/)
 - [Net billing vs net metering  co Węgry zrobiły z rozliczeniem](https://telegra.ph/Net-billing-vs-net-metering--co-Węgry-zrobiły-z-rozliczeniem-prosumentów-i-czego-Polska-może-się-nauczyć-04-22)
 - [Net billing vs net metering  co Węgry zrobiły z rozliczeniem](https://telegra.ph/Net-billing-vs-net-metering--co-Węgry-zrobiły-z-rozliczeniem-prosumentów-i-czego-Polska-może-się-nauczyć-04-22-2)
 - [Net billing vs net metering  co Węgry zrobiły z rozliczeniem](https://telegra.ph/Net-billing-vs-net-metering--co-Węgry-zrobiły-z-rozliczeniem-prosumentów-i-czego-Polska-może-się-nauczyć-04-22-3)
@@ -462,6 +457,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Net billing vs net metering  co Węgry zrobiły z rozliczeniem](https://telegra.ph/Net-billing-vs-net-metering--co-Węgry-zrobiły-z-rozliczeniem-prosumentów-i-czego-Polska-może-się-nauczyć-04-22-6)
 - [Net billing vs net metering  co Węgry zrobiły z rozliczeniem](https://telegra.ph/Net-billing-vs-net-metering--co-Węgry-zrobiły-z-rozliczeniem-prosumentów-i-czego-Polska-może-się-nauczyć-04-22-7)
 - [Net billing vs net metering  co Węgry zrobiły z rozliczeniem](https://telegra.ph/Net-billing-vs-net-metering--co-Węgry-zrobiły-z-rozliczeniem-prosumentów-i-czego-Polska-może-się-nauczyć-04-22-8)
+- [zpl oze 5f750f](https://rentry.co/zpl-oze-5f750f)
+- [zpl eco 5f750f](https://rentry.co/zpl-eco-5f750f)
+- [zpl krt 5f750f](https://rentry.co/zpl-krt-5f750f)
+- [zpl ene 5f750f](https://rentry.co/zpl-ene-5f750f)
+- [zpl sol 5f750f](https://rentry.co/zpl-sol-5f750f)
 
 ## EU ETS — czym jest europejski rynek uprawnień CO₂ i dlaczego MFW ostrzega przed jego zawieszeniem
 
@@ -469,7 +469,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [eu ets czym jest europejski rynek uprawnie co i dlaczego mfw](https://solarfinance.pl/2026/04/22/eu-ets-czym-jest-europejski-rynek-uprawnie-co-i-dlaczego-mfw/)
 - [eu ets czym jest europejski rynek uprawnien co i dlaczego mf](https://worldofozepoland.hashnode.dev/eu-ets-czym-jest-europejski-rynek-uprawnien-co-i-dlaczego-mfw-ostrzega-przed-jego-zawieszeniem)
 - [eu ets czym jest europejski rynek uprawnien co i dlaczego mf](https://localozepoland.hashnode.dev/eu-ets-czym-jest-europejski-rynek-uprawnien-co-i-dlaczego-mfw-ostrzega-przed-jego-zawieszeniem)
 - [eu ets czym jest europejski rynek uprawnien co i dlaczego mf](https://kasiasearchingpv.hashnode.dev/eu-ets-czym-jest-europejski-rynek-uprawnien-co-i-dlaczego-mfw-ostrzega-przed-jego-zawieszeniem)
@@ -482,11 +481,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [eu ets czym jest europejski rynek uprawnien co i dlaczego mf](https://tomekwanttoinstalpc.hashnode.dev/eu-ets-czym-jest-europejski-rynek-uprawnien-co-i-dlaczego-mfw-ostrzega-przed-jego-zawieszeniem)
 - [eu ets czym jest europejski rynek uprawnien co i dlaczego mf](https://electricycarpoland.hashnode.dev/eu-ets-czym-jest-europejski-rynek-uprawnien-co-i-dlaczego-mfw-ostrzega-przed-jego-zawieszeniem)
 - [eu ets czym jest europejski rynek uprawnien co2 i dlaczego m](https://effectiveone.mataroa.blog/blog/eu-ets-czym-jest-europejski-rynek-uprawnien-co2-i-dlaczego-mfw-ostrzega-przed-jego-zawieszeniem/)
-- [zpl oze f7eca5](https://rentry.co/zpl-oze-f7eca5)
-- [zpl eco f7eca5](https://rentry.co/zpl-eco-f7eca5)
-- [zpl krt f7eca5](https://rentry.co/zpl-krt-f7eca5)
-- [zpl ene f7eca5](https://rentry.co/zpl-ene-f7eca5)
-- [zpl sol f7eca5](https://rentry.co/zpl-sol-f7eca5)
+- [eu ets czym jest europejski rynek uprawnie co i dlaczego mfw](https://solarfinance.pl/2026/04/22/eu-ets-czym-jest-europejski-rynek-uprawnie-co-i-dlaczego-mfw/)
 - [EU ETS  czym jest europejski rynek uprawnień CO i dlaczego M](https://telegra.ph/EU-ETS--czym-jest-europejski-rynek-uprawnień-CO-i-dlaczego-MFW-ostrzega-przed-jego-zawieszeniem-04-22)
 - [EU ETS  czym jest europejski rynek uprawnień CO i dlaczego M](https://telegra.ph/EU-ETS--czym-jest-europejski-rynek-uprawnień-CO-i-dlaczego-MFW-ostrzega-przed-jego-zawieszeniem-04-22-2)
 - [EU ETS  czym jest europejski rynek uprawnień CO i dlaczego M](https://telegra.ph/EU-ETS--czym-jest-europejski-rynek-uprawnień-CO-i-dlaczego-MFW-ostrzega-przed-jego-zawieszeniem-04-22-3)
@@ -495,6 +490,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [EU ETS  czym jest europejski rynek uprawnień CO i dlaczego M](https://telegra.ph/EU-ETS--czym-jest-europejski-rynek-uprawnień-CO-i-dlaczego-MFW-ostrzega-przed-jego-zawieszeniem-04-22-6)
 - [EU ETS  czym jest europejski rynek uprawnień CO i dlaczego M](https://telegra.ph/EU-ETS--czym-jest-europejski-rynek-uprawnień-CO-i-dlaczego-MFW-ostrzega-przed-jego-zawieszeniem-04-22-7)
 - [EU ETS  czym jest europejski rynek uprawnień CO i dlaczego M](https://telegra.ph/EU-ETS--czym-jest-europejski-rynek-uprawnień-CO-i-dlaczego-MFW-ostrzega-przed-jego-zawieszeniem-04-22-8)
+- [zpl oze f7eca5](https://rentry.co/zpl-oze-f7eca5)
+- [zpl eco f7eca5](https://rentry.co/zpl-eco-f7eca5)
+- [zpl krt f7eca5](https://rentry.co/zpl-krt-f7eca5)
+- [zpl ene f7eca5](https://rentry.co/zpl-ene-f7eca5)
+- [zpl sol f7eca5](https://rentry.co/zpl-sol-f7eca5)
 
 ## Dotacje OZE wiosna 2026 — co jest dostępne i jak to sprawdzić
 
@@ -502,7 +502,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [dotacje oze wiosna 2026 co jest dost pne i jak to sprawdzi](https://solarfinance.pl/2026/04/22/dotacje-oze-wiosna-2026-co-jest-dost-pne-i-jak-to-sprawdzi/)
 - [dotacje oze wiosna 2026 co jest dostepne i jak to sprawdzic](https://worldofozepoland.hashnode.dev/dotacje-oze-wiosna-2026-co-jest-dostepne-i-jak-to-sprawdzic)
 - [dotacje oze wiosna 2026 co jest dostepne i jak to sprawdzic](https://localozepoland.hashnode.dev/dotacje-oze-wiosna-2026-co-jest-dostepne-i-jak-to-sprawdzic)
 - [dotacje oze wiosna 2026 co jest dostepne i jak to sprawdzic](https://kasiasearchingpv.hashnode.dev/dotacje-oze-wiosna-2026-co-jest-dostepne-i-jak-to-sprawdzic)
@@ -515,11 +514,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [dotacje oze wiosna 2026 co jest dostepne i jak to sprawdzic](https://tomekwanttoinstalpc.hashnode.dev/dotacje-oze-wiosna-2026-co-jest-dostepne-i-jak-to-sprawdzic)
 - [dotacje oze wiosna 2026 co jest dostepne i jak to sprawdzic](https://electricycarpoland.hashnode.dev/dotacje-oze-wiosna-2026-co-jest-dostepne-i-jak-to-sprawdzic)
 - [dotacje oze wiosna 2026 co jest dostepne i jak to sprawdzic](https://effectiveone.mataroa.blog/blog/dotacje-oze-wiosna-2026-co-jest-dostepne-i-jak-to-sprawdzic/)
-- [zpl oze afb904](https://rentry.co/zpl-oze-afb904)
-- [zpl eco afb904](https://rentry.co/zpl-eco-afb904)
-- [zpl krt afb904](https://rentry.co/zpl-krt-afb904)
-- [zpl ene afb904](https://rentry.co/zpl-ene-afb904)
-- [zpl sol afb904](https://rentry.co/zpl-sol-afb904)
+- [dotacje oze wiosna 2026 co jest dost pne i jak to sprawdzi](https://solarfinance.pl/2026/04/22/dotacje-oze-wiosna-2026-co-jest-dost-pne-i-jak-to-sprawdzi/)
 - [Dotacje OZE wiosna 2026  co jest dostępne i jak to sprawdzić](https://telegra.ph/Dotacje-OZE-wiosna-2026--co-jest-dostępne-i-jak-to-sprawdzić-04-22)
 - [Dotacje OZE wiosna 2026  co jest dostępne i jak to sprawdzić](https://telegra.ph/Dotacje-OZE-wiosna-2026--co-jest-dostępne-i-jak-to-sprawdzić-04-22-2)
 - [Dotacje OZE wiosna 2026  co jest dostępne i jak to sprawdzić](https://telegra.ph/Dotacje-OZE-wiosna-2026--co-jest-dostępne-i-jak-to-sprawdzić-04-22-3)
@@ -528,6 +523,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Dotacje OZE wiosna 2026  co jest dostępne i jak to sprawdzić](https://telegra.ph/Dotacje-OZE-wiosna-2026--co-jest-dostępne-i-jak-to-sprawdzić-04-22-6)
 - [Dotacje OZE wiosna 2026  co jest dostępne i jak to sprawdzić](https://telegra.ph/Dotacje-OZE-wiosna-2026--co-jest-dostępne-i-jak-to-sprawdzić-04-22-7)
 - [Dotacje OZE wiosna 2026  co jest dostępne i jak to sprawdzić](https://telegra.ph/Dotacje-OZE-wiosna-2026--co-jest-dostępne-i-jak-to-sprawdzić-04-22-8)
+- [zpl oze afb904](https://rentry.co/zpl-oze-afb904)
+- [zpl eco afb904](https://rentry.co/zpl-eco-afb904)
+- [zpl krt afb904](https://rentry.co/zpl-krt-afb904)
+- [zpl ene afb904](https://rentry.co/zpl-ene-afb904)
+- [zpl sol afb904](https://rentry.co/zpl-sol-afb904)
 
 ## Niemcy wybrały pompy ciepła zamiast gazu — w Polsce nadal odwrotnie. Dlaczego?
 
@@ -535,7 +535,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [niemcy wybra y pompy ciep a zamiast gazu w polsce nadal odwr](https://solarfinance.pl/2026/04/22/niemcy-wybra-y-pompy-ciep-a-zamiast-gazu-w-polsce-nadal-odwr/)
 - [niemcy wybraly pompy ciepla zamiast gazu w polsce nadal odwr](https://worldofozepoland.hashnode.dev/niemcy-wybraly-pompy-ciepla-zamiast-gazu-w-polsce-nadal-odwrotnie-dlaczego)
 - [niemcy wybraly pompy ciepla zamiast gazu w polsce nadal odwr](https://localozepoland.hashnode.dev/niemcy-wybraly-pompy-ciepla-zamiast-gazu-w-polsce-nadal-odwrotnie-dlaczego)
 - [niemcy wybraly pompy ciepla zamiast gazu w polsce nadal odwr](https://kasiasearchingpv.hashnode.dev/niemcy-wybraly-pompy-ciepla-zamiast-gazu-w-polsce-nadal-odwrotnie-dlaczego)
@@ -548,11 +547,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [niemcy wybraly pompy ciepla zamiast gazu w polsce nadal odwr](https://tomekwanttoinstalpc.hashnode.dev/niemcy-wybraly-pompy-ciepla-zamiast-gazu-w-polsce-nadal-odwrotnie-dlaczego)
 - [niemcy wybraly pompy ciepla zamiast gazu w polsce nadal odwr](https://electricycarpoland.hashnode.dev/niemcy-wybraly-pompy-ciepla-zamiast-gazu-w-polsce-nadal-odwrotnie-dlaczego)
 - [niemcy wybray pompy ciepa zamiast gazu w polsce nadal odwrot](https://effectiveone.mataroa.blog/blog/niemcy-wybray-pompy-ciepa-zamiast-gazu-w-polsce-nadal-odwrotnie-dlaczego/)
-- [zpl oze a82953](https://rentry.co/zpl-oze-a82953)
-- [zpl eco a82953](https://rentry.co/zpl-eco-a82953)
-- [zpl krt a82953](https://rentry.co/zpl-krt-a82953)
-- [zpl ene a82953](https://rentry.co/zpl-ene-a82953)
-- [zpl sol a82953](https://rentry.co/zpl-sol-a82953)
+- [niemcy wybra y pompy ciep a zamiast gazu w polsce nadal odwr](https://solarfinance.pl/2026/04/22/niemcy-wybra-y-pompy-ciep-a-zamiast-gazu-w-polsce-nadal-odwr/)
 - [Niemcy wybrały pompy ciepła zamiast gazu  w Polsce nadal odw](https://telegra.ph/Niemcy-wybrały-pompy-ciepła-zamiast-gazu--w-Polsce-nadal-odwrotnie-Dlaczego-04-22)
 - [Niemcy wybrały pompy ciepła zamiast gazu  w Polsce nadal odw](https://telegra.ph/Niemcy-wybrały-pompy-ciepła-zamiast-gazu--w-Polsce-nadal-odwrotnie-Dlaczego-04-22-2)
 - [Niemcy wybrały pompy ciepła zamiast gazu  w Polsce nadal odw](https://telegra.ph/Niemcy-wybrały-pompy-ciepła-zamiast-gazu--w-Polsce-nadal-odwrotnie-Dlaczego-04-22-3)
@@ -561,6 +556,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Niemcy wybrały pompy ciepła zamiast gazu  w Polsce nadal odw](https://telegra.ph/Niemcy-wybrały-pompy-ciepła-zamiast-gazu--w-Polsce-nadal-odwrotnie-Dlaczego-04-22-6)
 - [Niemcy wybrały pompy ciepła zamiast gazu  w Polsce nadal odw](https://telegra.ph/Niemcy-wybrały-pompy-ciepła-zamiast-gazu--w-Polsce-nadal-odwrotnie-Dlaczego-04-22-7)
 - [Niemcy wybrały pompy ciepła zamiast gazu  w Polsce nadal odw](https://telegra.ph/Niemcy-wybrały-pompy-ciepła-zamiast-gazu--w-Polsce-nadal-odwrotnie-Dlaczego-04-22-8)
+- [zpl oze a82953](https://rentry.co/zpl-oze-a82953)
+- [zpl eco a82953](https://rentry.co/zpl-eco-a82953)
+- [zpl krt a82953](https://rentry.co/zpl-krt-a82953)
+- [zpl ene a82953](https://rentry.co/zpl-ene-a82953)
+- [zpl sol a82953](https://rentry.co/zpl-sol-a82953)
 
 ## Magazyny energii na skalę przemysłową — Polska buduje największe projekty bateryjne w historii
 
@@ -568,7 +568,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [magazyny energii na skal przemys ow polska buduje najwi ksze](https://solarfinance.pl/2026/04/22/magazyny-energii-na-skal-przemys-ow-polska-buduje-najwi-ksze/)
 - [magazyny energii na skale przemyslowa polska buduje najwieks](https://worldofozepoland.hashnode.dev/magazyny-energii-na-skale-przemyslowa-polska-buduje-najwieksze-projekty-bateryjne-w-historii)
 - [magazyny energii na skale przemyslowa polska buduje najwieks](https://localozepoland.hashnode.dev/magazyny-energii-na-skale-przemyslowa-polska-buduje-najwieksze-projekty-bateryjne-w-historii)
 - [magazyny energii na skale przemyslowa polska buduje najwieks](https://kasiasearchingpv.hashnode.dev/magazyny-energii-na-skale-przemyslowa-polska-buduje-najwieksze-projekty-bateryjne-w-historii)
@@ -581,11 +580,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [magazyny energii na skale przemyslowa polska buduje najwieks](https://tomekwanttoinstalpc.hashnode.dev/magazyny-energii-na-skale-przemyslowa-polska-buduje-najwieksze-projekty-bateryjne-w-historii)
 - [magazyny energii na skale przemyslowa polska buduje najwieks](https://electricycarpoland.hashnode.dev/magazyny-energii-na-skale-przemyslowa-polska-buduje-najwieksze-projekty-bateryjne-w-historii)
 - [magazyny energii na skale przemysowa polska buduje najwieksz](https://effectiveone.mataroa.blog/blog/magazyny-energii-na-skale-przemysowa-polska-buduje-najwieksze-projekty-bateryjne-w-historii/)
-- [zpl oze 3d25fb](https://rentry.co/zpl-oze-3d25fb)
-- [zpl eco 3d25fb](https://rentry.co/zpl-eco-3d25fb)
-- [zpl krt 3d25fb](https://rentry.co/zpl-krt-3d25fb)
-- [zpl ene 3d25fb](https://rentry.co/zpl-ene-3d25fb)
-- [zpl sol 3d25fb](https://rentry.co/zpl-sol-3d25fb)
+- [magazyny energii na skal przemys ow polska buduje najwi ksze](https://solarfinance.pl/2026/04/22/magazyny-energii-na-skal-przemys-ow-polska-buduje-najwi-ksze/)
 - [Magazyny energii na skalę przemysłową  Polska buduje najwięk](https://telegra.ph/Magazyny-energii-na-skalę-przemysłową--Polska-buduje-największe-projekty-bateryjne-w-historii-04-22)
 - [Magazyny energii na skalę przemysłową  Polska buduje najwięk](https://telegra.ph/Magazyny-energii-na-skalę-przemysłową--Polska-buduje-największe-projekty-bateryjne-w-historii-04-22-2)
 - [Magazyny energii na skalę przemysłową  Polska buduje najwięk](https://telegra.ph/Magazyny-energii-na-skalę-przemysłową--Polska-buduje-największe-projekty-bateryjne-w-historii-04-22-3)
@@ -594,6 +589,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Magazyny energii na skalę przemysłową  Polska buduje najwięk](https://telegra.ph/Magazyny-energii-na-skalę-przemysłową--Polska-buduje-największe-projekty-bateryjne-w-historii-04-22-6)
 - [Magazyny energii na skalę przemysłową  Polska buduje najwięk](https://telegra.ph/Magazyny-energii-na-skalę-przemysłową--Polska-buduje-największe-projekty-bateryjne-w-historii-04-22-7)
 - [Magazyny energii na skalę przemysłową  Polska buduje najwięk](https://telegra.ph/Magazyny-energii-na-skalę-przemysłową--Polska-buduje-największe-projekty-bateryjne-w-historii-04-22-8)
+- [zpl oze 3d25fb](https://rentry.co/zpl-oze-3d25fb)
+- [zpl eco 3d25fb](https://rentry.co/zpl-eco-3d25fb)
+- [zpl krt 3d25fb](https://rentry.co/zpl-krt-3d25fb)
+- [zpl ene 3d25fb](https://rentry.co/zpl-ene-3d25fb)
+- [zpl sol 3d25fb](https://rentry.co/zpl-sol-3d25fb)
 
 ## Wirtualna elektrownia (VPP) — czym jest i jak łączy prosumentów w jeden zasób energetyczny
 
@@ -601,7 +601,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [wirtualna elektrownia vpp czym jest i jak czy prosument w w ](https://solarfinance.pl/2026/04/22/wirtualna-elektrownia-vpp-czym-jest-i-jak-czy-prosument-w-w-/)
 - [wirtualna elektrownia vpp czym jest i jak laczy prosumentow ](https://worldofozepoland.hashnode.dev/wirtualna-elektrownia-vpp-czym-jest-i-jak-laczy-prosumentow-w-jeden-zasob-energetyczny)
 - [wirtualna elektrownia vpp czym jest i jak laczy prosumentow ](https://localozepoland.hashnode.dev/wirtualna-elektrownia-vpp-czym-jest-i-jak-laczy-prosumentow-w-jeden-zasob-energetyczny)
 - [wirtualna elektrownia vpp czym jest i jak laczy prosumentow ](https://kasiasearchingpv.hashnode.dev/wirtualna-elektrownia-vpp-czym-jest-i-jak-laczy-prosumentow-w-jeden-zasob-energetyczny)
@@ -614,11 +613,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [wirtualna elektrownia vpp czym jest i jak laczy prosumentow ](https://tomekwanttoinstalpc.hashnode.dev/wirtualna-elektrownia-vpp-czym-jest-i-jak-laczy-prosumentow-w-jeden-zasob-energetyczny)
 - [wirtualna elektrownia vpp czym jest i jak laczy prosumentow ](https://electricycarpoland.hashnode.dev/wirtualna-elektrownia-vpp-czym-jest-i-jak-laczy-prosumentow-w-jeden-zasob-energetyczny)
 - [wirtualna elektrownia vpp czym jest i jak aczy prosumentow w](https://effectiveone.mataroa.blog/blog/wirtualna-elektrownia-vpp-czym-jest-i-jak-aczy-prosumentow-w-jeden-zasob-energetyczny/)
-- [zpl oze 4e389a](https://rentry.co/zpl-oze-4e389a)
-- [zpl eco 4e389a](https://rentry.co/zpl-eco-4e389a)
-- [zpl krt 4e389a](https://rentry.co/zpl-krt-4e389a)
-- [zpl ene 4e389a](https://rentry.co/zpl-ene-4e389a)
-- [zpl sol 4e389a](https://rentry.co/zpl-sol-4e389a)
+- [wirtualna elektrownia vpp czym jest i jak czy prosument w w ](https://solarfinance.pl/2026/04/22/wirtualna-elektrownia-vpp-czym-jest-i-jak-czy-prosument-w-w-/)
 - [Wirtualna elektrownia VPP  czym jest i jak łączy prosumentów](https://telegra.ph/Wirtualna-elektrownia-VPP--czym-jest-i-jak-łączy-prosumentów-w-jeden-zasób-energetyczny-04-22)
 - [Wirtualna elektrownia VPP  czym jest i jak łączy prosumentów](https://telegra.ph/Wirtualna-elektrownia-VPP--czym-jest-i-jak-łączy-prosumentów-w-jeden-zasób-energetyczny-04-22-2)
 - [Wirtualna elektrownia VPP  czym jest i jak łączy prosumentów](https://telegra.ph/Wirtualna-elektrownia-VPP--czym-jest-i-jak-łączy-prosumentów-w-jeden-zasób-energetyczny-04-22-3)
@@ -627,6 +622,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Wirtualna elektrownia VPP  czym jest i jak łączy prosumentów](https://telegra.ph/Wirtualna-elektrownia-VPP--czym-jest-i-jak-łączy-prosumentów-w-jeden-zasób-energetyczny-04-22-6)
 - [Wirtualna elektrownia VPP  czym jest i jak łączy prosumentów](https://telegra.ph/Wirtualna-elektrownia-VPP--czym-jest-i-jak-łączy-prosumentów-w-jeden-zasób-energetyczny-04-22-7)
 - [Wirtualna elektrownia VPP  czym jest i jak łączy prosumentów](https://telegra.ph/Wirtualna-elektrownia-VPP--czym-jest-i-jak-łączy-prosumentów-w-jeden-zasób-energetyczny-04-22-8)
+- [zpl oze 4e389a](https://rentry.co/zpl-oze-4e389a)
+- [zpl eco 4e389a](https://rentry.co/zpl-eco-4e389a)
+- [zpl krt 4e389a](https://rentry.co/zpl-krt-4e389a)
+- [zpl ene 4e389a](https://rentry.co/zpl-ene-4e389a)
+- [zpl sol 4e389a](https://rentry.co/zpl-sol-4e389a)
 
 ## AI i centra danych — dlaczego sztuczna inteligencja zmienia zapotrzebowanie na energię
 
@@ -634,7 +634,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [ai i centra danych dlaczego sztuczna inteligencja zmienia za](https://solarfinance.pl/2026/04/22/ai-i-centra-danych-dlaczego-sztuczna-inteligencja-zmienia-za/)
 - [ai i centra danych dlaczego sztuczna inteligencja zmienia za](https://worldofozepoland.hashnode.dev/ai-i-centra-danych-dlaczego-sztuczna-inteligencja-zmienia-zapotrzebowanie-na-energie)
 - [ai i centra danych dlaczego sztuczna inteligencja zmienia za](https://localozepoland.hashnode.dev/ai-i-centra-danych-dlaczego-sztuczna-inteligencja-zmienia-zapotrzebowanie-na-energie)
 - [ai i centra danych dlaczego sztuczna inteligencja zmienia za](https://kasiasearchingpv.hashnode.dev/ai-i-centra-danych-dlaczego-sztuczna-inteligencja-zmienia-zapotrzebowanie-na-energie)
@@ -647,11 +646,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [ai i centra danych dlaczego sztuczna inteligencja zmienia za](https://tomekwanttoinstalpc.hashnode.dev/ai-i-centra-danych-dlaczego-sztuczna-inteligencja-zmienia-zapotrzebowanie-na-energie)
 - [ai i centra danych dlaczego sztuczna inteligencja zmienia za](https://electricycarpoland.hashnode.dev/ai-i-centra-danych-dlaczego-sztuczna-inteligencja-zmienia-zapotrzebowanie-na-energie)
 - [ai i centra danych dlaczego sztuczna inteligencja zmienia za](https://effectiveone.mataroa.blog/blog/ai-i-centra-danych-dlaczego-sztuczna-inteligencja-zmienia-zapotrzebowanie-na-energie/)
-- [zpl oze 4cc6d7](https://rentry.co/zpl-oze-4cc6d7)
-- [zpl eco 4cc6d7](https://rentry.co/zpl-eco-4cc6d7)
-- [zpl krt 4cc6d7](https://rentry.co/zpl-krt-4cc6d7)
-- [zpl ene 4cc6d7](https://rentry.co/zpl-ene-4cc6d7)
-- [zpl sol 4cc6d7](https://rentry.co/zpl-sol-4cc6d7)
+- [ai i centra danych dlaczego sztuczna inteligencja zmienia za](https://solarfinance.pl/2026/04/22/ai-i-centra-danych-dlaczego-sztuczna-inteligencja-zmienia-za/)
 - [AI i centra danych  dlaczego sztuczna inteligencja zmienia z](https://telegra.ph/AI-i-centra-danych--dlaczego-sztuczna-inteligencja-zmienia-zapotrzebowanie-na-energię-04-22)
 - [AI i centra danych  dlaczego sztuczna inteligencja zmienia z](https://telegra.ph/AI-i-centra-danych--dlaczego-sztuczna-inteligencja-zmienia-zapotrzebowanie-na-energię-04-22-2)
 - [AI i centra danych  dlaczego sztuczna inteligencja zmienia z](https://telegra.ph/AI-i-centra-danych--dlaczego-sztuczna-inteligencja-zmienia-zapotrzebowanie-na-energię-04-22-3)
@@ -660,6 +655,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [AI i centra danych  dlaczego sztuczna inteligencja zmienia z](https://telegra.ph/AI-i-centra-danych--dlaczego-sztuczna-inteligencja-zmienia-zapotrzebowanie-na-energię-04-22-6)
 - [AI i centra danych  dlaczego sztuczna inteligencja zmienia z](https://telegra.ph/AI-i-centra-danych--dlaczego-sztuczna-inteligencja-zmienia-zapotrzebowanie-na-energię-04-22-7)
 - [AI i centra danych  dlaczego sztuczna inteligencja zmienia z](https://telegra.ph/AI-i-centra-danych--dlaczego-sztuczna-inteligencja-zmienia-zapotrzebowanie-na-energię-04-22-8)
+- [zpl oze 4cc6d7](https://rentry.co/zpl-oze-4cc6d7)
+- [zpl eco 4cc6d7](https://rentry.co/zpl-eco-4cc6d7)
+- [zpl krt 4cc6d7](https://rentry.co/zpl-krt-4cc6d7)
+- [zpl ene 4cc6d7](https://rentry.co/zpl-ene-4cc6d7)
+- [zpl sol 4cc6d7](https://rentry.co/zpl-sol-4cc6d7)
 
 ## Rewizja ETD — stan prac nad zmianą opodatkowania energii w UE
 
@@ -667,7 +667,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [rewizja etd stan prac nad zmian opodatkowania energii w ue](https://solarfinance.pl/2026/04/22/rewizja-etd-stan-prac-nad-zmian-opodatkowania-energii-w-ue/)
 - [rewizja etd stan prac nad zmiana opodatkowania energii w ue](https://worldofozepoland.hashnode.dev/rewizja-etd-stan-prac-nad-zmiana-opodatkowania-energii-w-ue)
 - [rewizja etd stan prac nad zmiana opodatkowania energii w ue](https://localozepoland.hashnode.dev/rewizja-etd-stan-prac-nad-zmiana-opodatkowania-energii-w-ue)
 - [rewizja etd stan prac nad zmiana opodatkowania energii w ue](https://kasiasearchingpv.hashnode.dev/rewizja-etd-stan-prac-nad-zmiana-opodatkowania-energii-w-ue)
@@ -680,11 +679,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [rewizja etd stan prac nad zmiana opodatkowania energii w ue](https://tomekwanttoinstalpc.hashnode.dev/rewizja-etd-stan-prac-nad-zmiana-opodatkowania-energii-w-ue)
 - [rewizja etd stan prac nad zmiana opodatkowania energii w ue](https://electricycarpoland.hashnode.dev/rewizja-etd-stan-prac-nad-zmiana-opodatkowania-energii-w-ue)
 - [rewizja etd stan prac nad zmiana opodatkowania energii w ue](https://effectiveone.mataroa.blog/blog/rewizja-etd-stan-prac-nad-zmiana-opodatkowania-energii-w-ue/)
-- [zpl oze 725553](https://rentry.co/zpl-oze-725553)
-- [zpl eco 725553](https://rentry.co/zpl-eco-725553)
-- [zpl krt 725553](https://rentry.co/zpl-krt-725553)
-- [zpl ene 725553](https://rentry.co/zpl-ene-725553)
-- [zpl sol 725553](https://rentry.co/zpl-sol-725553)
+- [rewizja etd stan prac nad zmian opodatkowania energii w ue](https://solarfinance.pl/2026/04/22/rewizja-etd-stan-prac-nad-zmian-opodatkowania-energii-w-ue/)
 - [Rewizja ETD  stan prac nad zmianą opodatkowania energii w UE](https://telegra.ph/Rewizja-ETD--stan-prac-nad-zmianą-opodatkowania-energii-w-UE-04-22)
 - [Rewizja ETD  stan prac nad zmianą opodatkowania energii w UE](https://telegra.ph/Rewizja-ETD--stan-prac-nad-zmianą-opodatkowania-energii-w-UE-04-22-2)
 - [Rewizja ETD  stan prac nad zmianą opodatkowania energii w UE](https://telegra.ph/Rewizja-ETD--stan-prac-nad-zmianą-opodatkowania-energii-w-UE-04-22-3)
@@ -693,6 +688,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Rewizja ETD  stan prac nad zmianą opodatkowania energii w UE](https://telegra.ph/Rewizja-ETD--stan-prac-nad-zmianą-opodatkowania-energii-w-UE-04-22-6)
 - [Rewizja ETD  stan prac nad zmianą opodatkowania energii w UE](https://telegra.ph/Rewizja-ETD--stan-prac-nad-zmianą-opodatkowania-energii-w-UE-04-22-7)
 - [Rewizja ETD  stan prac nad zmianą opodatkowania energii w UE](https://telegra.ph/Rewizja-ETD--stan-prac-nad-zmianą-opodatkowania-energii-w-UE-04-22-8)
+- [zpl oze 725553](https://rentry.co/zpl-oze-725553)
+- [zpl eco 725553](https://rentry.co/zpl-eco-725553)
+- [zpl krt 725553](https://rentry.co/zpl-krt-725553)
+- [zpl ene 725553](https://rentry.co/zpl-ene-725553)
+- [zpl sol 725553](https://rentry.co/zpl-sol-725553)
 
 ## IEA: zaledwie 14% ciepła na świecie pochodzi z OZE. Do 2030 ma to zmienić pompa ciepła — co to oznacza dla Polski?
 
@@ -700,7 +700,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [iea zaledwie 14 ciep a na wiecie pochodzi z oze do 2030 ma t](https://solarfinance.pl/2026/04/22/iea-zaledwie-14-ciep-a-na-wiecie-pochodzi-z-oze-do-2030-ma-t/)
 - [iea zaledwie 14 ciepla na swiecie pochodzi z oze do 2030 ma ](https://worldofozepoland.hashnode.dev/iea-zaledwie-14-ciepla-na-swiecie-pochodzi-z-oze-do-2030-ma-to-zmienic-pompa-ciepla-co-to-oznacza-dla-polski)
 - [iea zaledwie 14 ciepla na swiecie pochodzi z oze do 2030 ma ](https://localozepoland.hashnode.dev/iea-zaledwie-14-ciepla-na-swiecie-pochodzi-z-oze-do-2030-ma-to-zmienic-pompa-ciepla-co-to-oznacza-dla-polski)
 - [iea zaledwie 14 ciepla na swiecie pochodzi z oze do 2030 ma ](https://kasiasearchingpv.hashnode.dev/iea-zaledwie-14-ciepla-na-swiecie-pochodzi-z-oze-do-2030-ma-to-zmienic-pompa-ciepla-co-to-oznacza-dla-polski)
@@ -713,11 +712,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [iea zaledwie 14 ciepla na swiecie pochodzi z oze do 2030 ma ](https://tomekwanttoinstalpc.hashnode.dev/iea-zaledwie-14-ciepla-na-swiecie-pochodzi-z-oze-do-2030-ma-to-zmienic-pompa-ciepla-co-to-oznacza-dla-polski)
 - [iea zaledwie 14 ciepla na swiecie pochodzi z oze do 2030 ma ](https://electricycarpoland.hashnode.dev/iea-zaledwie-14-ciepla-na-swiecie-pochodzi-z-oze-do-2030-ma-to-zmienic-pompa-ciepla-co-to-oznacza-dla-polski)
 - [iea zaledwie 14 ciepa na swiecie pochodzi z oze do 2030 ma t](https://effectiveone.mataroa.blog/blog/iea-zaledwie-14-ciepa-na-swiecie-pochodzi-z-oze-do-2030-ma-to-zmienic-pompa-ciepa-co-to-oznacza-dla-polski/)
-- [zpl oze 98a48e](https://rentry.co/zpl-oze-98a48e)
-- [zpl eco 98a48e](https://rentry.co/zpl-eco-98a48e)
-- [zpl krt 98a48e](https://rentry.co/zpl-krt-98a48e)
-- [zpl ene 98a48e](https://rentry.co/zpl-ene-98a48e)
-- [zpl sol 98a48e](https://rentry.co/zpl-sol-98a48e)
+- [iea zaledwie 14 ciep a na wiecie pochodzi z oze do 2030 ma t](https://solarfinance.pl/2026/04/22/iea-zaledwie-14-ciep-a-na-wiecie-pochodzi-z-oze-do-2030-ma-t/)
 - [IEA zaledwie 14 ciepła na świecie pochodzi z OZE Do 2030 ma ](https://telegra.ph/IEA-zaledwie-14-ciepła-na-świecie-pochodzi-z-OZE-Do-2030-ma-to-zmienić-pompa-ciepła--co-to-oznacza-dla-Polski-04-22)
 - [IEA zaledwie 14 ciepła na świecie pochodzi z OZE Do 2030 ma ](https://telegra.ph/IEA-zaledwie-14-ciepła-na-świecie-pochodzi-z-OZE-Do-2030-ma-to-zmienić-pompa-ciepła--co-to-oznacza-dla-Polski-04-22-2)
 - [IEA zaledwie 14 ciepła na świecie pochodzi z OZE Do 2030 ma ](https://telegra.ph/IEA-zaledwie-14-ciepła-na-świecie-pochodzi-z-OZE-Do-2030-ma-to-zmienić-pompa-ciepła--co-to-oznacza-dla-Polski-04-22-3)
@@ -726,6 +721,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [IEA zaledwie 14 ciepła na świecie pochodzi z OZE Do 2030 ma ](https://telegra.ph/IEA-zaledwie-14-ciepła-na-świecie-pochodzi-z-OZE-Do-2030-ma-to-zmienić-pompa-ciepła--co-to-oznacza-dla-Polski-04-22-6)
 - [IEA zaledwie 14 ciepła na świecie pochodzi z OZE Do 2030 ma ](https://telegra.ph/IEA-zaledwie-14-ciepła-na-świecie-pochodzi-z-OZE-Do-2030-ma-to-zmienić-pompa-ciepła--co-to-oznacza-dla-Polski-04-22-7)
 - [IEA zaledwie 14 ciepła na świecie pochodzi z OZE Do 2030 ma ](https://telegra.ph/IEA-zaledwie-14-ciepła-na-świecie-pochodzi-z-OZE-Do-2030-ma-to-zmienić-pompa-ciepła--co-to-oznacza-dla-Polski-04-22-8)
+- [zpl oze 98a48e](https://rentry.co/zpl-oze-98a48e)
+- [zpl eco 98a48e](https://rentry.co/zpl-eco-98a48e)
+- [zpl krt 98a48e](https://rentry.co/zpl-krt-98a48e)
+- [zpl ene 98a48e](https://rentry.co/zpl-ene-98a48e)
+- [zpl sol 98a48e](https://rentry.co/zpl-sol-98a48e)
 
 ## Agrivoltaika — czym jest i jak łączy produkcję energii z uprawami rolnymi
 
@@ -733,7 +733,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [agrivoltaika czym jest i jak czy produkcj energii z uprawami](https://solarfinance.pl/2026/04/22/agrivoltaika-czym-jest-i-jak-czy-produkcj-energii-z-uprawami/)
 - [agrivoltaika czym jest i jak laczy produkcje energii z upraw](https://worldofozepoland.hashnode.dev/agrivoltaika-czym-jest-i-jak-laczy-produkcje-energii-z-uprawami-rolnymi)
 - [agrivoltaika czym jest i jak laczy produkcje energii z upraw](https://localozepoland.hashnode.dev/agrivoltaika-czym-jest-i-jak-laczy-produkcje-energii-z-uprawami-rolnymi)
 - [agrivoltaika czym jest i jak laczy produkcje energii z upraw](https://kasiasearchingpv.hashnode.dev/agrivoltaika-czym-jest-i-jak-laczy-produkcje-energii-z-uprawami-rolnymi)
@@ -746,11 +745,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [agrivoltaika czym jest i jak laczy produkcje energii z upraw](https://tomekwanttoinstalpc.hashnode.dev/agrivoltaika-czym-jest-i-jak-laczy-produkcje-energii-z-uprawami-rolnymi)
 - [agrivoltaika czym jest i jak laczy produkcje energii z upraw](https://electricycarpoland.hashnode.dev/agrivoltaika-czym-jest-i-jak-laczy-produkcje-energii-z-uprawami-rolnymi)
 - [agrivoltaika czym jest i jak aczy produkcje energii z uprawa](https://effectiveone.mataroa.blog/blog/agrivoltaika-czym-jest-i-jak-aczy-produkcje-energii-z-uprawami-rolnymi/)
-- [zpl oze 1a2355](https://rentry.co/zpl-oze-1a2355)
-- [zpl eco 1a2355](https://rentry.co/zpl-eco-1a2355)
-- [zpl krt 1a2355](https://rentry.co/zpl-krt-1a2355)
-- [zpl ene 1a2355](https://rentry.co/zpl-ene-1a2355)
-- [zpl sol 1a2355](https://rentry.co/zpl-sol-1a2355)
+- [agrivoltaika czym jest i jak czy produkcj energii z uprawami](https://solarfinance.pl/2026/04/22/agrivoltaika-czym-jest-i-jak-czy-produkcj-energii-z-uprawami/)
 - [Agrivoltaika  czym jest i jak łączy produkcję energii z upra](https://telegra.ph/Agrivoltaika--czym-jest-i-jak-łączy-produkcję-energii-z-uprawami-rolnymi-04-22)
 - [Agrivoltaika  czym jest i jak łączy produkcję energii z upra](https://telegra.ph/Agrivoltaika--czym-jest-i-jak-łączy-produkcję-energii-z-uprawami-rolnymi-04-22-2)
 - [Agrivoltaika  czym jest i jak łączy produkcję energii z upra](https://telegra.ph/Agrivoltaika--czym-jest-i-jak-łączy-produkcję-energii-z-uprawami-rolnymi-04-22-3)
@@ -759,6 +754,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Agrivoltaika  czym jest i jak łączy produkcję energii z upra](https://telegra.ph/Agrivoltaika--czym-jest-i-jak-łączy-produkcję-energii-z-uprawami-rolnymi-04-22-6)
 - [Agrivoltaika  czym jest i jak łączy produkcję energii z upra](https://telegra.ph/Agrivoltaika--czym-jest-i-jak-łączy-produkcję-energii-z-uprawami-rolnymi-04-22-7)
 - [Agrivoltaika  czym jest i jak łączy produkcję energii z upra](https://telegra.ph/Agrivoltaika--czym-jest-i-jak-łączy-produkcję-energii-z-uprawami-rolnymi-04-22-8)
+- [zpl oze 1a2355](https://rentry.co/zpl-oze-1a2355)
+- [zpl eco 1a2355](https://rentry.co/zpl-eco-1a2355)
+- [zpl krt 1a2355](https://rentry.co/zpl-krt-1a2355)
+- [zpl ene 1a2355](https://rentry.co/zpl-ene-1a2355)
+- [zpl sol 1a2355](https://rentry.co/zpl-sol-1a2355)
 
 ## PPA — czym jest umowa zakupu energii z OZE i jak działa
 
@@ -766,7 +766,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [ppa czym jest umowa zakupu energii z oze i jak dzia a](https://solarfinance.pl/2026/04/22/ppa-czym-jest-umowa-zakupu-energii-z-oze-i-jak-dzia-a/)
 - [ppa czym jest umowa zakupu energii z oze i jak dziala](https://worldofozepoland.hashnode.dev/ppa-czym-jest-umowa-zakupu-energii-z-oze-i-jak-dziala)
 - [ppa czym jest umowa zakupu energii z oze i jak dziala](https://localozepoland.hashnode.dev/ppa-czym-jest-umowa-zakupu-energii-z-oze-i-jak-dziala)
 - [ppa czym jest umowa zakupu energii z oze i jak dziala](https://kasiasearchingpv.hashnode.dev/ppa-czym-jest-umowa-zakupu-energii-z-oze-i-jak-dziala)
@@ -779,11 +778,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [ppa czym jest umowa zakupu energii z oze i jak dziala](https://tomekwanttoinstalpc.hashnode.dev/ppa-czym-jest-umowa-zakupu-energii-z-oze-i-jak-dziala)
 - [ppa czym jest umowa zakupu energii z oze i jak dziala](https://electricycarpoland.hashnode.dev/ppa-czym-jest-umowa-zakupu-energii-z-oze-i-jak-dziala)
 - [ppa czym jest umowa zakupu energii z oze i jak dziaa](https://effectiveone.mataroa.blog/blog/ppa-czym-jest-umowa-zakupu-energii-z-oze-i-jak-dziaa/)
-- [zpl oze 2fb00b](https://rentry.co/zpl-oze-2fb00b)
-- [zpl eco 2fb00b](https://rentry.co/zpl-eco-2fb00b)
-- [zpl krt 2fb00b](https://rentry.co/zpl-krt-2fb00b)
-- [zpl ene 2fb00b](https://rentry.co/zpl-ene-2fb00b)
-- [zpl sol 2fb00b](https://rentry.co/zpl-sol-2fb00b)
+- [ppa czym jest umowa zakupu energii z oze i jak dzia a](https://solarfinance.pl/2026/04/22/ppa-czym-jest-umowa-zakupu-energii-z-oze-i-jak-dzia-a/)
 - [PPA  czym jest umowa zakupu energii z OZE i jak działa 04 22](https://telegra.ph/PPA--czym-jest-umowa-zakupu-energii-z-OZE-i-jak-działa-04-22)
 - [PPA  czym jest umowa zakupu energii z OZE i jak działa 04 22](https://telegra.ph/PPA--czym-jest-umowa-zakupu-energii-z-OZE-i-jak-działa-04-22-2)
 - [PPA  czym jest umowa zakupu energii z OZE i jak działa 04 22](https://telegra.ph/PPA--czym-jest-umowa-zakupu-energii-z-OZE-i-jak-działa-04-22-3)
@@ -792,6 +787,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [PPA  czym jest umowa zakupu energii z OZE i jak działa 04 22](https://telegra.ph/PPA--czym-jest-umowa-zakupu-energii-z-OZE-i-jak-działa-04-22-6)
 - [PPA  czym jest umowa zakupu energii z OZE i jak działa 04 22](https://telegra.ph/PPA--czym-jest-umowa-zakupu-energii-z-OZE-i-jak-działa-04-22-7)
 - [PPA  czym jest umowa zakupu energii z OZE i jak działa 04 22](https://telegra.ph/PPA--czym-jest-umowa-zakupu-energii-z-OZE-i-jak-działa-04-22-8)
+- [zpl oze 2fb00b](https://rentry.co/zpl-oze-2fb00b)
+- [zpl eco 2fb00b](https://rentry.co/zpl-eco-2fb00b)
+- [zpl krt 2fb00b](https://rentry.co/zpl-krt-2fb00b)
+- [zpl ene 2fb00b](https://rentry.co/zpl-ene-2fb00b)
+- [zpl sol 2fb00b](https://rentry.co/zpl-sol-2fb00b)
 
 ## Jakość pomp ciepła w Europie — co mówi raport EHPA i na co zwrócić uwagę
 
@@ -799,7 +799,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [jako pomp ciep a w europie co m wi raport ehpa i na co zwr c](https://solarfinance.pl/2026/04/22/jako-pomp-ciep-a-w-europie-co-m-wi-raport-ehpa-i-na-co-zwr-c/)
 - [jakosc pomp ciepla w europie co mowi raport ehpa i na co zwr](https://worldofozepoland.hashnode.dev/jakosc-pomp-ciepla-w-europie-co-mowi-raport-ehpa-i-na-co-zwrocic-uwage)
 - [jakosc pomp ciepla w europie co mowi raport ehpa i na co zwr](https://localozepoland.hashnode.dev/jakosc-pomp-ciepla-w-europie-co-mowi-raport-ehpa-i-na-co-zwrocic-uwage)
 - [jakosc pomp ciepla w europie co mowi raport ehpa i na co zwr](https://kasiasearchingpv.hashnode.dev/jakosc-pomp-ciepla-w-europie-co-mowi-raport-ehpa-i-na-co-zwrocic-uwage)
@@ -812,11 +811,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [jakosc pomp ciepla w europie co mowi raport ehpa i na co zwr](https://tomekwanttoinstalpc.hashnode.dev/jakosc-pomp-ciepla-w-europie-co-mowi-raport-ehpa-i-na-co-zwrocic-uwage)
 - [jakosc pomp ciepla w europie co mowi raport ehpa i na co zwr](https://electricycarpoland.hashnode.dev/jakosc-pomp-ciepla-w-europie-co-mowi-raport-ehpa-i-na-co-zwrocic-uwage)
 - [jakosc pomp ciepa w europie co mowi raport ehpa i na co zwro](https://effectiveone.mataroa.blog/blog/jakosc-pomp-ciepa-w-europie-co-mowi-raport-ehpa-i-na-co-zwrocic-uwage/)
-- [zpl oze 1984d9](https://rentry.co/zpl-oze-1984d9)
-- [zpl eco 1984d9](https://rentry.co/zpl-eco-1984d9)
-- [zpl krt 1984d9](https://rentry.co/zpl-krt-1984d9)
-- [zpl ene 1984d9](https://rentry.co/zpl-ene-1984d9)
-- [zpl sol 1984d9](https://rentry.co/zpl-sol-1984d9)
+- [jako pomp ciep a w europie co m wi raport ehpa i na co zwr c](https://solarfinance.pl/2026/04/22/jako-pomp-ciep-a-w-europie-co-m-wi-raport-ehpa-i-na-co-zwr-c/)
 - [Jakość pomp ciepła w Europie  co mówi raport EHPA i na co zw](https://telegra.ph/Jakość-pomp-ciepła-w-Europie--co-mówi-raport-EHPA-i-na-co-zwrócić-uwagę-04-22)
 - [Jakość pomp ciepła w Europie  co mówi raport EHPA i na co zw](https://telegra.ph/Jakość-pomp-ciepła-w-Europie--co-mówi-raport-EHPA-i-na-co-zwrócić-uwagę-04-22-2)
 - [Jakość pomp ciepła w Europie  co mówi raport EHPA i na co zw](https://telegra.ph/Jakość-pomp-ciepła-w-Europie--co-mówi-raport-EHPA-i-na-co-zwrócić-uwagę-04-22-3)
@@ -825,6 +820,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Jakość pomp ciepła w Europie  co mówi raport EHPA i na co zw](https://telegra.ph/Jakość-pomp-ciepła-w-Europie--co-mówi-raport-EHPA-i-na-co-zwrócić-uwagę-04-22-6)
 - [Jakość pomp ciepła w Europie  co mówi raport EHPA i na co zw](https://telegra.ph/Jakość-pomp-ciepła-w-Europie--co-mówi-raport-EHPA-i-na-co-zwrócić-uwagę-04-22-7)
 - [Jakość pomp ciepła w Europie  co mówi raport EHPA i na co zw](https://telegra.ph/Jakość-pomp-ciepła-w-Europie--co-mówi-raport-EHPA-i-na-co-zwrócić-uwagę-04-22-8)
+- [zpl oze 1984d9](https://rentry.co/zpl-oze-1984d9)
+- [zpl eco 1984d9](https://rentry.co/zpl-eco-1984d9)
+- [zpl krt 1984d9](https://rentry.co/zpl-krt-1984d9)
+- [zpl ene 1984d9](https://rentry.co/zpl-ene-1984d9)
+- [zpl sol 1984d9](https://rentry.co/zpl-sol-1984d9)
 
 ## Panel PV na balkonie — czym jest balcony solar i jak działa
 
@@ -832,7 +832,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [panel pv na balkonie czym jest balcony solar i jak dzia a](https://solarfinance.pl/2026/04/22/panel-pv-na-balkonie-czym-jest-balcony-solar-i-jak-dzia-a/)
 - [panel pv na balkonie czym jest balcony solar i jak dziala](https://worldofozepoland.hashnode.dev/panel-pv-na-balkonie-czym-jest-balcony-solar-i-jak-dziala)
 - [panel pv na balkonie czym jest balcony solar i jak dziala](https://localozepoland.hashnode.dev/panel-pv-na-balkonie-czym-jest-balcony-solar-i-jak-dziala)
 - [panel pv na balkonie czym jest balcony solar i jak dziala](https://kasiasearchingpv.hashnode.dev/panel-pv-na-balkonie-czym-jest-balcony-solar-i-jak-dziala)
@@ -845,11 +844,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [panel pv na balkonie czym jest balcony solar i jak dziala](https://tomekwanttoinstalpc.hashnode.dev/panel-pv-na-balkonie-czym-jest-balcony-solar-i-jak-dziala)
 - [panel pv na balkonie czym jest balcony solar i jak dziala](https://electricycarpoland.hashnode.dev/panel-pv-na-balkonie-czym-jest-balcony-solar-i-jak-dziala)
 - [panel pv na balkonie czym jest balcony solar i jak dziaa](https://effectiveone.mataroa.blog/blog/panel-pv-na-balkonie-czym-jest-balcony-solar-i-jak-dziaa/)
-- [zpl oze 495d5b](https://rentry.co/zpl-oze-495d5b)
-- [zpl eco 495d5b](https://rentry.co/zpl-eco-495d5b)
-- [zpl krt 495d5b](https://rentry.co/zpl-krt-495d5b)
-- [zpl ene 495d5b](https://rentry.co/zpl-ene-495d5b)
-- [zpl sol 495d5b](https://rentry.co/zpl-sol-495d5b)
+- [panel pv na balkonie czym jest balcony solar i jak dzia a](https://solarfinance.pl/2026/04/22/panel-pv-na-balkonie-czym-jest-balcony-solar-i-jak-dzia-a/)
 - [Panel PV na balkonie  czym jest balcony solar i jak działa 0](https://telegra.ph/Panel-PV-na-balkonie--czym-jest-balcony-solar-i-jak-działa-04-22)
 - [Panel PV na balkonie  czym jest balcony solar i jak działa 0](https://telegra.ph/Panel-PV-na-balkonie--czym-jest-balcony-solar-i-jak-działa-04-22-2)
 - [Panel PV na balkonie  czym jest balcony solar i jak działa 0](https://telegra.ph/Panel-PV-na-balkonie--czym-jest-balcony-solar-i-jak-działa-04-22-3)
@@ -858,6 +853,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Panel PV na balkonie  czym jest balcony solar i jak działa 0](https://telegra.ph/Panel-PV-na-balkonie--czym-jest-balcony-solar-i-jak-działa-04-22-6)
 - [Panel PV na balkonie  czym jest balcony solar i jak działa 0](https://telegra.ph/Panel-PV-na-balkonie--czym-jest-balcony-solar-i-jak-działa-04-22-7)
 - [Panel PV na balkonie  czym jest balcony solar i jak działa 0](https://telegra.ph/Panel-PV-na-balkonie--czym-jest-balcony-solar-i-jak-działa-04-22-8)
+- [zpl oze 495d5b](https://rentry.co/zpl-oze-495d5b)
+- [zpl eco 495d5b](https://rentry.co/zpl-eco-495d5b)
+- [zpl krt 495d5b](https://rentry.co/zpl-krt-495d5b)
+- [zpl ene 495d5b](https://rentry.co/zpl-ene-495d5b)
+- [zpl sol 495d5b](https://rentry.co/zpl-sol-495d5b)
 
 ## Magazyn energii w domu — czym jest i kiedy warto go rozważyć
 
@@ -865,7 +865,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [magazyn energii w domu czym jest i kiedy warto go rozwa y](https://solarfinance.pl/2026/04/22/magazyn-energii-w-domu-czym-jest-i-kiedy-warto-go-rozwa-y/)
 - [magazyn energii w domu czym jest i kiedy warto go rozwazyc](https://worldofozepoland.hashnode.dev/magazyn-energii-w-domu-czym-jest-i-kiedy-warto-go-rozwazyc)
 - [magazyn energii w domu czym jest i kiedy warto go rozwazyc](https://localozepoland.hashnode.dev/magazyn-energii-w-domu-czym-jest-i-kiedy-warto-go-rozwazyc)
 - [magazyn energii w domu czym jest i kiedy warto go rozwazyc](https://kasiasearchingpv.hashnode.dev/magazyn-energii-w-domu-czym-jest-i-kiedy-warto-go-rozwazyc)
@@ -878,11 +877,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [magazyn energii w domu czym jest i kiedy warto go rozwazyc](https://tomekwanttoinstalpc.hashnode.dev/magazyn-energii-w-domu-czym-jest-i-kiedy-warto-go-rozwazyc)
 - [magazyn energii w domu czym jest i kiedy warto go rozwazyc](https://electricycarpoland.hashnode.dev/magazyn-energii-w-domu-czym-jest-i-kiedy-warto-go-rozwazyc)
 - [magazyn energii w domu czym jest i kiedy warto go rozwazyc](https://effectiveone.mataroa.blog/blog/magazyn-energii-w-domu-czym-jest-i-kiedy-warto-go-rozwazyc/)
-- [zpl oze a566d0](https://rentry.co/zpl-oze-a566d0)
-- [zpl eco a566d0](https://rentry.co/zpl-eco-a566d0)
-- [zpl krt a566d0](https://rentry.co/zpl-krt-a566d0)
-- [zpl ene a566d0](https://rentry.co/zpl-ene-a566d0)
-- [zpl sol a566d0](https://rentry.co/zpl-sol-a566d0)
+- [magazyn energii w domu czym jest i kiedy warto go rozwa y](https://solarfinance.pl/2026/04/22/magazyn-energii-w-domu-czym-jest-i-kiedy-warto-go-rozwa-y/)
 - [Magazyn energii w domu  czym jest i kiedy warto go rozważyć ](https://telegra.ph/Magazyn-energii-w-domu--czym-jest-i-kiedy-warto-go-rozważyć-04-22)
 - [Magazyn energii w domu  czym jest i kiedy warto go rozważyć ](https://telegra.ph/Magazyn-energii-w-domu--czym-jest-i-kiedy-warto-go-rozważyć-04-22-2)
 - [Magazyn energii w domu  czym jest i kiedy warto go rozważyć ](https://telegra.ph/Magazyn-energii-w-domu--czym-jest-i-kiedy-warto-go-rozważyć-04-22-3)
@@ -891,6 +886,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Magazyn energii w domu  czym jest i kiedy warto go rozważyć ](https://telegra.ph/Magazyn-energii-w-domu--czym-jest-i-kiedy-warto-go-rozważyć-04-22-6)
 - [Magazyn energii w domu  czym jest i kiedy warto go rozważyć ](https://telegra.ph/Magazyn-energii-w-domu--czym-jest-i-kiedy-warto-go-rozważyć-04-22-7)
 - [Magazyn energii w domu  czym jest i kiedy warto go rozważyć ](https://telegra.ph/Magazyn-energii-w-domu--czym-jest-i-kiedy-warto-go-rozważyć-04-22-8)
+- [zpl oze a566d0](https://rentry.co/zpl-oze-a566d0)
+- [zpl eco a566d0](https://rentry.co/zpl-eco-a566d0)
+- [zpl krt a566d0](https://rentry.co/zpl-krt-a566d0)
+- [zpl ene a566d0](https://rentry.co/zpl-ene-a566d0)
+- [zpl sol a566d0](https://rentry.co/zpl-sol-a566d0)
 
 ## Vehicle-to-Grid (V2G) — czym jest i jak działa dwukierunkowe ładowanie
 
@@ -898,7 +898,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [vehicle to grid v2g czym jest i jak dzia a dwukierunkowe ado](https://solarfinance.pl/2026/04/22/vehicle-to-grid-v2g-czym-jest-i-jak-dzia-a-dwukierunkowe-ado/)
 - [vehicle to grid v2g czym jest i jak dziala dwukierunkowe lad](https://worldofozepoland.hashnode.dev/vehicle-to-grid-v2g-czym-jest-i-jak-dziala-dwukierunkowe-ladowanie)
 - [vehicle to grid v2g czym jest i jak dziala dwukierunkowe lad](https://localozepoland.hashnode.dev/vehicle-to-grid-v2g-czym-jest-i-jak-dziala-dwukierunkowe-ladowanie)
 - [vehicle to grid v2g czym jest i jak dziala dwukierunkowe lad](https://kasiasearchingpv.hashnode.dev/vehicle-to-grid-v2g-czym-jest-i-jak-dziala-dwukierunkowe-ladowanie)
@@ -911,11 +910,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [vehicle to grid v2g czym jest i jak dziala dwukierunkowe lad](https://tomekwanttoinstalpc.hashnode.dev/vehicle-to-grid-v2g-czym-jest-i-jak-dziala-dwukierunkowe-ladowanie)
 - [vehicle to grid v2g czym jest i jak dziala dwukierunkowe lad](https://electricycarpoland.hashnode.dev/vehicle-to-grid-v2g-czym-jest-i-jak-dziala-dwukierunkowe-ladowanie)
 - [vehicle to grid v2g czym jest i jak dziaa dwukierunkowe adow](https://effectiveone.mataroa.blog/blog/vehicle-to-grid-v2g-czym-jest-i-jak-dziaa-dwukierunkowe-adowanie/)
-- [zpl oze 87122f](https://rentry.co/zpl-oze-87122f)
-- [zpl eco 87122f](https://rentry.co/zpl-eco-87122f)
-- [zpl krt 87122f](https://rentry.co/zpl-krt-87122f)
-- [zpl ene 87122f](https://rentry.co/zpl-ene-87122f)
-- [zpl sol 87122f](https://rentry.co/zpl-sol-87122f)
+- [vehicle to grid v2g czym jest i jak dzia a dwukierunkowe ado](https://solarfinance.pl/2026/04/22/vehicle-to-grid-v2g-czym-jest-i-jak-dzia-a-dwukierunkowe-ado/)
 - [Vehicle to Grid V2G  czym jest i jak działa dwukierunkowe ła](https://telegra.ph/Vehicle-to-Grid-V2G--czym-jest-i-jak-działa-dwukierunkowe-ładowanie-04-22)
 - [Vehicle to Grid V2G  czym jest i jak działa dwukierunkowe ła](https://telegra.ph/Vehicle-to-Grid-V2G--czym-jest-i-jak-działa-dwukierunkowe-ładowanie-04-22-2)
 - [Vehicle to Grid V2G  czym jest i jak działa dwukierunkowe ła](https://telegra.ph/Vehicle-to-Grid-V2G--czym-jest-i-jak-działa-dwukierunkowe-ładowanie-04-22-3)
@@ -924,6 +919,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Vehicle to Grid V2G  czym jest i jak działa dwukierunkowe ła](https://telegra.ph/Vehicle-to-Grid-V2G--czym-jest-i-jak-działa-dwukierunkowe-ładowanie-04-22-6)
 - [Vehicle to Grid V2G  czym jest i jak działa dwukierunkowe ła](https://telegra.ph/Vehicle-to-Grid-V2G--czym-jest-i-jak-działa-dwukierunkowe-ładowanie-04-22-7)
 - [Vehicle to Grid V2G  czym jest i jak działa dwukierunkowe ła](https://telegra.ph/Vehicle-to-Grid-V2G--czym-jest-i-jak-działa-dwukierunkowe-ładowanie-04-22-8)
+- [zpl oze 87122f](https://rentry.co/zpl-oze-87122f)
+- [zpl eco 87122f](https://rentry.co/zpl-eco-87122f)
+- [zpl krt 87122f](https://rentry.co/zpl-krt-87122f)
+- [zpl ene 87122f](https://rentry.co/zpl-ene-87122f)
+- [zpl sol 87122f](https://rentry.co/zpl-sol-87122f)
 
 ## Oxford PV wysłało pierwsze komercyjne moduły tandemowe perowskit-krzem. Sprawność: 24,5%. Kiedy trafią na polskie dachy?
 
@@ -931,7 +931,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [oxford pv wys a o pierwsze komercyjne modu y tandemowe perow](https://solarfinance.pl/2026/04/22/oxford-pv-wys-a-o-pierwsze-komercyjne-modu-y-tandemowe-perow/)
 - [oxford pv wyslalo pierwsze komercyjne moduly tandemowe perow](https://worldofozepoland.hashnode.dev/oxford-pv-wyslalo-pierwsze-komercyjne-moduly-tandemowe-perowskit-krzem-sprawnosc-245-kiedy-trafia-na-polskie-dachy)
 - [oxford pv wyslalo pierwsze komercyjne moduly tandemowe perow](https://localozepoland.hashnode.dev/oxford-pv-wyslalo-pierwsze-komercyjne-moduly-tandemowe-perowskit-krzem-sprawnosc-245-kiedy-trafia-na-polskie-dachy)
 - [oxford pv wyslalo pierwsze komercyjne moduly tandemowe perow](https://kasiasearchingpv.hashnode.dev/oxford-pv-wyslalo-pierwsze-komercyjne-moduly-tandemowe-perowskit-krzem-sprawnosc-245-kiedy-trafia-na-polskie-dachy)
@@ -944,11 +943,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [oxford pv wyslalo pierwsze komercyjne moduly tandemowe perow](https://tomekwanttoinstalpc.hashnode.dev/oxford-pv-wyslalo-pierwsze-komercyjne-moduly-tandemowe-perowskit-krzem-sprawnosc-245-kiedy-trafia-na-polskie-dachy)
 - [oxford pv wyslalo pierwsze komercyjne moduly tandemowe perow](https://electricycarpoland.hashnode.dev/oxford-pv-wyslalo-pierwsze-komercyjne-moduly-tandemowe-perowskit-krzem-sprawnosc-245-kiedy-trafia-na-polskie-dachy)
 - [oxford pv wysao pierwsze komercyjne moduy tandemowe perowski](https://effectiveone.mataroa.blog/blog/oxford-pv-wysao-pierwsze-komercyjne-moduy-tandemowe-perowskit-krzem-sprawnosc-245-kiedy-trafia-na-polskie-dachy/)
-- [zpl oze d26809](https://rentry.co/zpl-oze-d26809)
-- [zpl eco d26809](https://rentry.co/zpl-eco-d26809)
-- [zpl krt d26809](https://rentry.co/zpl-krt-d26809)
-- [zpl ene d26809](https://rentry.co/zpl-ene-d26809)
-- [zpl sol d26809](https://rentry.co/zpl-sol-d26809)
+- [oxford pv wys a o pierwsze komercyjne modu y tandemowe perow](https://solarfinance.pl/2026/04/22/oxford-pv-wys-a-o-pierwsze-komercyjne-modu-y-tandemowe-perow/)
 - [Oxford PV wysłało pierwsze komercyjne moduły tandemowe perow](https://telegra.ph/Oxford-PV-wysłało-pierwsze-komercyjne-moduły-tandemowe-perowskit-krzem-Sprawność-245-Kiedy-trafią-na-polskie-dachy-04-22)
 - [Oxford PV wysłało pierwsze komercyjne moduły tandemowe perow](https://telegra.ph/Oxford-PV-wysłało-pierwsze-komercyjne-moduły-tandemowe-perowskit-krzem-Sprawność-245-Kiedy-trafią-na-polskie-dachy-04-22-2)
 - [Oxford PV wysłało pierwsze komercyjne moduły tandemowe perow](https://telegra.ph/Oxford-PV-wysłało-pierwsze-komercyjne-moduły-tandemowe-perowskit-krzem-Sprawność-245-Kiedy-trafią-na-polskie-dachy-04-22-3)
@@ -957,6 +952,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Oxford PV wysłało pierwsze komercyjne moduły tandemowe perow](https://telegra.ph/Oxford-PV-wysłało-pierwsze-komercyjne-moduły-tandemowe-perowskit-krzem-Sprawność-245-Kiedy-trafią-na-polskie-dachy-04-22-6)
 - [Oxford PV wysłało pierwsze komercyjne moduły tandemowe perow](https://telegra.ph/Oxford-PV-wysłało-pierwsze-komercyjne-moduły-tandemowe-perowskit-krzem-Sprawność-245-Kiedy-trafią-na-polskie-dachy-04-22-7)
 - [Oxford PV wysłało pierwsze komercyjne moduły tandemowe perow](https://telegra.ph/Oxford-PV-wysłało-pierwsze-komercyjne-moduły-tandemowe-perowskit-krzem-Sprawność-245-Kiedy-trafią-na-polskie-dachy-04-22-8)
+- [zpl oze d26809](https://rentry.co/zpl-oze-d26809)
+- [zpl eco d26809](https://rentry.co/zpl-eco-d26809)
+- [zpl krt d26809](https://rentry.co/zpl-krt-d26809)
+- [zpl ene d26809](https://rentry.co/zpl-ene-d26809)
+- [zpl sol d26809](https://rentry.co/zpl-sol-d26809)
 
 ## One-stop shop dla renowacji budynków: co przewiduje Rekomendacja KE 2026/536 i jak wygląda ten model
 
@@ -964,7 +964,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [one stop shop dla renowacji budynk w co przewiduje rekomenda](https://solarfinance.pl/2026/04/22/one-stop-shop-dla-renowacji-budynk-w-co-przewiduje-rekomenda/)
 - [one stop shop dla renowacji budynkow co przewiduje rekomenda](https://worldofozepoland.hashnode.dev/one-stop-shop-dla-renowacji-budynkow-co-przewiduje-rekomendacja-ke-2026536-i-jak-wyglada-ten-model)
 - [one stop shop dla renowacji budynkow co przewiduje rekomenda](https://localozepoland.hashnode.dev/one-stop-shop-dla-renowacji-budynkow-co-przewiduje-rekomendacja-ke-2026536-i-jak-wyglada-ten-model)
 - [one stop shop dla renowacji budynkow co przewiduje rekomenda](https://kasiasearchingpv.hashnode.dev/one-stop-shop-dla-renowacji-budynkow-co-przewiduje-rekomendacja-ke-2026536-i-jak-wyglada-ten-model)
@@ -977,11 +976,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [one stop shop dla renowacji budynkow co przewiduje rekomenda](https://tomekwanttoinstalpc.hashnode.dev/one-stop-shop-dla-renowacji-budynkow-co-przewiduje-rekomendacja-ke-2026536-i-jak-wyglada-ten-model)
 - [one stop shop dla renowacji budynkow co przewiduje rekomenda](https://electricycarpoland.hashnode.dev/one-stop-shop-dla-renowacji-budynkow-co-przewiduje-rekomendacja-ke-2026536-i-jak-wyglada-ten-model)
 - [one stop shop dla renowacji budynkow co przewiduje rekomenda](https://effectiveone.mataroa.blog/blog/one-stop-shop-dla-renowacji-budynkow-co-przewiduje-rekomendacja-ke-2026536-i-jak-wyglada-ten-model/)
-- [zpl oze 0a9fec](https://rentry.co/zpl-oze-0a9fec)
-- [zpl eco 0a9fec](https://rentry.co/zpl-eco-0a9fec)
-- [zpl krt 0a9fec](https://rentry.co/zpl-krt-0a9fec)
-- [zpl ene 0a9fec](https://rentry.co/zpl-ene-0a9fec)
-- [zpl sol 0a9fec](https://rentry.co/zpl-sol-0a9fec)
+- [one stop shop dla renowacji budynk w co przewiduje rekomenda](https://solarfinance.pl/2026/04/22/one-stop-shop-dla-renowacji-budynk-w-co-przewiduje-rekomenda/)
 - [One stop shop dla renowacji budynków co przewiduje Rekomenda](https://telegra.ph/One-stop-shop-dla-renowacji-budynków-co-przewiduje-Rekomendacja-KE-2026536-i-jak-wygląda-ten-model-04-22)
 - [One stop shop dla renowacji budynków co przewiduje Rekomenda](https://telegra.ph/One-stop-shop-dla-renowacji-budynków-co-przewiduje-Rekomendacja-KE-2026536-i-jak-wygląda-ten-model-04-22-2)
 - [One stop shop dla renowacji budynków co przewiduje Rekomenda](https://telegra.ph/One-stop-shop-dla-renowacji-budynków-co-przewiduje-Rekomendacja-KE-2026536-i-jak-wygląda-ten-model-04-22-3)
@@ -990,6 +985,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [One stop shop dla renowacji budynków co przewiduje Rekomenda](https://telegra.ph/One-stop-shop-dla-renowacji-budynków-co-przewiduje-Rekomendacja-KE-2026536-i-jak-wygląda-ten-model-04-22-6)
 - [One stop shop dla renowacji budynków co przewiduje Rekomenda](https://telegra.ph/One-stop-shop-dla-renowacji-budynków-co-przewiduje-Rekomendacja-KE-2026536-i-jak-wygląda-ten-model-04-22-7)
 - [One stop shop dla renowacji budynków co przewiduje Rekomenda](https://telegra.ph/One-stop-shop-dla-renowacji-budynków-co-przewiduje-Rekomendacja-KE-2026536-i-jak-wygląda-ten-model-04-22-8)
+- [zpl oze 0a9fec](https://rentry.co/zpl-oze-0a9fec)
+- [zpl eco 0a9fec](https://rentry.co/zpl-eco-0a9fec)
+- [zpl krt 0a9fec](https://rentry.co/zpl-krt-0a9fec)
+- [zpl ene 0a9fec](https://rentry.co/zpl-ene-0a9fec)
+- [zpl sol 0a9fec](https://rentry.co/zpl-sol-0a9fec)
 
 ## Ceny energii elektrycznej w UE na tle USA i Chin — dane IEA 2026 i debata o integracji rynku
 
@@ -997,7 +997,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [ceny energii elektrycznej w ue na tle usa i chin dane iea 20](https://solarfinance.pl/2026/04/22/ceny-energii-elektrycznej-w-ue-na-tle-usa-i-chin-dane-iea-20/)
 - [ceny energii elektrycznej w ue na tle usa i chin dane iea 20](https://worldofozepoland.hashnode.dev/ceny-energii-elektrycznej-w-ue-na-tle-usa-i-chin-dane-iea-2026-i-debata-o-integracji-rynku)
 - [ceny energii elektrycznej w ue na tle usa i chin dane iea 20](https://localozepoland.hashnode.dev/ceny-energii-elektrycznej-w-ue-na-tle-usa-i-chin-dane-iea-2026-i-debata-o-integracji-rynku)
 - [ceny energii elektrycznej w ue na tle usa i chin dane iea 20](https://kasiasearchingpv.hashnode.dev/ceny-energii-elektrycznej-w-ue-na-tle-usa-i-chin-dane-iea-2026-i-debata-o-integracji-rynku)
@@ -1010,11 +1009,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [ceny energii elektrycznej w ue na tle usa i chin dane iea 20](https://tomekwanttoinstalpc.hashnode.dev/ceny-energii-elektrycznej-w-ue-na-tle-usa-i-chin-dane-iea-2026-i-debata-o-integracji-rynku)
 - [ceny energii elektrycznej w ue na tle usa i chin dane iea 20](https://electricycarpoland.hashnode.dev/ceny-energii-elektrycznej-w-ue-na-tle-usa-i-chin-dane-iea-2026-i-debata-o-integracji-rynku)
 - [ceny energii elektrycznej w ue na tle usa i chin dane iea 20](https://effectiveone.mataroa.blog/blog/ceny-energii-elektrycznej-w-ue-na-tle-usa-i-chin-dane-iea-2026-i-debata-o-integracji-rynku/)
-- [zpl oze 51731f](https://rentry.co/zpl-oze-51731f)
-- [zpl eco 51731f](https://rentry.co/zpl-eco-51731f)
-- [zpl krt 51731f](https://rentry.co/zpl-krt-51731f)
-- [zpl ene 51731f](https://rentry.co/zpl-ene-51731f)
-- [zpl sol 51731f](https://rentry.co/zpl-sol-51731f)
+- [ceny energii elektrycznej w ue na tle usa i chin dane iea 20](https://solarfinance.pl/2026/04/22/ceny-energii-elektrycznej-w-ue-na-tle-usa-i-chin-dane-iea-20/)
 - [Ceny energii elektrycznej w UE na tle USA i Chin  dane IEA 2](https://telegra.ph/Ceny-energii-elektrycznej-w-UE-na-tle-USA-i-Chin--dane-IEA-2026-i-debata-o-integracji-rynku-04-22)
 - [Ceny energii elektrycznej w UE na tle USA i Chin  dane IEA 2](https://telegra.ph/Ceny-energii-elektrycznej-w-UE-na-tle-USA-i-Chin--dane-IEA-2026-i-debata-o-integracji-rynku-04-22-2)
 - [Ceny energii elektrycznej w UE na tle USA i Chin  dane IEA 2](https://telegra.ph/Ceny-energii-elektrycznej-w-UE-na-tle-USA-i-Chin--dane-IEA-2026-i-debata-o-integracji-rynku-04-22-3)
@@ -1023,6 +1018,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Ceny energii elektrycznej w UE na tle USA i Chin  dane IEA 2](https://telegra.ph/Ceny-energii-elektrycznej-w-UE-na-tle-USA-i-Chin--dane-IEA-2026-i-debata-o-integracji-rynku-04-22-6)
 - [Ceny energii elektrycznej w UE na tle USA i Chin  dane IEA 2](https://telegra.ph/Ceny-energii-elektrycznej-w-UE-na-tle-USA-i-Chin--dane-IEA-2026-i-debata-o-integracji-rynku-04-22-7)
 - [Ceny energii elektrycznej w UE na tle USA i Chin  dane IEA 2](https://telegra.ph/Ceny-energii-elektrycznej-w-UE-na-tle-USA-i-Chin--dane-IEA-2026-i-debata-o-integracji-rynku-04-22-8)
+- [zpl oze 51731f](https://rentry.co/zpl-oze-51731f)
+- [zpl eco 51731f](https://rentry.co/zpl-eco-51731f)
+- [zpl krt 51731f](https://rentry.co/zpl-krt-51731f)
+- [zpl ene 51731f](https://rentry.co/zpl-ene-51731f)
+- [zpl sol 51731f](https://rentry.co/zpl-sol-51731f)
 
 ## Dyrektywa budowlana EPBD 2024/1275: co przewiduje i czego jeszcze nie ma w polskim prawie
 
@@ -1030,7 +1030,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [dyrektywa budowlana epbd 2024 1275 co przewiduje i czego jes](https://solarfinance.pl/2026/04/22/dyrektywa-budowlana-epbd-2024-1275-co-przewiduje-i-czego-jes/)
 - [dyrektywa budowlana epbd 20241275 co przewiduje i czego jesz](https://worldofozepoland.hashnode.dev/dyrektywa-budowlana-epbd-20241275-co-przewiduje-i-czego-jeszcze-nie-ma-w-polskim-prawie)
 - [dyrektywa budowlana epbd 20241275 co przewiduje i czego jesz](https://localozepoland.hashnode.dev/dyrektywa-budowlana-epbd-20241275-co-przewiduje-i-czego-jeszcze-nie-ma-w-polskim-prawie)
 - [dyrektywa budowlana epbd 20241275 co przewiduje i czego jesz](https://kasiasearchingpv.hashnode.dev/dyrektywa-budowlana-epbd-20241275-co-przewiduje-i-czego-jeszcze-nie-ma-w-polskim-prawie)
@@ -1043,11 +1042,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [dyrektywa budowlana epbd 20241275 co przewiduje i czego jesz](https://tomekwanttoinstalpc.hashnode.dev/dyrektywa-budowlana-epbd-20241275-co-przewiduje-i-czego-jeszcze-nie-ma-w-polskim-prawie)
 - [dyrektywa budowlana epbd 20241275 co przewiduje i czego jesz](https://electricycarpoland.hashnode.dev/dyrektywa-budowlana-epbd-20241275-co-przewiduje-i-czego-jeszcze-nie-ma-w-polskim-prawie)
 - [dyrektywa budowlana epbd 20241275 co przewiduje i czego jesz](https://effectiveone.mataroa.blog/blog/dyrektywa-budowlana-epbd-20241275-co-przewiduje-i-czego-jeszcze-nie-ma-w-polskim-prawie/)
-- [zpl oze d5f454](https://rentry.co/zpl-oze-d5f454)
-- [zpl eco d5f454](https://rentry.co/zpl-eco-d5f454)
-- [zpl krt d5f454](https://rentry.co/zpl-krt-d5f454)
-- [zpl ene d5f454](https://rentry.co/zpl-ene-d5f454)
-- [zpl sol d5f454](https://rentry.co/zpl-sol-d5f454)
+- [dyrektywa budowlana epbd 2024 1275 co przewiduje i czego jes](https://solarfinance.pl/2026/04/22/dyrektywa-budowlana-epbd-2024-1275-co-przewiduje-i-czego-jes/)
 - [Dyrektywa budowlana EPBD 20241275 co przewiduje i czego jesz](https://telegra.ph/Dyrektywa-budowlana-EPBD-20241275-co-przewiduje-i-czego-jeszcze-nie-ma-w-polskim-prawie-04-22)
 - [Dyrektywa budowlana EPBD 20241275 co przewiduje i czego jesz](https://telegra.ph/Dyrektywa-budowlana-EPBD-20241275-co-przewiduje-i-czego-jeszcze-nie-ma-w-polskim-prawie-04-22-2)
 - [Dyrektywa budowlana EPBD 20241275 co przewiduje i czego jesz](https://telegra.ph/Dyrektywa-budowlana-EPBD-20241275-co-przewiduje-i-czego-jeszcze-nie-ma-w-polskim-prawie-04-22-3)
@@ -1056,6 +1051,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Dyrektywa budowlana EPBD 20241275 co przewiduje i czego jesz](https://telegra.ph/Dyrektywa-budowlana-EPBD-20241275-co-przewiduje-i-czego-jeszcze-nie-ma-w-polskim-prawie-04-22-6)
 - [Dyrektywa budowlana EPBD 20241275 co przewiduje i czego jesz](https://telegra.ph/Dyrektywa-budowlana-EPBD-20241275-co-przewiduje-i-czego-jeszcze-nie-ma-w-polskim-prawie-04-22-7)
 - [Dyrektywa budowlana EPBD 20241275 co przewiduje i czego jesz](https://telegra.ph/Dyrektywa-budowlana-EPBD-20241275-co-przewiduje-i-czego-jeszcze-nie-ma-w-polskim-prawie-04-22-8)
+- [zpl oze d5f454](https://rentry.co/zpl-oze-d5f454)
+- [zpl eco d5f454](https://rentry.co/zpl-eco-d5f454)
+- [zpl krt d5f454](https://rentry.co/zpl-krt-d5f454)
+- [zpl ene d5f454](https://rentry.co/zpl-ene-d5f454)
+- [zpl sol d5f454](https://rentry.co/zpl-sol-d5f454)
 
 ## Surowce krytyczne dla OZE: czym jest CRMA i co zmieniło się w 2026 roku
 
@@ -1063,7 +1063,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [surowce krytyczne dla oze czym jest crma i co zmieni o si w ](https://solarfinance.pl/2026/04/22/surowce-krytyczne-dla-oze-czym-jest-crma-i-co-zmieni-o-si-w-/)
 - [surowce krytyczne dla oze czym jest crma i co zmienilo sie w](https://worldofozepoland.hashnode.dev/surowce-krytyczne-dla-oze-czym-jest-crma-i-co-zmienilo-sie-w-2026-roku)
 - [surowce krytyczne dla oze czym jest crma i co zmienilo sie w](https://localozepoland.hashnode.dev/surowce-krytyczne-dla-oze-czym-jest-crma-i-co-zmienilo-sie-w-2026-roku)
 - [surowce krytyczne dla oze czym jest crma i co zmienilo sie w](https://kasiasearchingpv.hashnode.dev/surowce-krytyczne-dla-oze-czym-jest-crma-i-co-zmienilo-sie-w-2026-roku)
@@ -1076,11 +1075,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [surowce krytyczne dla oze czym jest crma i co zmienilo sie w](https://tomekwanttoinstalpc.hashnode.dev/surowce-krytyczne-dla-oze-czym-jest-crma-i-co-zmienilo-sie-w-2026-roku)
 - [surowce krytyczne dla oze czym jest crma i co zmienilo sie w](https://electricycarpoland.hashnode.dev/surowce-krytyczne-dla-oze-czym-jest-crma-i-co-zmienilo-sie-w-2026-roku)
 - [surowce krytyczne dla oze czym jest crma i co zmienio sie w ](https://effectiveone.mataroa.blog/blog/surowce-krytyczne-dla-oze-czym-jest-crma-i-co-zmienio-sie-w-2026-roku/)
-- [zpl oze 38581d](https://rentry.co/zpl-oze-38581d)
-- [zpl eco 38581d](https://rentry.co/zpl-eco-38581d)
-- [zpl krt 38581d](https://rentry.co/zpl-krt-38581d)
-- [zpl ene 38581d](https://rentry.co/zpl-ene-38581d)
-- [zpl sol 38581d](https://rentry.co/zpl-sol-38581d)
+- [surowce krytyczne dla oze czym jest crma i co zmieni o si w ](https://solarfinance.pl/2026/04/22/surowce-krytyczne-dla-oze-czym-jest-crma-i-co-zmieni-o-si-w-/)
 - [Surowce krytyczne dla OZE czym jest CRMA i co zmieniło się w](https://telegra.ph/Surowce-krytyczne-dla-OZE-czym-jest-CRMA-i-co-zmieniło-się-w-2026-roku-04-22)
 - [Surowce krytyczne dla OZE czym jest CRMA i co zmieniło się w](https://telegra.ph/Surowce-krytyczne-dla-OZE-czym-jest-CRMA-i-co-zmieniło-się-w-2026-roku-04-22-2)
 - [Surowce krytyczne dla OZE czym jest CRMA i co zmieniło się w](https://telegra.ph/Surowce-krytyczne-dla-OZE-czym-jest-CRMA-i-co-zmieniło-się-w-2026-roku-04-22-3)
@@ -1089,6 +1084,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Surowce krytyczne dla OZE czym jest CRMA i co zmieniło się w](https://telegra.ph/Surowce-krytyczne-dla-OZE-czym-jest-CRMA-i-co-zmieniło-się-w-2026-roku-04-22-6)
 - [Surowce krytyczne dla OZE czym jest CRMA i co zmieniło się w](https://telegra.ph/Surowce-krytyczne-dla-OZE-czym-jest-CRMA-i-co-zmieniło-się-w-2026-roku-04-22-7)
 - [Surowce krytyczne dla OZE czym jest CRMA i co zmieniło się w](https://telegra.ph/Surowce-krytyczne-dla-OZE-czym-jest-CRMA-i-co-zmieniło-się-w-2026-roku-04-22-8)
+- [zpl oze 38581d](https://rentry.co/zpl-oze-38581d)
+- [zpl eco 38581d](https://rentry.co/zpl-eco-38581d)
+- [zpl krt 38581d](https://rentry.co/zpl-krt-38581d)
+- [zpl ene 38581d](https://rentry.co/zpl-ene-38581d)
+- [zpl sol 38581d](https://rentry.co/zpl-sol-38581d)
 
 ## Chiny rozpoczynają produkcję baterii solid-state — co to zmieni w magazynach energii i EV
 
@@ -1096,7 +1096,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [chiny rozpoczynaj produkcj baterii solid state co to zmieni ](https://solarfinance.pl/2026/04/22/chiny-rozpoczynaj-produkcj-baterii-solid-state-co-to-zmieni-/)
 - [chiny rozpoczynaja produkcje baterii solid state co to zmien](https://worldofozepoland.hashnode.dev/chiny-rozpoczynaja-produkcje-baterii-solid-state-co-to-zmieni-w-magazynach-energii-i-ev)
 - [chiny rozpoczynaja produkcje baterii solid state co to zmien](https://localozepoland.hashnode.dev/chiny-rozpoczynaja-produkcje-baterii-solid-state-co-to-zmieni-w-magazynach-energii-i-ev)
 - [chiny rozpoczynaja produkcje baterii solid state co to zmien](https://kasiasearchingpv.hashnode.dev/chiny-rozpoczynaja-produkcje-baterii-solid-state-co-to-zmieni-w-magazynach-energii-i-ev)
@@ -1109,11 +1108,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [chiny rozpoczynaja produkcje baterii solid state co to zmien](https://tomekwanttoinstalpc.hashnode.dev/chiny-rozpoczynaja-produkcje-baterii-solid-state-co-to-zmieni-w-magazynach-energii-i-ev)
 - [chiny rozpoczynaja produkcje baterii solid state co to zmien](https://electricycarpoland.hashnode.dev/chiny-rozpoczynaja-produkcje-baterii-solid-state-co-to-zmieni-w-magazynach-energii-i-ev)
 - [chiny rozpoczynaja produkcje baterii solid state co to zmien](https://effectiveone.mataroa.blog/blog/chiny-rozpoczynaja-produkcje-baterii-solid-state-co-to-zmieni-w-magazynach-energii-i-ev/)
-- [zpl oze df22cf](https://rentry.co/zpl-oze-df22cf)
-- [zpl eco df22cf](https://rentry.co/zpl-eco-df22cf)
-- [zpl krt df22cf](https://rentry.co/zpl-krt-df22cf)
-- [zpl ene df22cf](https://rentry.co/zpl-ene-df22cf)
-- [zpl sol df22cf](https://rentry.co/zpl-sol-df22cf)
+- [chiny rozpoczynaj produkcj baterii solid state co to zmieni ](https://solarfinance.pl/2026/04/22/chiny-rozpoczynaj-produkcj-baterii-solid-state-co-to-zmieni-/)
 - [Chiny rozpoczynają produkcję baterii solid state  co to zmie](https://telegra.ph/Chiny-rozpoczynają-produkcję-baterii-solid-state--co-to-zmieni-w-magazynach-energii-i-EV-04-22)
 - [Chiny rozpoczynają produkcję baterii solid state  co to zmie](https://telegra.ph/Chiny-rozpoczynają-produkcję-baterii-solid-state--co-to-zmieni-w-magazynach-energii-i-EV-04-22-2)
 - [Chiny rozpoczynają produkcję baterii solid state  co to zmie](https://telegra.ph/Chiny-rozpoczynają-produkcję-baterii-solid-state--co-to-zmieni-w-magazynach-energii-i-EV-04-22-3)
@@ -1122,6 +1117,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Chiny rozpoczynają produkcję baterii solid state  co to zmie](https://telegra.ph/Chiny-rozpoczynają-produkcję-baterii-solid-state--co-to-zmieni-w-magazynach-energii-i-EV-04-22-6)
 - [Chiny rozpoczynają produkcję baterii solid state  co to zmie](https://telegra.ph/Chiny-rozpoczynają-produkcję-baterii-solid-state--co-to-zmieni-w-magazynach-energii-i-EV-04-22-7)
 - [Chiny rozpoczynają produkcję baterii solid state  co to zmie](https://telegra.ph/Chiny-rozpoczynają-produkcję-baterii-solid-state--co-to-zmieni-w-magazynach-energii-i-EV-04-22-8)
+- [zpl oze df22cf](https://rentry.co/zpl-oze-df22cf)
+- [zpl eco df22cf](https://rentry.co/zpl-eco-df22cf)
+- [zpl krt df22cf](https://rentry.co/zpl-krt-df22cf)
+- [zpl ene df22cf](https://rentry.co/zpl-ene-df22cf)
+- [zpl sol df22cf](https://rentry.co/zpl-sol-df22cf)
 
 ## Termomodernizacja szkół i szpitali — fala dotacji 2026 dla budynków publicznych. Co to zmienia
 
@@ -1129,7 +1129,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [termomodernizacja szk i szpitali fala dotacji 2026 dla budyn](https://solarfinance.pl/2026/04/22/termomodernizacja-szk-i-szpitali-fala-dotacji-2026-dla-budyn/)
 - [termomodernizacja szkol i szpitali fala dotacji 2026 dla bud](https://worldofozepoland.hashnode.dev/termomodernizacja-szkol-i-szpitali-fala-dotacji-2026-dla-budynkow-publicznych-co-to-zmienia)
 - [termomodernizacja szkol i szpitali fala dotacji 2026 dla bud](https://localozepoland.hashnode.dev/termomodernizacja-szkol-i-szpitali-fala-dotacji-2026-dla-budynkow-publicznych-co-to-zmienia)
 - [termomodernizacja szkol i szpitali fala dotacji 2026 dla bud](https://kasiasearchingpv.hashnode.dev/termomodernizacja-szkol-i-szpitali-fala-dotacji-2026-dla-budynkow-publicznych-co-to-zmienia)
@@ -1142,11 +1141,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [termomodernizacja szkol i szpitali fala dotacji 2026 dla bud](https://tomekwanttoinstalpc.hashnode.dev/termomodernizacja-szkol-i-szpitali-fala-dotacji-2026-dla-budynkow-publicznych-co-to-zmienia)
 - [termomodernizacja szkol i szpitali fala dotacji 2026 dla bud](https://electricycarpoland.hashnode.dev/termomodernizacja-szkol-i-szpitali-fala-dotacji-2026-dla-budynkow-publicznych-co-to-zmienia)
 - [termomodernizacja szko i szpitali fala dotacji 2026 dla budy](https://effectiveone.mataroa.blog/blog/termomodernizacja-szko-i-szpitali-fala-dotacji-2026-dla-budynkow-publicznych-co-to-zmienia/)
-- [zpl oze c2ee4e](https://rentry.co/zpl-oze-c2ee4e)
-- [zpl eco c2ee4e](https://rentry.co/zpl-eco-c2ee4e)
-- [zpl krt c2ee4e](https://rentry.co/zpl-krt-c2ee4e)
-- [zpl ene c2ee4e](https://rentry.co/zpl-ene-c2ee4e)
-- [zpl sol c2ee4e](https://rentry.co/zpl-sol-c2ee4e)
+- [termomodernizacja szk i szpitali fala dotacji 2026 dla budyn](https://solarfinance.pl/2026/04/22/termomodernizacja-szk-i-szpitali-fala-dotacji-2026-dla-budyn/)
 - [Termomodernizacja szkół i szpitali  fala dotacji 2026 dla bu](https://telegra.ph/Termomodernizacja-szkół-i-szpitali--fala-dotacji-2026-dla-budynków-publicznych-Co-to-zmienia-04-22)
 - [Termomodernizacja szkół i szpitali  fala dotacji 2026 dla bu](https://telegra.ph/Termomodernizacja-szkół-i-szpitali--fala-dotacji-2026-dla-budynków-publicznych-Co-to-zmienia-04-22-2)
 - [Termomodernizacja szkół i szpitali  fala dotacji 2026 dla bu](https://telegra.ph/Termomodernizacja-szkół-i-szpitali--fala-dotacji-2026-dla-budynków-publicznych-Co-to-zmienia-04-22-3)
@@ -1155,6 +1150,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Termomodernizacja szkół i szpitali  fala dotacji 2026 dla bu](https://telegra.ph/Termomodernizacja-szkół-i-szpitali--fala-dotacji-2026-dla-budynków-publicznych-Co-to-zmienia-04-22-6)
 - [Termomodernizacja szkół i szpitali  fala dotacji 2026 dla bu](https://telegra.ph/Termomodernizacja-szkół-i-szpitali--fala-dotacji-2026-dla-budynków-publicznych-Co-to-zmienia-04-22-7)
 - [Termomodernizacja szkół i szpitali  fala dotacji 2026 dla bu](https://telegra.ph/Termomodernizacja-szkół-i-szpitali--fala-dotacji-2026-dla-budynków-publicznych-Co-to-zmienia-04-22-8)
+- [zpl oze c2ee4e](https://rentry.co/zpl-oze-c2ee4e)
+- [zpl eco c2ee4e](https://rentry.co/zpl-eco-c2ee4e)
+- [zpl krt c2ee4e](https://rentry.co/zpl-krt-c2ee4e)
+- [zpl ene c2ee4e](https://rentry.co/zpl-ene-c2ee4e)
+- [zpl sol c2ee4e](https://rentry.co/zpl-sol-c2ee4e)
 
 ## Ceny paneli PV rosną po 2 latach spadków — jak zmienia się kalkulacja instalacji
 
@@ -1162,7 +1162,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [ceny paneli pv rosn po 2 latach spadk w jak zmienia si kalku](https://solarfinance.pl/2026/04/22/ceny-paneli-pv-rosn-po-2-latach-spadk-w-jak-zmienia-si-kalku/)
 - [ceny paneli pv rosna po 2 latach spadkow jak zmienia sie kal](https://worldofozepoland.hashnode.dev/ceny-paneli-pv-rosna-po-2-latach-spadkow-jak-zmienia-sie-kalkulacja-instalacji)
 - [ceny paneli pv rosna po 2 latach spadkow jak zmienia sie kal](https://localozepoland.hashnode.dev/ceny-paneli-pv-rosna-po-2-latach-spadkow-jak-zmienia-sie-kalkulacja-instalacji)
 - [ceny paneli pv rosna po 2 latach spadkow jak zmienia sie kal](https://kasiasearchingpv.hashnode.dev/ceny-paneli-pv-rosna-po-2-latach-spadkow-jak-zmienia-sie-kalkulacja-instalacji)
@@ -1175,11 +1174,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [ceny paneli pv rosna po 2 latach spadkow jak zmienia sie kal](https://tomekwanttoinstalpc.hashnode.dev/ceny-paneli-pv-rosna-po-2-latach-spadkow-jak-zmienia-sie-kalkulacja-instalacji)
 - [ceny paneli pv rosna po 2 latach spadkow jak zmienia sie kal](https://electricycarpoland.hashnode.dev/ceny-paneli-pv-rosna-po-2-latach-spadkow-jak-zmienia-sie-kalkulacja-instalacji)
 - [ceny paneli pv rosna po 2 latach spadkow jak zmienia sie kal](https://effectiveone.mataroa.blog/blog/ceny-paneli-pv-rosna-po-2-latach-spadkow-jak-zmienia-sie-kalkulacja-instalacji/)
-- [zpl oze b3b515](https://rentry.co/zpl-oze-b3b515)
-- [zpl eco b3b515](https://rentry.co/zpl-eco-b3b515)
-- [zpl krt b3b515](https://rentry.co/zpl-krt-b3b515)
-- [zpl ene b3b515](https://rentry.co/zpl-ene-b3b515)
-- [zpl sol b3b515](https://rentry.co/zpl-sol-b3b515)
+- [ceny paneli pv rosn po 2 latach spadk w jak zmienia si kalku](https://solarfinance.pl/2026/04/22/ceny-paneli-pv-rosn-po-2-latach-spadk-w-jak-zmienia-si-kalku/)
 - [Ceny paneli PV rosną po 2 latach spadków  jak zmienia się ka](https://telegra.ph/Ceny-paneli-PV-rosną-po-2-latach-spadków--jak-zmienia-się-kalkulacja-instalacji-04-22)
 - [Ceny paneli PV rosną po 2 latach spadków  jak zmienia się ka](https://telegra.ph/Ceny-paneli-PV-rosną-po-2-latach-spadków--jak-zmienia-się-kalkulacja-instalacji-04-22-2)
 - [Ceny paneli PV rosną po 2 latach spadków  jak zmienia się ka](https://telegra.ph/Ceny-paneli-PV-rosną-po-2-latach-spadków--jak-zmienia-się-kalkulacja-instalacji-04-22-3)
@@ -1188,6 +1183,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Ceny paneli PV rosną po 2 latach spadków  jak zmienia się ka](https://telegra.ph/Ceny-paneli-PV-rosną-po-2-latach-spadków--jak-zmienia-się-kalkulacja-instalacji-04-22-6)
 - [Ceny paneli PV rosną po 2 latach spadków  jak zmienia się ka](https://telegra.ph/Ceny-paneli-PV-rosną-po-2-latach-spadków--jak-zmienia-się-kalkulacja-instalacji-04-22-7)
 - [Ceny paneli PV rosną po 2 latach spadków  jak zmienia się ka](https://telegra.ph/Ceny-paneli-PV-rosną-po-2-latach-spadków--jak-zmienia-się-kalkulacja-instalacji-04-22-8)
+- [zpl oze b3b515](https://rentry.co/zpl-oze-b3b515)
+- [zpl eco b3b515](https://rentry.co/zpl-eco-b3b515)
+- [zpl krt b3b515](https://rentry.co/zpl-krt-b3b515)
+- [zpl ene b3b515](https://rentry.co/zpl-ene-b3b515)
+- [zpl sol b3b515](https://rentry.co/zpl-sol-b3b515)
 
 ## Francja i Włochy zainstalowały 1,4 GW PV w Q1 2026 — Polska traci dystans. Porównanie rynków
 
@@ -1195,7 +1195,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [francja i w ochy zainstalowa y 1 4 gw pv w q1 2026 polska tr](https://solarfinance.pl/2026/04/22/francja-i-w-ochy-zainstalowa-y-1-4-gw-pv-w-q1-2026-polska-tr/)
 - [francja i wlochy zainstalowaly 14 gw pv w q1 2026 polska tra](https://worldofozepoland.hashnode.dev/francja-i-wlochy-zainstalowaly-14-gw-pv-w-q1-2026-polska-traci-dystans-porownanie-rynkow)
 - [francja i wlochy zainstalowaly 14 gw pv w q1 2026 polska tra](https://localozepoland.hashnode.dev/francja-i-wlochy-zainstalowaly-14-gw-pv-w-q1-2026-polska-traci-dystans-porownanie-rynkow)
 - [francja i wlochy zainstalowaly 14 gw pv w q1 2026 polska tra](https://kasiasearchingpv.hashnode.dev/francja-i-wlochy-zainstalowaly-14-gw-pv-w-q1-2026-polska-traci-dystans-porownanie-rynkow)
@@ -1208,11 +1207,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [francja i wlochy zainstalowaly 14 gw pv w q1 2026 polska tra](https://tomekwanttoinstalpc.hashnode.dev/francja-i-wlochy-zainstalowaly-14-gw-pv-w-q1-2026-polska-traci-dystans-porownanie-rynkow)
 - [francja i wlochy zainstalowaly 14 gw pv w q1 2026 polska tra](https://electricycarpoland.hashnode.dev/francja-i-wlochy-zainstalowaly-14-gw-pv-w-q1-2026-polska-traci-dystans-porownanie-rynkow)
 - [francja i wochy zainstaloway 14 gw pv w q1 2026 polska traci](https://effectiveone.mataroa.blog/blog/francja-i-wochy-zainstaloway-14-gw-pv-w-q1-2026-polska-traci-dystans-porownanie-rynkow/)
-- [zpl oze 0ad7a8](https://rentry.co/zpl-oze-0ad7a8)
-- [zpl eco 0ad7a8](https://rentry.co/zpl-eco-0ad7a8)
-- [zpl krt 0ad7a8](https://rentry.co/zpl-krt-0ad7a8)
-- [zpl ene 0ad7a8](https://rentry.co/zpl-ene-0ad7a8)
-- [zpl sol 0ad7a8](https://rentry.co/zpl-sol-0ad7a8)
+- [francja i w ochy zainstalowa y 1 4 gw pv w q1 2026 polska tr](https://solarfinance.pl/2026/04/22/francja-i-w-ochy-zainstalowa-y-1-4-gw-pv-w-q1-2026-polska-tr/)
 - [Francja i Włochy zainstalowały 14 GW PV w Q1 2026  Polska tr](https://telegra.ph/Francja-i-Włochy-zainstalowały-14-GW-PV-w-Q1-2026--Polska-traci-dystans-Porównanie-rynków-04-22)
 - [Francja i Włochy zainstalowały 14 GW PV w Q1 2026  Polska tr](https://telegra.ph/Francja-i-Włochy-zainstalowały-14-GW-PV-w-Q1-2026--Polska-traci-dystans-Porównanie-rynków-04-22-2)
 - [Francja i Włochy zainstalowały 14 GW PV w Q1 2026  Polska tr](https://telegra.ph/Francja-i-Włochy-zainstalowały-14-GW-PV-w-Q1-2026--Polska-traci-dystans-Porównanie-rynków-04-22-3)
@@ -1221,6 +1216,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Francja i Włochy zainstalowały 14 GW PV w Q1 2026  Polska tr](https://telegra.ph/Francja-i-Włochy-zainstalowały-14-GW-PV-w-Q1-2026--Polska-traci-dystans-Porównanie-rynków-04-22-6)
 - [Francja i Włochy zainstalowały 14 GW PV w Q1 2026  Polska tr](https://telegra.ph/Francja-i-Włochy-zainstalowały-14-GW-PV-w-Q1-2026--Polska-traci-dystans-Porównanie-rynków-04-22-7)
 - [Francja i Włochy zainstalowały 14 GW PV w Q1 2026  Polska tr](https://telegra.ph/Francja-i-Włochy-zainstalowały-14-GW-PV-w-Q1-2026--Polska-traci-dystans-Porównanie-rynków-04-22-8)
+- [zpl oze 0ad7a8](https://rentry.co/zpl-oze-0ad7a8)
+- [zpl eco 0ad7a8](https://rentry.co/zpl-eco-0ad7a8)
+- [zpl krt 0ad7a8](https://rentry.co/zpl-krt-0ad7a8)
+- [zpl ene 0ad7a8](https://rentry.co/zpl-ene-0ad7a8)
+- [zpl sol 0ad7a8](https://rentry.co/zpl-sol-0ad7a8)
 
 ## Sunfire obniża koszt elektrolizera o połowę — co to może zmienić dla zielonego wodoru RFNBO
 
@@ -1228,7 +1228,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [sunfire obni a koszt elektrolizera o po ow co to mo e zmieni](https://solarfinance.pl/2026/04/22/sunfire-obni-a-koszt-elektrolizera-o-po-ow-co-to-mo-e-zmieni/)
 - [sunfire obniza koszt elektrolizera o polowe co to moze zmien](https://worldofozepoland.hashnode.dev/sunfire-obniza-koszt-elektrolizera-o-polowe-co-to-moze-zmienic-dla-zielonego-wodoru-rfnbo)
 - [sunfire obniza koszt elektrolizera o polowe co to moze zmien](https://localozepoland.hashnode.dev/sunfire-obniza-koszt-elektrolizera-o-polowe-co-to-moze-zmienic-dla-zielonego-wodoru-rfnbo)
 - [sunfire obniza koszt elektrolizera o polowe co to moze zmien](https://kasiasearchingpv.hashnode.dev/sunfire-obniza-koszt-elektrolizera-o-polowe-co-to-moze-zmienic-dla-zielonego-wodoru-rfnbo)
@@ -1241,11 +1240,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [sunfire obniza koszt elektrolizera o polowe co to moze zmien](https://tomekwanttoinstalpc.hashnode.dev/sunfire-obniza-koszt-elektrolizera-o-polowe-co-to-moze-zmienic-dla-zielonego-wodoru-rfnbo)
 - [sunfire obniza koszt elektrolizera o polowe co to moze zmien](https://electricycarpoland.hashnode.dev/sunfire-obniza-koszt-elektrolizera-o-polowe-co-to-moze-zmienic-dla-zielonego-wodoru-rfnbo)
 - [sunfire obniza koszt elektrolizera o poowe co to moze zmieni](https://effectiveone.mataroa.blog/blog/sunfire-obniza-koszt-elektrolizera-o-poowe-co-to-moze-zmienic-dla-zielonego-wodoru-rfnbo/)
-- [zpl oze 362ec1](https://rentry.co/zpl-oze-362ec1)
-- [zpl eco 362ec1](https://rentry.co/zpl-eco-362ec1)
-- [zpl krt 362ec1](https://rentry.co/zpl-krt-362ec1)
-- [zpl ene 362ec1](https://rentry.co/zpl-ene-362ec1)
-- [zpl sol 362ec1](https://rentry.co/zpl-sol-362ec1)
+- [sunfire obni a koszt elektrolizera o po ow co to mo e zmieni](https://solarfinance.pl/2026/04/22/sunfire-obni-a-koszt-elektrolizera-o-po-ow-co-to-mo-e-zmieni/)
 - [Sunfire obniża koszt elektrolizera o połowę  co to może zmie](https://telegra.ph/Sunfire-obniża-koszt-elektrolizera-o-połowę--co-to-może-zmienić-dla-zielonego-wodoru-RFNBO-04-22)
 - [Sunfire obniża koszt elektrolizera o połowę  co to może zmie](https://telegra.ph/Sunfire-obniża-koszt-elektrolizera-o-połowę--co-to-może-zmienić-dla-zielonego-wodoru-RFNBO-04-22-2)
 - [Sunfire obniża koszt elektrolizera o połowę  co to może zmie](https://telegra.ph/Sunfire-obniża-koszt-elektrolizera-o-połowę--co-to-może-zmienić-dla-zielonego-wodoru-RFNBO-04-22-3)
@@ -1254,6 +1249,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Sunfire obniża koszt elektrolizera o połowę  co to może zmie](https://telegra.ph/Sunfire-obniża-koszt-elektrolizera-o-połowę--co-to-może-zmienić-dla-zielonego-wodoru-RFNBO-04-22-6)
 - [Sunfire obniża koszt elektrolizera o połowę  co to może zmie](https://telegra.ph/Sunfire-obniża-koszt-elektrolizera-o-połowę--co-to-może-zmienić-dla-zielonego-wodoru-RFNBO-04-22-7)
 - [Sunfire obniża koszt elektrolizera o połowę  co to może zmie](https://telegra.ph/Sunfire-obniża-koszt-elektrolizera-o-połowę--co-to-może-zmienić-dla-zielonego-wodoru-RFNBO-04-22-8)
+- [zpl oze 362ec1](https://rentry.co/zpl-oze-362ec1)
+- [zpl eco 362ec1](https://rentry.co/zpl-eco-362ec1)
+- [zpl krt 362ec1](https://rentry.co/zpl-krt-362ec1)
+- [zpl ene 362ec1](https://rentry.co/zpl-ene-362ec1)
+- [zpl sol 362ec1](https://rentry.co/zpl-sol-362ec1)
 
 ## USA ma 10 GW community solar — Polska ledwo startuje. Spółdzielnie energetyczne: szansa czy biurokracja?
 
@@ -1261,7 +1261,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [usa ma 10 gw community solar polska ledwo startuje sp dzieln](https://solarfinance.pl/2026/04/22/usa-ma-10-gw-community-solar-polska-ledwo-startuje-sp-dzieln/)
 - [usa ma 10 gw community solar polska ledwo startuje spoldziel](https://worldofozepoland.hashnode.dev/usa-ma-10-gw-community-solar-polska-ledwo-startuje-spoldzielnie-energetyczne-szansa-czy-biurokracja)
 - [usa ma 10 gw community solar polska ledwo startuje spoldziel](https://localozepoland.hashnode.dev/usa-ma-10-gw-community-solar-polska-ledwo-startuje-spoldzielnie-energetyczne-szansa-czy-biurokracja)
 - [usa ma 10 gw community solar polska ledwo startuje spoldziel](https://kasiasearchingpv.hashnode.dev/usa-ma-10-gw-community-solar-polska-ledwo-startuje-spoldzielnie-energetyczne-szansa-czy-biurokracja)
@@ -1274,11 +1273,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [usa ma 10 gw community solar polska ledwo startuje spoldziel](https://tomekwanttoinstalpc.hashnode.dev/usa-ma-10-gw-community-solar-polska-ledwo-startuje-spoldzielnie-energetyczne-szansa-czy-biurokracja)
 - [usa ma 10 gw community solar polska ledwo startuje spoldziel](https://electricycarpoland.hashnode.dev/usa-ma-10-gw-community-solar-polska-ledwo-startuje-spoldzielnie-energetyczne-szansa-czy-biurokracja)
 - [usa ma 10 gw community solar polska ledwo startuje spodzieln](https://effectiveone.mataroa.blog/blog/usa-ma-10-gw-community-solar-polska-ledwo-startuje-spodzielnie-energetyczne-szansa-czy-biurokracja/)
-- [zpl oze 8bbd22](https://rentry.co/zpl-oze-8bbd22)
-- [zpl eco 8bbd22](https://rentry.co/zpl-eco-8bbd22)
-- [zpl krt 8bbd22](https://rentry.co/zpl-krt-8bbd22)
-- [zpl ene 8bbd22](https://rentry.co/zpl-ene-8bbd22)
-- [zpl sol 8bbd22](https://rentry.co/zpl-sol-8bbd22)
+- [usa ma 10 gw community solar polska ledwo startuje sp dzieln](https://solarfinance.pl/2026/04/22/usa-ma-10-gw-community-solar-polska-ledwo-startuje-sp-dzieln/)
 - [USA ma 10 GW community solar  Polska ledwo startuje Spółdzie](https://telegra.ph/USA-ma-10-GW-community-solar--Polska-ledwo-startuje-Spółdzielnie-energetyczne-szansa-czy-biurokracja-04-22)
 - [USA ma 10 GW community solar  Polska ledwo startuje Spółdzie](https://telegra.ph/USA-ma-10-GW-community-solar--Polska-ledwo-startuje-Spółdzielnie-energetyczne-szansa-czy-biurokracja-04-22-2)
 - [USA ma 10 GW community solar  Polska ledwo startuje Spółdzie](https://telegra.ph/USA-ma-10-GW-community-solar--Polska-ledwo-startuje-Spółdzielnie-energetyczne-szansa-czy-biurokracja-04-22-3)
@@ -1287,6 +1282,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [USA ma 10 GW community solar  Polska ledwo startuje Spółdzie](https://telegra.ph/USA-ma-10-GW-community-solar--Polska-ledwo-startuje-Spółdzielnie-energetyczne-szansa-czy-biurokracja-04-22-6)
 - [USA ma 10 GW community solar  Polska ledwo startuje Spółdzie](https://telegra.ph/USA-ma-10-GW-community-solar--Polska-ledwo-startuje-Spółdzielnie-energetyczne-szansa-czy-biurokracja-04-22-7)
 - [USA ma 10 GW community solar  Polska ledwo startuje Spółdzie](https://telegra.ph/USA-ma-10-GW-community-solar--Polska-ledwo-startuje-Spółdzielnie-energetyczne-szansa-czy-biurokracja-04-22-8)
+- [zpl oze 8bbd22](https://rentry.co/zpl-oze-8bbd22)
+- [zpl eco 8bbd22](https://rentry.co/zpl-eco-8bbd22)
+- [zpl krt 8bbd22](https://rentry.co/zpl-krt-8bbd22)
+- [zpl ene 8bbd22](https://rentry.co/zpl-ene-8bbd22)
+- [zpl sol 8bbd22](https://rentry.co/zpl-sol-8bbd22)
 
 ## Co robić ze starymi panelami PV i bateriami? Recykling i second-life w 2026 — stan technologii
 
@@ -1294,7 +1294,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [co robi ze starymi panelami pv i bateriami recykling i secon](https://solarfinance.pl/2026/04/22/co-robi-ze-starymi-panelami-pv-i-bateriami-recykling-i-secon/)
 - [co robic ze starymi panelami pv i bateriami recykling i seco](https://worldofozepoland.hashnode.dev/co-robic-ze-starymi-panelami-pv-i-bateriami-recykling-i-second-life-w-2026-stan-technologii)
 - [co robic ze starymi panelami pv i bateriami recykling i seco](https://localozepoland.hashnode.dev/co-robic-ze-starymi-panelami-pv-i-bateriami-recykling-i-second-life-w-2026-stan-technologii)
 - [co robic ze starymi panelami pv i bateriami recykling i seco](https://kasiasearchingpv.hashnode.dev/co-robic-ze-starymi-panelami-pv-i-bateriami-recykling-i-second-life-w-2026-stan-technologii)
@@ -1307,11 +1306,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [co robic ze starymi panelami pv i bateriami recykling i seco](https://tomekwanttoinstalpc.hashnode.dev/co-robic-ze-starymi-panelami-pv-i-bateriami-recykling-i-second-life-w-2026-stan-technologii)
 - [co robic ze starymi panelami pv i bateriami recykling i seco](https://electricycarpoland.hashnode.dev/co-robic-ze-starymi-panelami-pv-i-bateriami-recykling-i-second-life-w-2026-stan-technologii)
 - [co robic ze starymi panelami pv i bateriami recykling i seco](https://effectiveone.mataroa.blog/blog/co-robic-ze-starymi-panelami-pv-i-bateriami-recykling-i-second-life-w-2026-stan-technologii/)
-- [zpl oze 75200f](https://rentry.co/zpl-oze-75200f)
-- [zpl eco 75200f](https://rentry.co/zpl-eco-75200f)
-- [zpl krt 75200f](https://rentry.co/zpl-krt-75200f)
-- [zpl ene 75200f](https://rentry.co/zpl-ene-75200f)
-- [zpl sol 75200f](https://rentry.co/zpl-sol-75200f)
+- [co robi ze starymi panelami pv i bateriami recykling i secon](https://solarfinance.pl/2026/04/22/co-robi-ze-starymi-panelami-pv-i-bateriami-recykling-i-secon/)
 - [Co robić ze starymi panelami PV i bateriami Recykling i seco](https://telegra.ph/Co-robić-ze-starymi-panelami-PV-i-bateriami-Recykling-i-second-life-w-2026--stan-technologii-04-22)
 - [Co robić ze starymi panelami PV i bateriami Recykling i seco](https://telegra.ph/Co-robić-ze-starymi-panelami-PV-i-bateriami-Recykling-i-second-life-w-2026--stan-technologii-04-22-2)
 - [Co robić ze starymi panelami PV i bateriami Recykling i seco](https://telegra.ph/Co-robić-ze-starymi-panelami-PV-i-bateriami-Recykling-i-second-life-w-2026--stan-technologii-04-22-3)
@@ -1320,6 +1315,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Co robić ze starymi panelami PV i bateriami Recykling i seco](https://telegra.ph/Co-robić-ze-starymi-panelami-PV-i-bateriami-Recykling-i-second-life-w-2026--stan-technologii-04-22-6)
 - [Co robić ze starymi panelami PV i bateriami Recykling i seco](https://telegra.ph/Co-robić-ze-starymi-panelami-PV-i-bateriami-Recykling-i-second-life-w-2026--stan-technologii-04-22-7)
 - [Co robić ze starymi panelami PV i bateriami Recykling i seco](https://telegra.ph/Co-robić-ze-starymi-panelami-PV-i-bateriami-Recykling-i-second-life-w-2026--stan-technologii-04-22-8)
+- [zpl oze 75200f](https://rentry.co/zpl-oze-75200f)
+- [zpl eco 75200f](https://rentry.co/zpl-eco-75200f)
+- [zpl krt 75200f](https://rentry.co/zpl-krt-75200f)
+- [zpl ene 75200f](https://rentry.co/zpl-ene-75200f)
+- [zpl sol 75200f](https://rentry.co/zpl-sol-75200f)
 
 ## CATL jest wart więcej niż PetroChina — co chiński plan podwojenia OZE do 2035 oznacza dla cen paneli i magazynów w Polsce
 
@@ -1327,7 +1327,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [catl jest wart wi cej ni petrochina co chi ski plan podwojen](https://solarfinance.pl/2026/04/22/catl-jest-wart-wi-cej-ni-petrochina-co-chi-ski-plan-podwojen/)
 - [catl jest wart wiecej niz petrochina co chinski plan podwoje](https://worldofozepoland.hashnode.dev/catl-jest-wart-wiecej-niz-petrochina-co-chinski-plan-podwojenia-oze-do-2035-oznacza-dla-cen-paneli-i-magazynow-w-polsce)
 - [catl jest wart wiecej niz petrochina co chinski plan podwoje](https://localozepoland.hashnode.dev/catl-jest-wart-wiecej-niz-petrochina-co-chinski-plan-podwojenia-oze-do-2035-oznacza-dla-cen-paneli-i-magazynow-w-polsce)
 - [catl jest wart wiecej niz petrochina co chinski plan podwoje](https://kasiasearchingpv.hashnode.dev/catl-jest-wart-wiecej-niz-petrochina-co-chinski-plan-podwojenia-oze-do-2035-oznacza-dla-cen-paneli-i-magazynow-w-polsce)
@@ -1340,11 +1339,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [catl jest wart wiecej niz petrochina co chinski plan podwoje](https://tomekwanttoinstalpc.hashnode.dev/catl-jest-wart-wiecej-niz-petrochina-co-chinski-plan-podwojenia-oze-do-2035-oznacza-dla-cen-paneli-i-magazynow-w-polsce)
 - [catl jest wart wiecej niz petrochina co chinski plan podwoje](https://electricycarpoland.hashnode.dev/catl-jest-wart-wiecej-niz-petrochina-co-chinski-plan-podwojenia-oze-do-2035-oznacza-dla-cen-paneli-i-magazynow-w-polsce)
 - [catl jest wart wiecej niz petrochina co chinski plan podwoje](https://effectiveone.mataroa.blog/blog/catl-jest-wart-wiecej-niz-petrochina-co-chinski-plan-podwojenia-oze-do-2035-oznacza-dla-cen-paneli-i-magazynow-w-polsce/)
-- [zpl oze 00bf23](https://rentry.co/zpl-oze-00bf23)
-- [zpl eco 00bf23](https://rentry.co/zpl-eco-00bf23)
-- [zpl krt 00bf23](https://rentry.co/zpl-krt-00bf23)
-- [zpl ene 00bf23](https://rentry.co/zpl-ene-00bf23)
-- [zpl sol 00bf23](https://rentry.co/zpl-sol-00bf23)
+- [catl jest wart wi cej ni petrochina co chi ski plan podwojen](https://solarfinance.pl/2026/04/22/catl-jest-wart-wi-cej-ni-petrochina-co-chi-ski-plan-podwojen/)
 - [CATL jest wart więcej niż PetroChina  co chiński plan podwoj](https://telegra.ph/CATL-jest-wart-więcej-niż-PetroChina--co-chiński-plan-podwojenia-OZE-do-2035-oznacza-dla-cen-paneli-i-magazynów-w-Polsce-04-22)
 - [CATL jest wart więcej niż PetroChina  co chiński plan podwoj](https://telegra.ph/CATL-jest-wart-więcej-niż-PetroChina--co-chiński-plan-podwojenia-OZE-do-2035-oznacza-dla-cen-paneli-i-magazynów-w-Polsce-04-22-2)
 - [CATL jest wart więcej niż PetroChina  co chiński plan podwoj](https://telegra.ph/CATL-jest-wart-więcej-niż-PetroChina--co-chiński-plan-podwojenia-OZE-do-2035-oznacza-dla-cen-paneli-i-magazynów-w-Polsce-04-22-3)
@@ -1353,6 +1348,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [CATL jest wart więcej niż PetroChina  co chiński plan podwoj](https://telegra.ph/CATL-jest-wart-więcej-niż-PetroChina--co-chiński-plan-podwojenia-OZE-do-2035-oznacza-dla-cen-paneli-i-magazynów-w-Polsce-04-22-6)
 - [CATL jest wart więcej niż PetroChina  co chiński plan podwoj](https://telegra.ph/CATL-jest-wart-więcej-niż-PetroChina--co-chiński-plan-podwojenia-OZE-do-2035-oznacza-dla-cen-paneli-i-magazynów-w-Polsce-04-22-7)
 - [CATL jest wart więcej niż PetroChina  co chiński plan podwoj](https://telegra.ph/CATL-jest-wart-więcej-niż-PetroChina--co-chiński-plan-podwojenia-OZE-do-2035-oznacza-dla-cen-paneli-i-magazynów-w-Polsce-04-22-8)
+- [zpl oze 00bf23](https://rentry.co/zpl-oze-00bf23)
+- [zpl eco 00bf23](https://rentry.co/zpl-eco-00bf23)
+- [zpl krt 00bf23](https://rentry.co/zpl-krt-00bf23)
+- [zpl ene 00bf23](https://rentry.co/zpl-ene-00bf23)
+- [zpl sol 00bf23](https://rentry.co/zpl-sol-00bf23)
 
 ## 4 dotacje na OZE w jednym tygodniu: Mój Prąd, 45 000 zł na PV, Czyste Powietrze, kredyt 0% — mapa finansowania 2026
 
@@ -1360,7 +1360,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [4 dotacje na oze w jednym tygodniu m j pr d 45 000 z na pv c](https://solarfinance.pl/2026/04/22/4-dotacje-na-oze-w-jednym-tygodniu-m-j-pr-d-45-000-z-na-pv-c/)
 - [4 dotacje na oze w jednym tygodniu moj prad 45 000 zl na pv ](https://worldofozepoland.hashnode.dev/4-dotacje-na-oze-w-jednym-tygodniu-moj-prad-45-000-zl-na-pv-czyste-powietrze-kredyt-0-mapa-finansowania-2026)
 - [4 dotacje na oze w jednym tygodniu moj prad 45 000 zl na pv ](https://localozepoland.hashnode.dev/4-dotacje-na-oze-w-jednym-tygodniu-moj-prad-45-000-zl-na-pv-czyste-powietrze-kredyt-0-mapa-finansowania-2026)
 - [4 dotacje na oze w jednym tygodniu moj prad 45 000 zl na pv ](https://kasiasearchingpv.hashnode.dev/4-dotacje-na-oze-w-jednym-tygodniu-moj-prad-45-000-zl-na-pv-czyste-powietrze-kredyt-0-mapa-finansowania-2026)
@@ -1373,11 +1372,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [4 dotacje na oze w jednym tygodniu moj prad 45 000 zl na pv ](https://tomekwanttoinstalpc.hashnode.dev/4-dotacje-na-oze-w-jednym-tygodniu-moj-prad-45-000-zl-na-pv-czyste-powietrze-kredyt-0-mapa-finansowania-2026)
 - [4 dotacje na oze w jednym tygodniu moj prad 45 000 zl na pv ](https://electricycarpoland.hashnode.dev/4-dotacje-na-oze-w-jednym-tygodniu-moj-prad-45-000-zl-na-pv-czyste-powietrze-kredyt-0-mapa-finansowania-2026)
 - [4 dotacje na oze w jednym tygodniu moj prad 45 000 z na pv c](https://effectiveone.mataroa.blog/blog/4-dotacje-na-oze-w-jednym-tygodniu-moj-prad-45-000-z-na-pv-czyste-powietrze-kredyt-0-mapa-finansowania-2026/)
-- [zpl oze 223804](https://rentry.co/zpl-oze-223804)
-- [zpl eco 223804](https://rentry.co/zpl-eco-223804)
-- [zpl krt 223804](https://rentry.co/zpl-krt-223804)
-- [zpl ene 223804](https://rentry.co/zpl-ene-223804)
-- [zpl sol 223804](https://rentry.co/zpl-sol-223804)
+- [4 dotacje na oze w jednym tygodniu m j pr d 45 000 z na pv c](https://solarfinance.pl/2026/04/22/4-dotacje-na-oze-w-jednym-tygodniu-m-j-pr-d-45-000-z-na-pv-c/)
 - [4 dotacje na OZE w jednym tygodniu Mój Prąd 45 000 zł na PV ](https://telegra.ph/4-dotacje-na-OZE-w-jednym-tygodniu-Mój-Prąd-45-000-zł-na-PV-Czyste-Powietrze-kredyt-0--mapa-finansowania-2026-04-22)
 - [4 dotacje na OZE w jednym tygodniu Mój Prąd 45 000 zł na PV ](https://telegra.ph/4-dotacje-na-OZE-w-jednym-tygodniu-Mój-Prąd-45-000-zł-na-PV-Czyste-Powietrze-kredyt-0--mapa-finansowania-2026-04-22-2)
 - [4 dotacje na OZE w jednym tygodniu Mój Prąd 45 000 zł na PV ](https://telegra.ph/4-dotacje-na-OZE-w-jednym-tygodniu-Mój-Prąd-45-000-zł-na-PV-Czyste-Powietrze-kredyt-0--mapa-finansowania-2026-04-22-3)
@@ -1386,6 +1381,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [4 dotacje na OZE w jednym tygodniu Mój Prąd 45 000 zł na PV ](https://telegra.ph/4-dotacje-na-OZE-w-jednym-tygodniu-Mój-Prąd-45-000-zł-na-PV-Czyste-Powietrze-kredyt-0--mapa-finansowania-2026-04-22-6)
 - [4 dotacje na OZE w jednym tygodniu Mój Prąd 45 000 zł na PV ](https://telegra.ph/4-dotacje-na-OZE-w-jednym-tygodniu-Mój-Prąd-45-000-zł-na-PV-Czyste-Powietrze-kredyt-0--mapa-finansowania-2026-04-22-7)
 - [4 dotacje na OZE w jednym tygodniu Mój Prąd 45 000 zł na PV ](https://telegra.ph/4-dotacje-na-OZE-w-jednym-tygodniu-Mój-Prąd-45-000-zł-na-PV-Czyste-Powietrze-kredyt-0--mapa-finansowania-2026-04-22-8)
+- [zpl oze 223804](https://rentry.co/zpl-oze-223804)
+- [zpl eco 223804](https://rentry.co/zpl-eco-223804)
+- [zpl krt 223804](https://rentry.co/zpl-krt-223804)
+- [zpl ene 223804](https://rentry.co/zpl-ene-223804)
+- [zpl sol 223804](https://rentry.co/zpl-sol-223804)
 
 ## Cieśnina Ormuz zamknięta — fotowoltaika i OZE stały się elementem bezpieczeństwa energetycznego
 
@@ -1393,7 +1393,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [cie nina ormuz zamkni ta fotowoltaika i oze sta y si element](https://solarfinance.pl/2026/04/22/cie-nina-ormuz-zamkni-ta-fotowoltaika-i-oze-sta-y-si-element/)
 - [ciesnina ormuz zamknieta fotowoltaika i oze staly sie elemen](https://worldofozepoland.hashnode.dev/ciesnina-ormuz-zamknieta-fotowoltaika-i-oze-staly-sie-elementem-bezpieczenstwa-energetycznego)
 - [ciesnina ormuz zamknieta fotowoltaika i oze staly sie elemen](https://localozepoland.hashnode.dev/ciesnina-ormuz-zamknieta-fotowoltaika-i-oze-staly-sie-elementem-bezpieczenstwa-energetycznego)
 - [ciesnina ormuz zamknieta fotowoltaika i oze staly sie elemen](https://kasiasearchingpv.hashnode.dev/ciesnina-ormuz-zamknieta-fotowoltaika-i-oze-staly-sie-elementem-bezpieczenstwa-energetycznego)
@@ -1406,11 +1405,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [ciesnina ormuz zamknieta fotowoltaika i oze staly sie elemen](https://tomekwanttoinstalpc.hashnode.dev/ciesnina-ormuz-zamknieta-fotowoltaika-i-oze-staly-sie-elementem-bezpieczenstwa-energetycznego)
 - [ciesnina ormuz zamknieta fotowoltaika i oze staly sie elemen](https://electricycarpoland.hashnode.dev/ciesnina-ormuz-zamknieta-fotowoltaika-i-oze-staly-sie-elementem-bezpieczenstwa-energetycznego)
 - [ciesnina ormuz zamknieta fotowoltaika i oze stay sie element](https://effectiveone.mataroa.blog/blog/ciesnina-ormuz-zamknieta-fotowoltaika-i-oze-stay-sie-elementem-bezpieczenstwa-energetycznego/)
-- [zpl oze 37e61f](https://rentry.co/zpl-oze-37e61f)
-- [zpl eco 37e61f](https://rentry.co/zpl-eco-37e61f)
-- [zpl krt 37e61f](https://rentry.co/zpl-krt-37e61f)
-- [zpl ene 37e61f](https://rentry.co/zpl-ene-37e61f)
-- [zpl sol 37e61f](https://rentry.co/zpl-sol-37e61f)
+- [cie nina ormuz zamkni ta fotowoltaika i oze sta y si element](https://solarfinance.pl/2026/04/22/cie-nina-ormuz-zamkni-ta-fotowoltaika-i-oze-sta-y-si-element/)
 - [Cieśnina Ormuz zamknięta  fotowoltaika i OZE stały się eleme](https://telegra.ph/Cieśnina-Ormuz-zamknięta--fotowoltaika-i-OZE-stały-się-elementem-bezpieczeństwa-energetycznego-04-22)
 - [Cieśnina Ormuz zamknięta  fotowoltaika i OZE stały się eleme](https://telegra.ph/Cieśnina-Ormuz-zamknięta--fotowoltaika-i-OZE-stały-się-elementem-bezpieczeństwa-energetycznego-04-22-2)
 - [Cieśnina Ormuz zamknięta  fotowoltaika i OZE stały się eleme](https://telegra.ph/Cieśnina-Ormuz-zamknięta--fotowoltaika-i-OZE-stały-się-elementem-bezpieczeństwa-energetycznego-04-22-3)
@@ -1419,6 +1414,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Cieśnina Ormuz zamknięta  fotowoltaika i OZE stały się eleme](https://telegra.ph/Cieśnina-Ormuz-zamknięta--fotowoltaika-i-OZE-stały-się-elementem-bezpieczeństwa-energetycznego-04-22-6)
 - [Cieśnina Ormuz zamknięta  fotowoltaika i OZE stały się eleme](https://telegra.ph/Cieśnina-Ormuz-zamknięta--fotowoltaika-i-OZE-stały-się-elementem-bezpieczeństwa-energetycznego-04-22-7)
 - [Cieśnina Ormuz zamknięta  fotowoltaika i OZE stały się eleme](https://telegra.ph/Cieśnina-Ormuz-zamknięta--fotowoltaika-i-OZE-stały-się-elementem-bezpieczeństwa-energetycznego-04-22-8)
+- [zpl oze 37e61f](https://rentry.co/zpl-oze-37e61f)
+- [zpl eco 37e61f](https://rentry.co/zpl-eco-37e61f)
+- [zpl krt 37e61f](https://rentry.co/zpl-krt-37e61f)
+- [zpl ene 37e61f](https://rentry.co/zpl-ene-37e61f)
+- [zpl sol 37e61f](https://rentry.co/zpl-sol-37e61f)
 
 ## Czy Polsce jest potrzebny offshore wind? UK i USA rezygnują, Eurowind buduje — kto ma rację
 
@@ -1426,7 +1426,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [czy polsce jest potrzebny offshore wind uk i usa rezygnuj eu](https://solarfinance.pl/2026/04/22/czy-polsce-jest-potrzebny-offshore-wind-uk-i-usa-rezygnuj-eu/)
 - [czy polsce jest potrzebny offshore wind uk i usa rezygnuja e](https://worldofozepoland.hashnode.dev/czy-polsce-jest-potrzebny-offshore-wind-uk-i-usa-rezygnuja-eurowind-buduje-kto-ma-racje)
 - [czy polsce jest potrzebny offshore wind uk i usa rezygnuja e](https://localozepoland.hashnode.dev/czy-polsce-jest-potrzebny-offshore-wind-uk-i-usa-rezygnuja-eurowind-buduje-kto-ma-racje)
 - [czy polsce jest potrzebny offshore wind uk i usa rezygnuja e](https://kasiasearchingpv.hashnode.dev/czy-polsce-jest-potrzebny-offshore-wind-uk-i-usa-rezygnuja-eurowind-buduje-kto-ma-racje)
@@ -1439,11 +1438,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [czy polsce jest potrzebny offshore wind uk i usa rezygnuja e](https://tomekwanttoinstalpc.hashnode.dev/czy-polsce-jest-potrzebny-offshore-wind-uk-i-usa-rezygnuja-eurowind-buduje-kto-ma-racje)
 - [czy polsce jest potrzebny offshore wind uk i usa rezygnuja e](https://electricycarpoland.hashnode.dev/czy-polsce-jest-potrzebny-offshore-wind-uk-i-usa-rezygnuja-eurowind-buduje-kto-ma-racje)
 - [czy polsce jest potrzebny offshore wind uk i usa rezygnuja e](https://effectiveone.mataroa.blog/blog/czy-polsce-jest-potrzebny-offshore-wind-uk-i-usa-rezygnuja-eurowind-buduje-kto-ma-racje/)
-- [zpl oze 738850](https://rentry.co/zpl-oze-738850)
-- [zpl eco 738850](https://rentry.co/zpl-eco-738850)
-- [zpl krt 738850](https://rentry.co/zpl-krt-738850)
-- [zpl ene 738850](https://rentry.co/zpl-ene-738850)
-- [zpl sol 738850](https://rentry.co/zpl-sol-738850)
+- [czy polsce jest potrzebny offshore wind uk i usa rezygnuj eu](https://solarfinance.pl/2026/04/22/czy-polsce-jest-potrzebny-offshore-wind-uk-i-usa-rezygnuj-eu/)
 - [Czy Polsce jest potrzebny offshore wind UK i USA rezygnują E](https://telegra.ph/Czy-Polsce-jest-potrzebny-offshore-wind-UK-i-USA-rezygnują-Eurowind-buduje--kto-ma-rację-04-22)
 - [Czy Polsce jest potrzebny offshore wind UK i USA rezygnują E](https://telegra.ph/Czy-Polsce-jest-potrzebny-offshore-wind-UK-i-USA-rezygnują-Eurowind-buduje--kto-ma-rację-04-22-2)
 - [Czy Polsce jest potrzebny offshore wind UK i USA rezygnują E](https://telegra.ph/Czy-Polsce-jest-potrzebny-offshore-wind-UK-i-USA-rezygnują-Eurowind-buduje--kto-ma-rację-04-22-3)
@@ -1452,6 +1447,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Czy Polsce jest potrzebny offshore wind UK i USA rezygnują E](https://telegra.ph/Czy-Polsce-jest-potrzebny-offshore-wind-UK-i-USA-rezygnują-Eurowind-buduje--kto-ma-rację-04-22-6)
 - [Czy Polsce jest potrzebny offshore wind UK i USA rezygnują E](https://telegra.ph/Czy-Polsce-jest-potrzebny-offshore-wind-UK-i-USA-rezygnują-Eurowind-buduje--kto-ma-rację-04-22-7)
 - [Czy Polsce jest potrzebny offshore wind UK i USA rezygnują E](https://telegra.ph/Czy-Polsce-jest-potrzebny-offshore-wind-UK-i-USA-rezygnują-Eurowind-buduje--kto-ma-rację-04-22-8)
+- [zpl oze 738850](https://rentry.co/zpl-oze-738850)
+- [zpl eco 738850](https://rentry.co/zpl-eco-738850)
+- [zpl krt 738850](https://rentry.co/zpl-krt-738850)
+- [zpl ene 738850](https://rentry.co/zpl-ene-738850)
+- [zpl sol 738850](https://rentry.co/zpl-sol-738850)
 
 ## Twoja fotowoltaika jest podłączona do internetu. Kto może ją wyłączyć — haker, operator, czy Ty?
 
@@ -1459,7 +1459,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [twoja fotowoltaika jest pod czona do internetu kto mo e j wy](https://solarfinance.pl/2026/04/22/twoja-fotowoltaika-jest-pod-czona-do-internetu-kto-mo-e-j-wy/)
 - [twoja fotowoltaika jest podlaczona do internetu kto moze ja ](https://worldofozepoland.hashnode.dev/twoja-fotowoltaika-jest-podlaczona-do-internetu-kto-moze-ja-wylaczyc-haker-operator-czy-ty)
 - [twoja fotowoltaika jest podlaczona do internetu kto moze ja ](https://localozepoland.hashnode.dev/twoja-fotowoltaika-jest-podlaczona-do-internetu-kto-moze-ja-wylaczyc-haker-operator-czy-ty)
 - [twoja fotowoltaika jest podlaczona do internetu kto moze ja ](https://kasiasearchingpv.hashnode.dev/twoja-fotowoltaika-jest-podlaczona-do-internetu-kto-moze-ja-wylaczyc-haker-operator-czy-ty)
@@ -1472,11 +1471,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [twoja fotowoltaika jest podlaczona do internetu kto moze ja ](https://tomekwanttoinstalpc.hashnode.dev/twoja-fotowoltaika-jest-podlaczona-do-internetu-kto-moze-ja-wylaczyc-haker-operator-czy-ty)
 - [twoja fotowoltaika jest podlaczona do internetu kto moze ja ](https://electricycarpoland.hashnode.dev/twoja-fotowoltaika-jest-podlaczona-do-internetu-kto-moze-ja-wylaczyc-haker-operator-czy-ty)
 - [twoja fotowoltaika jest podaczona do internetu kto moze ja w](https://effectiveone.mataroa.blog/blog/twoja-fotowoltaika-jest-podaczona-do-internetu-kto-moze-ja-wyaczyc-haker-operator-czy-ty/)
-- [zpl oze 772755](https://rentry.co/zpl-oze-772755)
-- [zpl eco 772755](https://rentry.co/zpl-eco-772755)
-- [zpl krt 772755](https://rentry.co/zpl-krt-772755)
-- [zpl ene 772755](https://rentry.co/zpl-ene-772755)
-- [zpl sol 772755](https://rentry.co/zpl-sol-772755)
+- [twoja fotowoltaika jest pod czona do internetu kto mo e j wy](https://solarfinance.pl/2026/04/22/twoja-fotowoltaika-jest-pod-czona-do-internetu-kto-mo-e-j-wy/)
 - [Twoja fotowoltaika jest podłączona do internetu Kto może ją ](https://telegra.ph/Twoja-fotowoltaika-jest-podłączona-do-internetu-Kto-może-ją-wyłączyć--haker-operator-czy-Ty-04-22)
 - [Twoja fotowoltaika jest podłączona do internetu Kto może ją ](https://telegra.ph/Twoja-fotowoltaika-jest-podłączona-do-internetu-Kto-może-ją-wyłączyć--haker-operator-czy-Ty-04-22-2)
 - [Twoja fotowoltaika jest podłączona do internetu Kto może ją ](https://telegra.ph/Twoja-fotowoltaika-jest-podłączona-do-internetu-Kto-może-ją-wyłączyć--haker-operator-czy-Ty-04-22-3)
@@ -1485,6 +1480,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Twoja fotowoltaika jest podłączona do internetu Kto może ją ](https://telegra.ph/Twoja-fotowoltaika-jest-podłączona-do-internetu-Kto-może-ją-wyłączyć--haker-operator-czy-Ty-04-22-6)
 - [Twoja fotowoltaika jest podłączona do internetu Kto może ją ](https://telegra.ph/Twoja-fotowoltaika-jest-podłączona-do-internetu-Kto-może-ją-wyłączyć--haker-operator-czy-Ty-04-22-7)
 - [Twoja fotowoltaika jest podłączona do internetu Kto może ją ](https://telegra.ph/Twoja-fotowoltaika-jest-podłączona-do-internetu-Kto-może-ją-wyłączyć--haker-operator-czy-Ty-04-22-8)
+- [zpl oze 772755](https://rentry.co/zpl-oze-772755)
+- [zpl eco 772755](https://rentry.co/zpl-eco-772755)
+- [zpl krt 772755](https://rentry.co/zpl-krt-772755)
+- [zpl ene 772755](https://rentry.co/zpl-ene-772755)
+- [zpl sol 772755](https://rentry.co/zpl-sol-772755)
 
 ## Koperta pracy pompy ciepła: parametr, który rzadko pojawia się w ofertach — a który decyduje o rachunkach
 
@@ -1492,7 +1492,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [koperta pracy pompy ciep a parametr kt ry rzadko pojawia si ](https://solarfinance.pl/2026/04/22/koperta-pracy-pompy-ciep-a-parametr-kt-ry-rzadko-pojawia-si-/)
 - [koperta pracy pompy ciepla parametr ktory rzadko pojawia sie](https://worldofozepoland.hashnode.dev/koperta-pracy-pompy-ciepla-parametr-ktory-rzadko-pojawia-sie-w-ofertach-a-ktory-decyduje-o-rachunkach)
 - [koperta pracy pompy ciepla parametr ktory rzadko pojawia sie](https://localozepoland.hashnode.dev/koperta-pracy-pompy-ciepla-parametr-ktory-rzadko-pojawia-sie-w-ofertach-a-ktory-decyduje-o-rachunkach)
 - [koperta pracy pompy ciepla parametr ktory rzadko pojawia sie](https://kasiasearchingpv.hashnode.dev/koperta-pracy-pompy-ciepla-parametr-ktory-rzadko-pojawia-sie-w-ofertach-a-ktory-decyduje-o-rachunkach)
@@ -1505,11 +1504,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [koperta pracy pompy ciepla parametr ktory rzadko pojawia sie](https://tomekwanttoinstalpc.hashnode.dev/koperta-pracy-pompy-ciepla-parametr-ktory-rzadko-pojawia-sie-w-ofertach-a-ktory-decyduje-o-rachunkach)
 - [koperta pracy pompy ciepla parametr ktory rzadko pojawia sie](https://electricycarpoland.hashnode.dev/koperta-pracy-pompy-ciepla-parametr-ktory-rzadko-pojawia-sie-w-ofertach-a-ktory-decyduje-o-rachunkach)
 - [koperta pracy pompy ciepa parametr ktory rzadko pojawia sie ](https://effectiveone.mataroa.blog/blog/koperta-pracy-pompy-ciepa-parametr-ktory-rzadko-pojawia-sie-w-ofertach-a-ktory-decyduje-o-rachunkach/)
-- [zpl oze 1e66c8](https://rentry.co/zpl-oze-1e66c8)
-- [zpl eco 1e66c8](https://rentry.co/zpl-eco-1e66c8)
-- [zpl krt 1e66c8](https://rentry.co/zpl-krt-1e66c8)
-- [zpl ene 1e66c8](https://rentry.co/zpl-ene-1e66c8)
-- [zpl sol 1e66c8](https://rentry.co/zpl-sol-1e66c8)
+- [koperta pracy pompy ciep a parametr kt ry rzadko pojawia si ](https://solarfinance.pl/2026/04/22/koperta-pracy-pompy-ciep-a-parametr-kt-ry-rzadko-pojawia-si-/)
 - [Koperta pracy pompy ciepła parametr który rzadko pojawia się](https://telegra.ph/Koperta-pracy-pompy-ciepła-parametr-który-rzadko-pojawia-się-w-ofertach--a-który-decyduje-o-rachunkach-04-22)
 - [Koperta pracy pompy ciepła parametr który rzadko pojawia się](https://telegra.ph/Koperta-pracy-pompy-ciepła-parametr-który-rzadko-pojawia-się-w-ofertach--a-który-decyduje-o-rachunkach-04-22-2)
 - [Koperta pracy pompy ciepła parametr który rzadko pojawia się](https://telegra.ph/Koperta-pracy-pompy-ciepła-parametr-który-rzadko-pojawia-się-w-ofertach--a-który-decyduje-o-rachunkach-04-22-3)
@@ -1518,6 +1513,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Koperta pracy pompy ciepła parametr który rzadko pojawia się](https://telegra.ph/Koperta-pracy-pompy-ciepła-parametr-który-rzadko-pojawia-się-w-ofertach--a-który-decyduje-o-rachunkach-04-22-6)
 - [Koperta pracy pompy ciepła parametr który rzadko pojawia się](https://telegra.ph/Koperta-pracy-pompy-ciepła-parametr-który-rzadko-pojawia-się-w-ofertach--a-który-decyduje-o-rachunkach-04-22-7)
 - [Koperta pracy pompy ciepła parametr który rzadko pojawia się](https://telegra.ph/Koperta-pracy-pompy-ciepła-parametr-który-rzadko-pojawia-się-w-ofertach--a-który-decyduje-o-rachunkach-04-22-8)
+- [zpl oze 1e66c8](https://rentry.co/zpl-oze-1e66c8)
+- [zpl eco 1e66c8](https://rentry.co/zpl-eco-1e66c8)
+- [zpl krt 1e66c8](https://rentry.co/zpl-krt-1e66c8)
+- [zpl ene 1e66c8](https://rentry.co/zpl-ene-1e66c8)
+- [zpl sol 1e66c8](https://rentry.co/zpl-sol-1e66c8)
 
 ## Taryfy dynamiczne 2026: jak zarobić na tym, że sąsiad musi wyłączyć inwerter
 
@@ -1525,7 +1525,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [taryfy dynamiczne 2026 jak zarobi na tym e s siad musi wy cz](https://solarfinance.pl/2026/04/22/taryfy-dynamiczne-2026-jak-zarobi-na-tym-e-s-siad-musi-wy-cz/)
 - [taryfy dynamiczne 2026 jak zarobic na tym ze sasiad musi wyl](https://worldofozepoland.hashnode.dev/taryfy-dynamiczne-2026-jak-zarobic-na-tym-ze-sasiad-musi-wylaczyc-inwerter)
 - [taryfy dynamiczne 2026 jak zarobic na tym ze sasiad musi wyl](https://localozepoland.hashnode.dev/taryfy-dynamiczne-2026-jak-zarobic-na-tym-ze-sasiad-musi-wylaczyc-inwerter)
 - [taryfy dynamiczne 2026 jak zarobic na tym ze sasiad musi wyl](https://kasiasearchingpv.hashnode.dev/taryfy-dynamiczne-2026-jak-zarobic-na-tym-ze-sasiad-musi-wylaczyc-inwerter)
@@ -1538,11 +1537,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [taryfy dynamiczne 2026 jak zarobic na tym ze sasiad musi wyl](https://tomekwanttoinstalpc.hashnode.dev/taryfy-dynamiczne-2026-jak-zarobic-na-tym-ze-sasiad-musi-wylaczyc-inwerter)
 - [taryfy dynamiczne 2026 jak zarobic na tym ze sasiad musi wyl](https://electricycarpoland.hashnode.dev/taryfy-dynamiczne-2026-jak-zarobic-na-tym-ze-sasiad-musi-wylaczyc-inwerter)
 - [taryfy dynamiczne 2026 jak zarobic na tym ze sasiad musi wya](https://effectiveone.mataroa.blog/blog/taryfy-dynamiczne-2026-jak-zarobic-na-tym-ze-sasiad-musi-wyaczyc-inwerter/)
-- [zpl oze 3ebe1b](https://rentry.co/zpl-oze-3ebe1b)
-- [zpl eco 3ebe1b](https://rentry.co/zpl-eco-3ebe1b)
-- [zpl krt 3ebe1b](https://rentry.co/zpl-krt-3ebe1b)
-- [zpl ene 3ebe1b](https://rentry.co/zpl-ene-3ebe1b)
-- [zpl sol 3ebe1b](https://rentry.co/zpl-sol-3ebe1b)
+- [taryfy dynamiczne 2026 jak zarobi na tym e s siad musi wy cz](https://solarfinance.pl/2026/04/22/taryfy-dynamiczne-2026-jak-zarobi-na-tym-e-s-siad-musi-wy-cz/)
 - [Taryfy dynamiczne 2026 jak zarobić na tym że sąsiad musi wył](https://telegra.ph/Taryfy-dynamiczne-2026-jak-zarobić-na-tym-że-sąsiad-musi-wyłączyć-inwerter-04-22)
 - [Taryfy dynamiczne 2026 jak zarobić na tym że sąsiad musi wył](https://telegra.ph/Taryfy-dynamiczne-2026-jak-zarobić-na-tym-że-sąsiad-musi-wyłączyć-inwerter-04-22-2)
 - [Taryfy dynamiczne 2026 jak zarobić na tym że sąsiad musi wył](https://telegra.ph/Taryfy-dynamiczne-2026-jak-zarobić-na-tym-że-sąsiad-musi-wyłączyć-inwerter-04-22-3)
@@ -1551,6 +1546,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Taryfy dynamiczne 2026 jak zarobić na tym że sąsiad musi wył](https://telegra.ph/Taryfy-dynamiczne-2026-jak-zarobić-na-tym-że-sąsiad-musi-wyłączyć-inwerter-04-22-6)
 - [Taryfy dynamiczne 2026 jak zarobić na tym że sąsiad musi wył](https://telegra.ph/Taryfy-dynamiczne-2026-jak-zarobić-na-tym-że-sąsiad-musi-wyłączyć-inwerter-04-22-7)
 - [Taryfy dynamiczne 2026 jak zarobić na tym że sąsiad musi wył](https://telegra.ph/Taryfy-dynamiczne-2026-jak-zarobić-na-tym-że-sąsiad-musi-wyłączyć-inwerter-04-22-8)
+- [zpl oze 3ebe1b](https://rentry.co/zpl-oze-3ebe1b)
+- [zpl eco 3ebe1b](https://rentry.co/zpl-eco-3ebe1b)
+- [zpl krt 3ebe1b](https://rentry.co/zpl-krt-3ebe1b)
+- [zpl ene 3ebe1b](https://rentry.co/zpl-ene-3ebe1b)
+- [zpl sol 3ebe1b](https://rentry.co/zpl-sol-3ebe1b)
 
 ## UK rezygnuje z podatku węglowego, a UE wprowadza ETS2 na budynki od 2027. Co to znaczy dla Twojego ogrzewania?
 
@@ -1558,7 +1558,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [uk rezygnuje z podatku w glowego a ue wprowadza ets2 na budy](https://solarfinance.pl/2026/04/22/uk-rezygnuje-z-podatku-w-glowego-a-ue-wprowadza-ets2-na-budy/)
 - [uk rezygnuje z podatku weglowego a ue wprowadza ets2 na budy](https://worldofozepoland.hashnode.dev/uk-rezygnuje-z-podatku-weglowego-a-ue-wprowadza-ets2-na-budynki-od-2027-co-to-znaczy-dla-twojego-ogrzewania)
 - [uk rezygnuje z podatku weglowego a ue wprowadza ets2 na budy](https://localozepoland.hashnode.dev/uk-rezygnuje-z-podatku-weglowego-a-ue-wprowadza-ets2-na-budynki-od-2027-co-to-znaczy-dla-twojego-ogrzewania)
 - [uk rezygnuje z podatku weglowego a ue wprowadza ets2 na budy](https://kasiasearchingpv.hashnode.dev/uk-rezygnuje-z-podatku-weglowego-a-ue-wprowadza-ets2-na-budynki-od-2027-co-to-znaczy-dla-twojego-ogrzewania)
@@ -1571,11 +1570,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [uk rezygnuje z podatku weglowego a ue wprowadza ets2 na budy](https://tomekwanttoinstalpc.hashnode.dev/uk-rezygnuje-z-podatku-weglowego-a-ue-wprowadza-ets2-na-budynki-od-2027-co-to-znaczy-dla-twojego-ogrzewania)
 - [uk rezygnuje z podatku weglowego a ue wprowadza ets2 na budy](https://electricycarpoland.hashnode.dev/uk-rezygnuje-z-podatku-weglowego-a-ue-wprowadza-ets2-na-budynki-od-2027-co-to-znaczy-dla-twojego-ogrzewania)
 - [uk rezygnuje z podatku weglowego a ue wprowadza ets2 na budy](https://effectiveone.mataroa.blog/blog/uk-rezygnuje-z-podatku-weglowego-a-ue-wprowadza-ets2-na-budynki-od-2027-co-to-znaczy-dla-twojego-ogrzewania/)
-- [zpl oze 9d9036](https://rentry.co/zpl-oze-9d9036)
-- [zpl eco 9d9036](https://rentry.co/zpl-eco-9d9036)
-- [zpl krt 9d9036](https://rentry.co/zpl-krt-9d9036)
-- [zpl ene 9d9036](https://rentry.co/zpl-ene-9d9036)
-- [zpl sol 9d9036](https://rentry.co/zpl-sol-9d9036)
+- [uk rezygnuje z podatku w glowego a ue wprowadza ets2 na budy](https://solarfinance.pl/2026/04/22/uk-rezygnuje-z-podatku-w-glowego-a-ue-wprowadza-ets2-na-budy/)
 - [UK rezygnuje z podatku węglowego a UE wprowadza ETS2 na budy](https://telegra.ph/UK-rezygnuje-z-podatku-węglowego-a-UE-wprowadza-ETS2-na-budynki-od-2027-Co-to-znaczy-dla-Twojego-ogrzewania-04-22)
 - [UK rezygnuje z podatku węglowego a UE wprowadza ETS2 na budy](https://telegra.ph/UK-rezygnuje-z-podatku-węglowego-a-UE-wprowadza-ETS2-na-budynki-od-2027-Co-to-znaczy-dla-Twojego-ogrzewania-04-22-2)
 - [UK rezygnuje z podatku węglowego a UE wprowadza ETS2 na budy](https://telegra.ph/UK-rezygnuje-z-podatku-węglowego-a-UE-wprowadza-ETS2-na-budynki-od-2027-Co-to-znaczy-dla-Twojego-ogrzewania-04-22-3)
@@ -1584,6 +1579,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [UK rezygnuje z podatku węglowego a UE wprowadza ETS2 na budy](https://telegra.ph/UK-rezygnuje-z-podatku-węglowego-a-UE-wprowadza-ETS2-na-budynki-od-2027-Co-to-znaczy-dla-Twojego-ogrzewania-04-22-6)
 - [UK rezygnuje z podatku węglowego a UE wprowadza ETS2 na budy](https://telegra.ph/UK-rezygnuje-z-podatku-węglowego-a-UE-wprowadza-ETS2-na-budynki-od-2027-Co-to-znaczy-dla-Twojego-ogrzewania-04-22-7)
 - [UK rezygnuje z podatku węglowego a UE wprowadza ETS2 na budy](https://telegra.ph/UK-rezygnuje-z-podatku-węglowego-a-UE-wprowadza-ETS2-na-budynki-od-2027-Co-to-znaczy-dla-Twojego-ogrzewania-04-22-8)
+- [zpl oze 9d9036](https://rentry.co/zpl-oze-9d9036)
+- [zpl eco 9d9036](https://rentry.co/zpl-eco-9d9036)
+- [zpl krt 9d9036](https://rentry.co/zpl-krt-9d9036)
+- [zpl ene 9d9036](https://rentry.co/zpl-ene-9d9036)
+- [zpl sol 9d9036](https://rentry.co/zpl-sol-9d9036)
 
 ## BYD ładuje w 5 minut, Ford zamyka dział EV. Co to znaczy dla elektromobilności — i Twojego magazynu energii?
 
@@ -1591,7 +1591,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [byd aduje w 5 minut ford zamyka dzia ev co to znaczy dla ele](https://solarfinance.pl/2026/04/22/byd-aduje-w-5-minut-ford-zamyka-dzia-ev-co-to-znaczy-dla-ele/)
 - [byd laduje w 5 minut ford zamyka dzial ev co to znaczy dla e](https://worldofozepoland.hashnode.dev/byd-laduje-w-5-minut-ford-zamyka-dzial-ev-co-to-znaczy-dla-elektromobilnosci-i-twojego-magazynu-energii)
 - [byd laduje w 5 minut ford zamyka dzial ev co to znaczy dla e](https://localozepoland.hashnode.dev/byd-laduje-w-5-minut-ford-zamyka-dzial-ev-co-to-znaczy-dla-elektromobilnosci-i-twojego-magazynu-energii)
 - [byd laduje w 5 minut ford zamyka dzial ev co to znaczy dla e](https://kasiasearchingpv.hashnode.dev/byd-laduje-w-5-minut-ford-zamyka-dzial-ev-co-to-znaczy-dla-elektromobilnosci-i-twojego-magazynu-energii)
@@ -1604,11 +1603,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [byd laduje w 5 minut ford zamyka dzial ev co to znaczy dla e](https://tomekwanttoinstalpc.hashnode.dev/byd-laduje-w-5-minut-ford-zamyka-dzial-ev-co-to-znaczy-dla-elektromobilnosci-i-twojego-magazynu-energii)
 - [byd laduje w 5 minut ford zamyka dzial ev co to znaczy dla e](https://electricycarpoland.hashnode.dev/byd-laduje-w-5-minut-ford-zamyka-dzial-ev-co-to-znaczy-dla-elektromobilnosci-i-twojego-magazynu-energii)
 - [byd aduje w 5 minut ford zamyka dzia ev co to znaczy dla ele](https://effectiveone.mataroa.blog/blog/byd-aduje-w-5-minut-ford-zamyka-dzia-ev-co-to-znaczy-dla-elektromobilnosci-i-twojego-magazynu-energii/)
-- [zpl oze 35db5b](https://rentry.co/zpl-oze-35db5b)
-- [zpl eco 35db5b](https://rentry.co/zpl-eco-35db5b)
-- [zpl krt 35db5b](https://rentry.co/zpl-krt-35db5b)
-- [zpl ene 35db5b](https://rentry.co/zpl-ene-35db5b)
-- [zpl sol 35db5b](https://rentry.co/zpl-sol-35db5b)
+- [byd aduje w 5 minut ford zamyka dzia ev co to znaczy dla ele](https://solarfinance.pl/2026/04/22/byd-aduje-w-5-minut-ford-zamyka-dzia-ev-co-to-znaczy-dla-ele/)
 - [BYD ładuje w 5 minut Ford zamyka dział EV Co to znaczy dla e](https://telegra.ph/BYD-ładuje-w-5-minut-Ford-zamyka-dział-EV-Co-to-znaczy-dla-elektromobilności--i-Twojego-magazynu-energii-04-22)
 - [BYD ładuje w 5 minut Ford zamyka dział EV Co to znaczy dla e](https://telegra.ph/BYD-ładuje-w-5-minut-Ford-zamyka-dział-EV-Co-to-znaczy-dla-elektromobilności--i-Twojego-magazynu-energii-04-22-2)
 - [BYD ładuje w 5 minut Ford zamyka dział EV Co to znaczy dla e](https://telegra.ph/BYD-ładuje-w-5-minut-Ford-zamyka-dział-EV-Co-to-znaczy-dla-elektromobilności--i-Twojego-magazynu-energii-04-22-3)
@@ -1617,6 +1612,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [BYD ładuje w 5 minut Ford zamyka dział EV Co to znaczy dla e](https://telegra.ph/BYD-ładuje-w-5-minut-Ford-zamyka-dział-EV-Co-to-znaczy-dla-elektromobilności--i-Twojego-magazynu-energii-04-22-6)
 - [BYD ładuje w 5 minut Ford zamyka dział EV Co to znaczy dla e](https://telegra.ph/BYD-ładuje-w-5-minut-Ford-zamyka-dział-EV-Co-to-znaczy-dla-elektromobilności--i-Twojego-magazynu-energii-04-22-7)
 - [BYD ładuje w 5 minut Ford zamyka dział EV Co to znaczy dla e](https://telegra.ph/BYD-ładuje-w-5-minut-Ford-zamyka-dział-EV-Co-to-znaczy-dla-elektromobilności--i-Twojego-magazynu-energii-04-22-8)
+- [zpl oze 35db5b](https://rentry.co/zpl-oze-35db5b)
+- [zpl eco 35db5b](https://rentry.co/zpl-eco-35db5b)
+- [zpl krt 35db5b](https://rentry.co/zpl-krt-35db5b)
+- [zpl ene 35db5b](https://rentry.co/zpl-ene-35db5b)
+- [zpl sol 35db5b](https://rentry.co/zpl-sol-35db5b)
 
 ## Wiatrak domowy za 20 tys. zł dał 6,9 kWh. Fotowoltaika w tym samym czasie — 150 kWh
 
@@ -1624,7 +1624,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [wiatrak domowy za 20 tys z da 6 9 kwh fotowoltaika w tym sam](https://solarfinance.pl/2026/04/22/wiatrak-domowy-za-20-tys-z-da-6-9-kwh-fotowoltaika-w-tym-sam/)
 - [wiatrak domowy za 20 tys zl dal 69 kwh fotowoltaika w tym sa](https://worldofozepoland.hashnode.dev/wiatrak-domowy-za-20-tys-zl-dal-69-kwh-fotowoltaika-w-tym-samym-czasie-150-kwh)
 - [wiatrak domowy za 20 tys zl dal 69 kwh fotowoltaika w tym sa](https://localozepoland.hashnode.dev/wiatrak-domowy-za-20-tys-zl-dal-69-kwh-fotowoltaika-w-tym-samym-czasie-150-kwh)
 - [wiatrak domowy za 20 tys zl dal 69 kwh fotowoltaika w tym sa](https://kasiasearchingpv.hashnode.dev/wiatrak-domowy-za-20-tys-zl-dal-69-kwh-fotowoltaika-w-tym-samym-czasie-150-kwh)
@@ -1637,11 +1636,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [wiatrak domowy za 20 tys zl dal 69 kwh fotowoltaika w tym sa](https://tomekwanttoinstalpc.hashnode.dev/wiatrak-domowy-za-20-tys-zl-dal-69-kwh-fotowoltaika-w-tym-samym-czasie-150-kwh)
 - [wiatrak domowy za 20 tys zl dal 69 kwh fotowoltaika w tym sa](https://electricycarpoland.hashnode.dev/wiatrak-domowy-za-20-tys-zl-dal-69-kwh-fotowoltaika-w-tym-samym-czasie-150-kwh)
 - [wiatrak domowy za 20 tys z da 69 kwh fotowoltaika w tym samy](https://effectiveone.mataroa.blog/blog/wiatrak-domowy-za-20-tys-z-da-69-kwh-fotowoltaika-w-tym-samym-czasie-150-kwh/)
-- [zpl oze e489af](https://rentry.co/zpl-oze-e489af)
-- [zpl eco e489af](https://rentry.co/zpl-eco-e489af)
-- [zpl krt e489af](https://rentry.co/zpl-krt-e489af)
-- [zpl ene e489af](https://rentry.co/zpl-ene-e489af)
-- [zpl sol e489af](https://rentry.co/zpl-sol-e489af)
+- [wiatrak domowy za 20 tys z da 6 9 kwh fotowoltaika w tym sam](https://solarfinance.pl/2026/04/22/wiatrak-domowy-za-20-tys-z-da-6-9-kwh-fotowoltaika-w-tym-sam/)
 - [Wiatrak domowy za 20 tys zł dał 69 kWh Fotowoltaika w tym sa](https://telegra.ph/Wiatrak-domowy-za-20-tys-zł-dał-69-kWh-Fotowoltaika-w-tym-samym-czasie--150-kWh-04-22)
 - [Wiatrak domowy za 20 tys zł dał 69 kWh Fotowoltaika w tym sa](https://telegra.ph/Wiatrak-domowy-za-20-tys-zł-dał-69-kWh-Fotowoltaika-w-tym-samym-czasie--150-kWh-04-22-2)
 - [Wiatrak domowy za 20 tys zł dał 69 kWh Fotowoltaika w tym sa](https://telegra.ph/Wiatrak-domowy-za-20-tys-zł-dał-69-kWh-Fotowoltaika-w-tym-samym-czasie--150-kWh-04-22-3)
@@ -1650,6 +1645,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Wiatrak domowy za 20 tys zł dał 69 kWh Fotowoltaika w tym sa](https://telegra.ph/Wiatrak-domowy-za-20-tys-zł-dał-69-kWh-Fotowoltaika-w-tym-samym-czasie--150-kWh-04-22-6)
 - [Wiatrak domowy za 20 tys zł dał 69 kWh Fotowoltaika w tym sa](https://telegra.ph/Wiatrak-domowy-za-20-tys-zł-dał-69-kWh-Fotowoltaika-w-tym-samym-czasie--150-kWh-04-22-7)
 - [Wiatrak domowy za 20 tys zł dał 69 kWh Fotowoltaika w tym sa](https://telegra.ph/Wiatrak-domowy-za-20-tys-zł-dał-69-kWh-Fotowoltaika-w-tym-samym-czasie--150-kWh-04-22-8)
+- [zpl oze e489af](https://rentry.co/zpl-oze-e489af)
+- [zpl eco e489af](https://rentry.co/zpl-eco-e489af)
+- [zpl krt e489af](https://rentry.co/zpl-krt-e489af)
+- [zpl ene e489af](https://rentry.co/zpl-ene-e489af)
+- [zpl sol e489af](https://rentry.co/zpl-sol-e489af)
 
 ## Gdy sieć ogranicza OZE, pytanie nie brzmi tylko „ile energii przepadło”. Ważne jest też, według jakich zasad to zrobiono
 
@@ -1657,7 +1657,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [gdy sie ogranicza oze pytanie nie brzmi tylko ile energii pr](https://solarfinance.pl/2026/04/27/gdy-sie-ogranicza-oze-pytanie-nie-brzmi-tylko-ile-energii-pr/)
 - [gdy siec ogranicza oze pytanie nie brzmi tylko ile energii p](https://worldofozepoland.hashnode.dev/gdy-siec-ogranicza-oze-pytanie-nie-brzmi-tylko-ile-energii-przepadlo-wazne-jest-tez-wedlug-jakich-zasad-to-zrobiono)
 - [gdy siec ogranicza oze pytanie nie brzmi tylko ile energii p](https://localozepoland.hashnode.dev/gdy-siec-ogranicza-oze-pytanie-nie-brzmi-tylko-ile-energii-przepadlo-wazne-jest-tez-wedlug-jakich-zasad-to-zrobiono)
 - [gdy siec ogranicza oze pytanie nie brzmi tylko ile energii p](https://kasiasearchingpv.hashnode.dev/gdy-siec-ogranicza-oze-pytanie-nie-brzmi-tylko-ile-energii-przepadlo-wazne-jest-tez-wedlug-jakich-zasad-to-zrobiono)
@@ -1670,11 +1669,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [gdy siec ogranicza oze pytanie nie brzmi tylko ile energii p](https://tomekwanttoinstalpc.hashnode.dev/gdy-siec-ogranicza-oze-pytanie-nie-brzmi-tylko-ile-energii-przepadlo-wazne-jest-tez-wedlug-jakich-zasad-to-zrobiono)
 - [gdy siec ogranicza oze pytanie nie brzmi tylko ile energii p](https://electricycarpoland.hashnode.dev/gdy-siec-ogranicza-oze-pytanie-nie-brzmi-tylko-ile-energii-przepadlo-wazne-jest-tez-wedlug-jakich-zasad-to-zrobiono)
 - [gdy siec ogranicza oze pytanie nie brzmi tylko ile energii p](https://effectiveone.mataroa.blog/blog/gdy-siec-ogranicza-oze-pytanie-nie-brzmi-tylko-ile-energii-przepado-wazne-jest-tez-wedug-jakich-zasad-to-zrobiono/)
-- [zpl oze f8db60](https://rentry.co/zpl-oze-f8db60)
-- [zpl eco f8db60](https://rentry.co/zpl-eco-f8db60)
-- [zpl krt f8db60](https://rentry.co/zpl-krt-f8db60)
-- [zpl ene f8db60](https://rentry.co/zpl-ene-f8db60)
-- [zpl sol f8db60](https://rentry.co/zpl-sol-f8db60)
+- [gdy sie ogranicza oze pytanie nie brzmi tylko ile energii pr](https://solarfinance.pl/2026/04/27/gdy-sie-ogranicza-oze-pytanie-nie-brzmi-tylko-ile-energii-pr/)
 - [Gdy sieć ogranicza OZE pytanie nie brzmi tylko ile energii p](https://telegra.ph/Gdy-sieć-ogranicza-OZE-pytanie-nie-brzmi-tylko-ile-energii-przepadło-Ważne-jest-też-według-jakich-zasad-to-zrobiono-04-27)
 - [Gdy sieć ogranicza OZE pytanie nie brzmi tylko ile energii p](https://telegra.ph/Gdy-sieć-ogranicza-OZE-pytanie-nie-brzmi-tylko-ile-energii-przepadło-Ważne-jest-też-według-jakich-zasad-to-zrobiono-04-27-2)
 - [Gdy sieć ogranicza OZE pytanie nie brzmi tylko ile energii p](https://telegra.ph/Gdy-sieć-ogranicza-OZE-pytanie-nie-brzmi-tylko-ile-energii-przepadło-Ważne-jest-też-według-jakich-zasad-to-zrobiono-04-27-3)
@@ -1683,6 +1678,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Gdy sieć ogranicza OZE pytanie nie brzmi tylko ile energii p](https://telegra.ph/Gdy-sieć-ogranicza-OZE-pytanie-nie-brzmi-tylko-ile-energii-przepadło-Ważne-jest-też-według-jakich-zasad-to-zrobiono-04-27-6)
 - [Gdy sieć ogranicza OZE pytanie nie brzmi tylko ile energii p](https://telegra.ph/Gdy-sieć-ogranicza-OZE-pytanie-nie-brzmi-tylko-ile-energii-przepadło-Ważne-jest-też-według-jakich-zasad-to-zrobiono-04-27-7)
 - [Gdy sieć ogranicza OZE pytanie nie brzmi tylko ile energii p](https://telegra.ph/Gdy-sieć-ogranicza-OZE-pytanie-nie-brzmi-tylko-ile-energii-przepadło-Ważne-jest-też-według-jakich-zasad-to-zrobiono-04-27-8)
+- [zpl oze f8db60](https://rentry.co/zpl-oze-f8db60)
+- [zpl eco f8db60](https://rentry.co/zpl-eco-f8db60)
+- [zpl krt f8db60](https://rentry.co/zpl-krt-f8db60)
+- [zpl ene f8db60](https://rentry.co/zpl-ene-f8db60)
+- [zpl sol f8db60](https://rentry.co/zpl-sol-f8db60)
 
 ## Przydomowe Magazyny Energii: końcówka naboru do 30 kwietnia i kilka rzeczy, które naprawdę warto sprawdzić
 
@@ -1690,7 +1690,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [przydomowe magazyny energii ko c wka naboru do 30 kwietnia i](https://solarfinance.pl/2026/04/27/przydomowe-magazyny-energii-ko-c-wka-naboru-do-30-kwietnia-i/)
 - [przydomowe magazyny energii koncowka naboru do 30 kwietnia i](https://worldofozepoland.hashnode.dev/przydomowe-magazyny-energii-koncowka-naboru-do-30-kwietnia-i-kilka-rzeczy-ktore-naprawde-warto-sprawdzic)
 - [przydomowe magazyny energii koncowka naboru do 30 kwietnia i](https://localozepoland.hashnode.dev/przydomowe-magazyny-energii-koncowka-naboru-do-30-kwietnia-i-kilka-rzeczy-ktore-naprawde-warto-sprawdzic)
 - [przydomowe magazyny energii koncowka naboru do 30 kwietnia i](https://kasiasearchingpv.hashnode.dev/przydomowe-magazyny-energii-koncowka-naboru-do-30-kwietnia-i-kilka-rzeczy-ktore-naprawde-warto-sprawdzic)
@@ -1703,11 +1702,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [przydomowe magazyny energii koncowka naboru do 30 kwietnia i](https://tomekwanttoinstalpc.hashnode.dev/przydomowe-magazyny-energii-koncowka-naboru-do-30-kwietnia-i-kilka-rzeczy-ktore-naprawde-warto-sprawdzic)
 - [przydomowe magazyny energii koncowka naboru do 30 kwietnia i](https://electricycarpoland.hashnode.dev/przydomowe-magazyny-energii-koncowka-naboru-do-30-kwietnia-i-kilka-rzeczy-ktore-naprawde-warto-sprawdzic)
 - [przydomowe magazyny energii koncowka naboru do 30 kwietnia i](https://effectiveone.mataroa.blog/blog/przydomowe-magazyny-energii-koncowka-naboru-do-30-kwietnia-i-kilka-rzeczy-ktore-naprawde-warto-sprawdzic/)
-- [zpl oze d4a76b](https://rentry.co/zpl-oze-d4a76b)
-- [zpl eco d4a76b](https://rentry.co/zpl-eco-d4a76b)
-- [zpl krt d4a76b](https://rentry.co/zpl-krt-d4a76b)
-- [zpl ene d4a76b](https://rentry.co/zpl-ene-d4a76b)
-- [zpl sol d4a76b](https://rentry.co/zpl-sol-d4a76b)
+- [przydomowe magazyny energii ko c wka naboru do 30 kwietnia i](https://solarfinance.pl/2026/04/27/przydomowe-magazyny-energii-ko-c-wka-naboru-do-30-kwietnia-i/)
 - [Przydomowe Magazyny Energii końcówka naboru do 30 kwietnia i](https://telegra.ph/Przydomowe-Magazyny-Energii-końcówka-naboru-do-30-kwietnia-i-kilka-rzeczy-które-naprawdę-warto-sprawdzić-04-27)
 - [Przydomowe Magazyny Energii końcówka naboru do 30 kwietnia i](https://telegra.ph/Przydomowe-Magazyny-Energii-końcówka-naboru-do-30-kwietnia-i-kilka-rzeczy-które-naprawdę-warto-sprawdzić-04-27-2)
 - [Przydomowe Magazyny Energii końcówka naboru do 30 kwietnia i](https://telegra.ph/Przydomowe-Magazyny-Energii-końcówka-naboru-do-30-kwietnia-i-kilka-rzeczy-które-naprawdę-warto-sprawdzić-04-27-3)
@@ -1716,6 +1711,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Przydomowe Magazyny Energii końcówka naboru do 30 kwietnia i](https://telegra.ph/Przydomowe-Magazyny-Energii-końcówka-naboru-do-30-kwietnia-i-kilka-rzeczy-które-naprawdę-warto-sprawdzić-04-27-6)
 - [Przydomowe Magazyny Energii końcówka naboru do 30 kwietnia i](https://telegra.ph/Przydomowe-Magazyny-Energii-końcówka-naboru-do-30-kwietnia-i-kilka-rzeczy-które-naprawdę-warto-sprawdzić-04-27-7)
 - [Przydomowe Magazyny Energii końcówka naboru do 30 kwietnia i](https://telegra.ph/Przydomowe-Magazyny-Energii-końcówka-naboru-do-30-kwietnia-i-kilka-rzeczy-które-naprawdę-warto-sprawdzić-04-27-8)
+- [zpl oze d4a76b](https://rentry.co/zpl-oze-d4a76b)
+- [zpl eco d4a76b](https://rentry.co/zpl-eco-d4a76b)
+- [zpl krt d4a76b](https://rentry.co/zpl-krt-d4a76b)
+- [zpl ene d4a76b](https://rentry.co/zpl-ene-d4a76b)
+- [zpl sol d4a76b](https://rentry.co/zpl-sol-d4a76b)
 
 ## Czyste Powietrze po działaniach CBA: co na ten moment wiadomo o umowach, wnioskach i wypłatach
 
@@ -1723,7 +1723,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [czyste powietrze po dzia aniach cba co na ten moment wiadomo](https://solarfinance.pl/2026/04/27/czyste-powietrze-po-dzia-aniach-cba-co-na-ten-moment-wiadomo/)
 - [czyste powietrze po dzialaniach cba co na ten moment wiadomo](https://worldofozepoland.hashnode.dev/czyste-powietrze-po-dzialaniach-cba-co-na-ten-moment-wiadomo-o-umowach-wnioskach-i-wyplatach)
 - [czyste powietrze po dzialaniach cba co na ten moment wiadomo](https://localozepoland.hashnode.dev/czyste-powietrze-po-dzialaniach-cba-co-na-ten-moment-wiadomo-o-umowach-wnioskach-i-wyplatach)
 - [czyste powietrze po dzialaniach cba co na ten moment wiadomo](https://kasiasearchingpv.hashnode.dev/czyste-powietrze-po-dzialaniach-cba-co-na-ten-moment-wiadomo-o-umowach-wnioskach-i-wyplatach)
@@ -1736,11 +1735,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [czyste powietrze po dzialaniach cba co na ten moment wiadomo](https://tomekwanttoinstalpc.hashnode.dev/czyste-powietrze-po-dzialaniach-cba-co-na-ten-moment-wiadomo-o-umowach-wnioskach-i-wyplatach)
 - [czyste powietrze po dzialaniach cba co na ten moment wiadomo](https://electricycarpoland.hashnode.dev/czyste-powietrze-po-dzialaniach-cba-co-na-ten-moment-wiadomo-o-umowach-wnioskach-i-wyplatach)
 - [czyste powietrze po dziaaniach cba co na ten moment wiadomo ](https://effectiveone.mataroa.blog/blog/czyste-powietrze-po-dziaaniach-cba-co-na-ten-moment-wiadomo-o-umowach-wnioskach-i-wypatach/)
-- [zpl oze f05863](https://rentry.co/zpl-oze-f05863)
-- [zpl eco f05863](https://rentry.co/zpl-eco-f05863)
-- [zpl krt f05863](https://rentry.co/zpl-krt-f05863)
-- [zpl ene f05863](https://rentry.co/zpl-ene-f05863)
-- [zpl sol f05863](https://rentry.co/zpl-sol-f05863)
+- [czyste powietrze po dzia aniach cba co na ten moment wiadomo](https://solarfinance.pl/2026/04/27/czyste-powietrze-po-dzia-aniach-cba-co-na-ten-moment-wiadomo/)
 - [Czyste Powietrze po działaniach CBA co na ten moment wiadomo](https://telegra.ph/Czyste-Powietrze-po-działaniach-CBA-co-na-ten-moment-wiadomo-o-umowach-wnioskach-i-wypłatach-04-27)
 - [Czyste Powietrze po działaniach CBA co na ten moment wiadomo](https://telegra.ph/Czyste-Powietrze-po-działaniach-CBA-co-na-ten-moment-wiadomo-o-umowach-wnioskach-i-wypłatach-04-27-2)
 - [Czyste Powietrze po działaniach CBA co na ten moment wiadomo](https://telegra.ph/Czyste-Powietrze-po-działaniach-CBA-co-na-ten-moment-wiadomo-o-umowach-wnioskach-i-wypłatach-04-27-3)
@@ -1749,6 +1744,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Czyste Powietrze po działaniach CBA co na ten moment wiadomo](https://telegra.ph/Czyste-Powietrze-po-działaniach-CBA-co-na-ten-moment-wiadomo-o-umowach-wnioskach-i-wypłatach-04-27-6)
 - [Czyste Powietrze po działaniach CBA co na ten moment wiadomo](https://telegra.ph/Czyste-Powietrze-po-działaniach-CBA-co-na-ten-moment-wiadomo-o-umowach-wnioskach-i-wypłatach-04-27-7)
 - [Czyste Powietrze po działaniach CBA co na ten moment wiadomo](https://telegra.ph/Czyste-Powietrze-po-działaniach-CBA-co-na-ten-moment-wiadomo-o-umowach-wnioskach-i-wypłatach-04-27-8)
+- [zpl oze f05863](https://rentry.co/zpl-oze-f05863)
+- [zpl eco f05863](https://rentry.co/zpl-eco-f05863)
+- [zpl krt f05863](https://rentry.co/zpl-krt-f05863)
+- [zpl ene f05863](https://rentry.co/zpl-ene-f05863)
+- [zpl sol f05863](https://rentry.co/zpl-sol-f05863)
 
 ## Pellet drożeje, pompa ciepła trzyma koszty. Co dalej?
 
@@ -1756,7 +1756,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [pellet dro eje pompa ciep a trzyma koszty co dalej](https://solarfinance.pl/2026/04/27/pellet-dro-eje-pompa-ciep-a-trzyma-koszty-co-dalej/)
 - [pellet drozeje pompa ciepla trzyma koszty co dalej](https://worldofozepoland.hashnode.dev/pellet-drozeje-pompa-ciepla-trzyma-koszty-co-dalej)
 - [pellet drozeje pompa ciepla trzyma koszty co dalej](https://localozepoland.hashnode.dev/pellet-drozeje-pompa-ciepla-trzyma-koszty-co-dalej)
 - [pellet drozeje pompa ciepla trzyma koszty co dalej](https://kasiasearchingpv.hashnode.dev/pellet-drozeje-pompa-ciepla-trzyma-koszty-co-dalej)
@@ -1769,11 +1768,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [pellet drozeje pompa ciepla trzyma koszty co dalej](https://tomekwanttoinstalpc.hashnode.dev/pellet-drozeje-pompa-ciepla-trzyma-koszty-co-dalej)
 - [pellet drozeje pompa ciepla trzyma koszty co dalej](https://electricycarpoland.hashnode.dev/pellet-drozeje-pompa-ciepla-trzyma-koszty-co-dalej)
 - [pellet drozeje pompa ciepa trzyma koszty co dalej](https://effectiveone.mataroa.blog/blog/pellet-drozeje-pompa-ciepa-trzyma-koszty-co-dalej/)
-- [zpl oze 0a584c](https://rentry.co/zpl-oze-0a584c)
-- [zpl eco 0a584c](https://rentry.co/zpl-eco-0a584c)
-- [zpl krt 0a584c](https://rentry.co/zpl-krt-0a584c)
-- [zpl ene 0a584c](https://rentry.co/zpl-ene-0a584c)
-- [zpl sol 0a584c](https://rentry.co/zpl-sol-0a584c)
+- [pellet dro eje pompa ciep a trzyma koszty co dalej](https://solarfinance.pl/2026/04/27/pellet-dro-eje-pompa-ciep-a-trzyma-koszty-co-dalej/)
 - [Pellet drożeje pompa ciepła trzyma koszty Co dalej 04 27](https://telegra.ph/Pellet-drożeje-pompa-ciepła-trzyma-koszty-Co-dalej-04-27)
 - [Pellet drożeje pompa ciepła trzyma koszty Co dalej 04 27 2](https://telegra.ph/Pellet-drożeje-pompa-ciepła-trzyma-koszty-Co-dalej-04-27-2)
 - [Pellet drożeje pompa ciepła trzyma koszty Co dalej 04 27 3](https://telegra.ph/Pellet-drożeje-pompa-ciepła-trzyma-koszty-Co-dalej-04-27-3)
@@ -1782,6 +1777,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Pellet drożeje pompa ciepła trzyma koszty Co dalej 04 27 6](https://telegra.ph/Pellet-drożeje-pompa-ciepła-trzyma-koszty-Co-dalej-04-27-6)
 - [Pellet drożeje pompa ciepła trzyma koszty Co dalej 04 27 7](https://telegra.ph/Pellet-drożeje-pompa-ciepła-trzyma-koszty-Co-dalej-04-27-7)
 - [Pellet drożeje pompa ciepła trzyma koszty Co dalej 04 27 8](https://telegra.ph/Pellet-drożeje-pompa-ciepła-trzyma-koszty-Co-dalej-04-27-8)
+- [zpl oze 0a584c](https://rentry.co/zpl-oze-0a584c)
+- [zpl eco 0a584c](https://rentry.co/zpl-eco-0a584c)
+- [zpl krt 0a584c](https://rentry.co/zpl-krt-0a584c)
+- [zpl ene 0a584c](https://rentry.co/zpl-ene-0a584c)
+- [zpl sol 0a584c](https://rentry.co/zpl-sol-0a584c)
 
 ## OZE przebiły węgiel w Polsce. Co ten dzień naprawdę znaczy?
 
@@ -1789,7 +1789,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [oze przebi y w giel w polsce co ten dzie naprawd znaczy](https://solarfinance.pl/2026/04/27/oze-przebi-y-w-giel-w-polsce-co-ten-dzie-naprawd-znaczy/)
 - [oze przebily wegiel w polsce co ten dzien naprawde znaczy](https://worldofozepoland.hashnode.dev/oze-przebily-wegiel-w-polsce-co-ten-dzien-naprawde-znaczy)
 - [oze przebily wegiel w polsce co ten dzien naprawde znaczy](https://localozepoland.hashnode.dev/oze-przebily-wegiel-w-polsce-co-ten-dzien-naprawde-znaczy)
 - [oze przebily wegiel w polsce co ten dzien naprawde znaczy](https://kasiasearchingpv.hashnode.dev/oze-przebily-wegiel-w-polsce-co-ten-dzien-naprawde-znaczy)
@@ -1802,11 +1801,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [oze przebily wegiel w polsce co ten dzien naprawde znaczy](https://tomekwanttoinstalpc.hashnode.dev/oze-przebily-wegiel-w-polsce-co-ten-dzien-naprawde-znaczy)
 - [oze przebily wegiel w polsce co ten dzien naprawde znaczy](https://electricycarpoland.hashnode.dev/oze-przebily-wegiel-w-polsce-co-ten-dzien-naprawde-znaczy)
 - [oze przebiy wegiel w polsce co ten dzien naprawde znaczy](https://effectiveone.mataroa.blog/blog/oze-przebiy-wegiel-w-polsce-co-ten-dzien-naprawde-znaczy/)
-- [zpl oze 12686c](https://rentry.co/zpl-oze-12686c)
-- [zpl eco 12686c](https://rentry.co/zpl-eco-12686c)
-- [zpl krt 12686c](https://rentry.co/zpl-krt-12686c)
-- [zpl ene 12686c](https://rentry.co/zpl-ene-12686c)
-- [zpl sol 12686c](https://rentry.co/zpl-sol-12686c)
+- [oze przebi y w giel w polsce co ten dzie naprawd znaczy](https://solarfinance.pl/2026/04/27/oze-przebi-y-w-giel-w-polsce-co-ten-dzie-naprawd-znaczy/)
 - [OZE przebiły węgiel w Polsce Co ten dzień naprawdę znaczy 04](https://telegra.ph/OZE-przebiły-węgiel-w-Polsce-Co-ten-dzień-naprawdę-znaczy-04-27)
 - [OZE przebiły węgiel w Polsce Co ten dzień naprawdę znaczy 04](https://telegra.ph/OZE-przebiły-węgiel-w-Polsce-Co-ten-dzień-naprawdę-znaczy-04-27-2)
 - [OZE przebiły węgiel w Polsce Co ten dzień naprawdę znaczy 04](https://telegra.ph/OZE-przebiły-węgiel-w-Polsce-Co-ten-dzień-naprawdę-znaczy-04-27-3)
@@ -1815,6 +1810,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [OZE przebiły węgiel w Polsce Co ten dzień naprawdę znaczy 04](https://telegra.ph/OZE-przebiły-węgiel-w-Polsce-Co-ten-dzień-naprawdę-znaczy-04-27-6)
 - [OZE przebiły węgiel w Polsce Co ten dzień naprawdę znaczy 04](https://telegra.ph/OZE-przebiły-węgiel-w-Polsce-Co-ten-dzień-naprawdę-znaczy-04-27-7)
 - [OZE przebiły węgiel w Polsce Co ten dzień naprawdę znaczy 04](https://telegra.ph/OZE-przebiły-węgiel-w-Polsce-Co-ten-dzień-naprawdę-znaczy-04-27-8)
+- [zpl oze 12686c](https://rentry.co/zpl-oze-12686c)
+- [zpl eco 12686c](https://rentry.co/zpl-eco-12686c)
+- [zpl krt 12686c](https://rentry.co/zpl-krt-12686c)
+- [zpl ene 12686c](https://rentry.co/zpl-ene-12686c)
+- [zpl sol 12686c](https://rentry.co/zpl-sol-12686c)
 
 ## Problem łopat wiatraków wraca. Co pokazuje case Teksasu?
 
@@ -1822,7 +1822,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [problem opat wiatrak w wraca co pokazuje case teksasu](https://solarfinance.pl/2026/04/27/problem-opat-wiatrak-w-wraca-co-pokazuje-case-teksasu/)
 - [problem lopat wiatrakow wraca co pokazuje case teksasu](https://worldofozepoland.hashnode.dev/problem-lopat-wiatrakow-wraca-co-pokazuje-case-teksasu)
 - [problem lopat wiatrakow wraca co pokazuje case teksasu](https://localozepoland.hashnode.dev/problem-lopat-wiatrakow-wraca-co-pokazuje-case-teksasu)
 - [problem lopat wiatrakow wraca co pokazuje case teksasu](https://kasiasearchingpv.hashnode.dev/problem-lopat-wiatrakow-wraca-co-pokazuje-case-teksasu)
@@ -1835,11 +1834,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [problem lopat wiatrakow wraca co pokazuje case teksasu](https://tomekwanttoinstalpc.hashnode.dev/problem-lopat-wiatrakow-wraca-co-pokazuje-case-teksasu)
 - [problem lopat wiatrakow wraca co pokazuje case teksasu](https://electricycarpoland.hashnode.dev/problem-lopat-wiatrakow-wraca-co-pokazuje-case-teksasu)
 - [problem opat wiatrakow wraca co pokazuje case teksasu](https://effectiveone.mataroa.blog/blog/problem-opat-wiatrakow-wraca-co-pokazuje-case-teksasu/)
-- [zpl oze 8ce3e8](https://rentry.co/zpl-oze-8ce3e8)
-- [zpl eco 8ce3e8](https://rentry.co/zpl-eco-8ce3e8)
-- [zpl krt 8ce3e8](https://rentry.co/zpl-krt-8ce3e8)
-- [zpl ene 8ce3e8](https://rentry.co/zpl-ene-8ce3e8)
-- [zpl sol 8ce3e8](https://rentry.co/zpl-sol-8ce3e8)
+- [problem opat wiatrak w wraca co pokazuje case teksasu](https://solarfinance.pl/2026/04/27/problem-opat-wiatrak-w-wraca-co-pokazuje-case-teksasu/)
 - [Problem łopat wiatraków wraca Co pokazuje case Teksasu 04 27](https://telegra.ph/Problem-łopat-wiatraków-wraca-Co-pokazuje-case-Teksasu-04-27)
 - [Problem łopat wiatraków wraca Co pokazuje case Teksasu 04 27](https://telegra.ph/Problem-łopat-wiatraków-wraca-Co-pokazuje-case-Teksasu-04-27-2)
 - [Problem łopat wiatraków wraca Co pokazuje case Teksasu 04 27](https://telegra.ph/Problem-łopat-wiatraków-wraca-Co-pokazuje-case-Teksasu-04-27-3)
@@ -1848,6 +1843,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Problem łopat wiatraków wraca Co pokazuje case Teksasu 04 27](https://telegra.ph/Problem-łopat-wiatraków-wraca-Co-pokazuje-case-Teksasu-04-27-6)
 - [Problem łopat wiatraków wraca Co pokazuje case Teksasu 04 27](https://telegra.ph/Problem-łopat-wiatraków-wraca-Co-pokazuje-case-Teksasu-04-27-7)
 - [Problem łopat wiatraków wraca Co pokazuje case Teksasu 04 27](https://telegra.ph/Problem-łopat-wiatraków-wraca-Co-pokazuje-case-Teksasu-04-27-8)
+- [zpl oze 8ce3e8](https://rentry.co/zpl-oze-8ce3e8)
+- [zpl eco 8ce3e8](https://rentry.co/zpl-eco-8ce3e8)
+- [zpl krt 8ce3e8](https://rentry.co/zpl-krt-8ce3e8)
+- [zpl ene 8ce3e8](https://rentry.co/zpl-ene-8ce3e8)
+- [zpl sol 8ce3e8](https://rentry.co/zpl-sol-8ce3e8)
 
 ## 14 mld zł na OZE? Co dziś naprawdę znaczy to dla domu
 
@@ -1855,7 +1855,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [14 mld z na oze co dzi naprawd znaczy to dla domu](https://solarfinance.pl/2026/04/27/14-mld-z-na-oze-co-dzi-naprawd-znaczy-to-dla-domu/)
 - [14 mld zl na oze co dzis naprawde znaczy to dla domu](https://worldofozepoland.hashnode.dev/14-mld-zl-na-oze-co-dzis-naprawde-znaczy-to-dla-domu)
 - [14 mld zl na oze co dzis naprawde znaczy to dla domu](https://localozepoland.hashnode.dev/14-mld-zl-na-oze-co-dzis-naprawde-znaczy-to-dla-domu)
 - [14 mld zl na oze co dzis naprawde znaczy to dla domu](https://kasiasearchingpv.hashnode.dev/14-mld-zl-na-oze-co-dzis-naprawde-znaczy-to-dla-domu)
@@ -1868,11 +1867,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [14 mld zl na oze co dzis naprawde znaczy to dla domu](https://tomekwanttoinstalpc.hashnode.dev/14-mld-zl-na-oze-co-dzis-naprawde-znaczy-to-dla-domu)
 - [14 mld zl na oze co dzis naprawde znaczy to dla domu](https://electricycarpoland.hashnode.dev/14-mld-zl-na-oze-co-dzis-naprawde-znaczy-to-dla-domu)
 - [14 mld z na oze co dzis naprawde znaczy to dla domu](https://effectiveone.mataroa.blog/blog/14-mld-z-na-oze-co-dzis-naprawde-znaczy-to-dla-domu/)
-- [zpl oze eb1508](https://rentry.co/zpl-oze-eb1508)
-- [zpl eco eb1508](https://rentry.co/zpl-eco-eb1508)
-- [zpl krt eb1508](https://rentry.co/zpl-krt-eb1508)
-- [zpl ene eb1508](https://rentry.co/zpl-ene-eb1508)
-- [zpl sol eb1508](https://rentry.co/zpl-sol-eb1508)
+- [14 mld z na oze co dzi naprawd znaczy to dla domu](https://solarfinance.pl/2026/04/27/14-mld-z-na-oze-co-dzi-naprawd-znaczy-to-dla-domu/)
 - [14 mld zł na OZE Co dziś naprawdę znaczy to dla domu 04 27](https://telegra.ph/14-mld-zł-na-OZE-Co-dziś-naprawdę-znaczy-to-dla-domu-04-27)
 - [14 mld zł na OZE Co dziś naprawdę znaczy to dla domu 04 27 2](https://telegra.ph/14-mld-zł-na-OZE-Co-dziś-naprawdę-znaczy-to-dla-domu-04-27-2)
 - [14 mld zł na OZE Co dziś naprawdę znaczy to dla domu 04 27 3](https://telegra.ph/14-mld-zł-na-OZE-Co-dziś-naprawdę-znaczy-to-dla-domu-04-27-3)
@@ -1881,6 +1876,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [14 mld zł na OZE Co dziś naprawdę znaczy to dla domu 04 27 6](https://telegra.ph/14-mld-zł-na-OZE-Co-dziś-naprawdę-znaczy-to-dla-domu-04-27-6)
 - [14 mld zł na OZE Co dziś naprawdę znaczy to dla domu 04 27 7](https://telegra.ph/14-mld-zł-na-OZE-Co-dziś-naprawdę-znaczy-to-dla-domu-04-27-7)
 - [14 mld zł na OZE Co dziś naprawdę znaczy to dla domu 04 27 8](https://telegra.ph/14-mld-zł-na-OZE-Co-dziś-naprawdę-znaczy-to-dla-domu-04-27-8)
+- [zpl oze eb1508](https://rentry.co/zpl-oze-eb1508)
+- [zpl eco eb1508](https://rentry.co/zpl-eco-eb1508)
+- [zpl krt eb1508](https://rentry.co/zpl-krt-eb1508)
+- [zpl ene eb1508](https://rentry.co/zpl-ene-eb1508)
+- [zpl sol eb1508](https://rentry.co/zpl-sol-eb1508)
 
 ## Na WZA BP odrzucono dwie rezolucje dotyczące ujawnień klimatycznych — sygnał napięcia wokół strategii spółki
 
@@ -1888,7 +1888,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [na wza bp odrzucono dwie rezolucje dotycz ce ujawnie klimaty](https://solarfinance.pl/2026/04/27/na-wza-bp-odrzucono-dwie-rezolucje-dotycz-ce-ujawnie-klimaty/)
 - [na wza bp odrzucono dwie rezolucje dotyczace ujawnien klimat](https://worldofozepoland.hashnode.dev/na-wza-bp-odrzucono-dwie-rezolucje-dotyczace-ujawnien-klimatycznych-sygnal-napiecia-wokol-strategii-spolki)
 - [na wza bp odrzucono dwie rezolucje dotyczace ujawnien klimat](https://localozepoland.hashnode.dev/na-wza-bp-odrzucono-dwie-rezolucje-dotyczace-ujawnien-klimatycznych-sygnal-napiecia-wokol-strategii-spolki)
 - [na wza bp odrzucono dwie rezolucje dotyczace ujawnien klimat](https://kasiasearchingpv.hashnode.dev/na-wza-bp-odrzucono-dwie-rezolucje-dotyczace-ujawnien-klimatycznych-sygnal-napiecia-wokol-strategii-spolki)
@@ -1901,11 +1900,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [na wza bp odrzucono dwie rezolucje dotyczace ujawnien klimat](https://tomekwanttoinstalpc.hashnode.dev/na-wza-bp-odrzucono-dwie-rezolucje-dotyczace-ujawnien-klimatycznych-sygnal-napiecia-wokol-strategii-spolki)
 - [na wza bp odrzucono dwie rezolucje dotyczace ujawnien klimat](https://electricycarpoland.hashnode.dev/na-wza-bp-odrzucono-dwie-rezolucje-dotyczace-ujawnien-klimatycznych-sygnal-napiecia-wokol-strategii-spolki)
 - [na wza bp odrzucono dwie rezolucje dotyczace ujawnien klimat](https://effectiveone.mataroa.blog/blog/na-wza-bp-odrzucono-dwie-rezolucje-dotyczace-ujawnien-klimatycznych-sygna-napiecia-woko-strategii-spoki/)
-- [zpl oze 0cb617](https://rentry.co/zpl-oze-0cb617)
-- [zpl eco 0cb617](https://rentry.co/zpl-eco-0cb617)
-- [zpl krt 0cb617](https://rentry.co/zpl-krt-0cb617)
-- [zpl ene 0cb617](https://rentry.co/zpl-ene-0cb617)
-- [zpl sol 0cb617](https://rentry.co/zpl-sol-0cb617)
+- [na wza bp odrzucono dwie rezolucje dotycz ce ujawnie klimaty](https://solarfinance.pl/2026/04/27/na-wza-bp-odrzucono-dwie-rezolucje-dotycz-ce-ujawnie-klimaty/)
 - [Na WZA BP odrzucono dwie rezolucje dotyczące ujawnień klimat](https://telegra.ph/Na-WZA-BP-odrzucono-dwie-rezolucje-dotyczące-ujawnień-klimatycznych--sygnał-napięcia-wokół-strategii-spółki-04-27)
 - [Na WZA BP odrzucono dwie rezolucje dotyczące ujawnień klimat](https://telegra.ph/Na-WZA-BP-odrzucono-dwie-rezolucje-dotyczące-ujawnień-klimatycznych--sygnał-napięcia-wokół-strategii-spółki-04-27-2)
 - [Na WZA BP odrzucono dwie rezolucje dotyczące ujawnień klimat](https://telegra.ph/Na-WZA-BP-odrzucono-dwie-rezolucje-dotyczące-ujawnień-klimatycznych--sygnał-napięcia-wokół-strategii-spółki-04-27-3)
@@ -1914,6 +1909,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Na WZA BP odrzucono dwie rezolucje dotyczące ujawnień klimat](https://telegra.ph/Na-WZA-BP-odrzucono-dwie-rezolucje-dotyczące-ujawnień-klimatycznych--sygnał-napięcia-wokół-strategii-spółki-04-27-6)
 - [Na WZA BP odrzucono dwie rezolucje dotyczące ujawnień klimat](https://telegra.ph/Na-WZA-BP-odrzucono-dwie-rezolucje-dotyczące-ujawnień-klimatycznych--sygnał-napięcia-wokół-strategii-spółki-04-27-7)
 - [Na WZA BP odrzucono dwie rezolucje dotyczące ujawnień klimat](https://telegra.ph/Na-WZA-BP-odrzucono-dwie-rezolucje-dotyczące-ujawnień-klimatycznych--sygnał-napięcia-wokół-strategii-spółki-04-27-8)
+- [zpl oze 0cb617](https://rentry.co/zpl-oze-0cb617)
+- [zpl eco 0cb617](https://rentry.co/zpl-eco-0cb617)
+- [zpl krt 0cb617](https://rentry.co/zpl-krt-0cb617)
+- [zpl ene 0cb617](https://rentry.co/zpl-ene-0cb617)
+- [zpl sol 0cb617](https://rentry.co/zpl-sol-0cb617)
 
 ## Shell zbliża się — według doniesień branżowych — do końca budowy elektrolizera 200 MW w Holandii
 
@@ -1921,7 +1921,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [shell zbli a si wed ug doniesie bran owych do ko ca budowy e](https://solarfinance.pl/2026/04/27/shell-zbli-a-si-wed-ug-doniesie-bran-owych-do-ko-ca-budowy-e/)
 - [shell zbliza sie wedlug doniesien branzowych do konca budowy](https://worldofozepoland.hashnode.dev/shell-zbliza-sie-wedlug-doniesien-branzowych-do-konca-budowy-elektrolizera-200-mw-w-holandii)
 - [shell zbliza sie wedlug doniesien branzowych do konca budowy](https://localozepoland.hashnode.dev/shell-zbliza-sie-wedlug-doniesien-branzowych-do-konca-budowy-elektrolizera-200-mw-w-holandii)
 - [shell zbliza sie wedlug doniesien branzowych do konca budowy](https://kasiasearchingpv.hashnode.dev/shell-zbliza-sie-wedlug-doniesien-branzowych-do-konca-budowy-elektrolizera-200-mw-w-holandii)
@@ -1934,11 +1933,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [shell zbliza sie wedlug doniesien branzowych do konca budowy](https://tomekwanttoinstalpc.hashnode.dev/shell-zbliza-sie-wedlug-doniesien-branzowych-do-konca-budowy-elektrolizera-200-mw-w-holandii)
 - [shell zbliza sie wedlug doniesien branzowych do konca budowy](https://electricycarpoland.hashnode.dev/shell-zbliza-sie-wedlug-doniesien-branzowych-do-konca-budowy-elektrolizera-200-mw-w-holandii)
 - [shell zbliza sie wedug doniesien branzowych do konca budowy ](https://effectiveone.mataroa.blog/blog/shell-zbliza-sie-wedug-doniesien-branzowych-do-konca-budowy-elektrolizera-200-mw-w-holandii/)
-- [zpl oze 5ba693](https://rentry.co/zpl-oze-5ba693)
-- [zpl eco 5ba693](https://rentry.co/zpl-eco-5ba693)
-- [zpl krt 5ba693](https://rentry.co/zpl-krt-5ba693)
-- [zpl ene 5ba693](https://rentry.co/zpl-ene-5ba693)
-- [zpl sol 5ba693](https://rentry.co/zpl-sol-5ba693)
+- [shell zbli a si wed ug doniesie bran owych do ko ca budowy e](https://solarfinance.pl/2026/04/27/shell-zbli-a-si-wed-ug-doniesie-bran-owych-do-ko-ca-budowy-e/)
 - [Shell zbliża się  według doniesień branżowych  do końca budo](https://telegra.ph/Shell-zbliża-się--według-doniesień-branżowych--do-końca-budowy-elektrolizera-200-MW-w-Holandii-04-27)
 - [Shell zbliża się  według doniesień branżowych  do końca budo](https://telegra.ph/Shell-zbliża-się--według-doniesień-branżowych--do-końca-budowy-elektrolizera-200-MW-w-Holandii-04-27-2)
 - [Shell zbliża się  według doniesień branżowych  do końca budo](https://telegra.ph/Shell-zbliża-się--według-doniesień-branżowych--do-końca-budowy-elektrolizera-200-MW-w-Holandii-04-27-3)
@@ -1947,6 +1942,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Shell zbliża się  według doniesień branżowych  do końca budo](https://telegra.ph/Shell-zbliża-się--według-doniesień-branżowych--do-końca-budowy-elektrolizera-200-MW-w-Holandii-04-27-6)
 - [Shell zbliża się  według doniesień branżowych  do końca budo](https://telegra.ph/Shell-zbliża-się--według-doniesień-branżowych--do-końca-budowy-elektrolizera-200-MW-w-Holandii-04-27-7)
 - [Shell zbliża się  według doniesień branżowych  do końca budo](https://telegra.ph/Shell-zbliża-się--według-doniesień-branżowych--do-końca-budowy-elektrolizera-200-MW-w-Holandii-04-27-8)
+- [zpl oze 5ba693](https://rentry.co/zpl-oze-5ba693)
+- [zpl eco 5ba693](https://rentry.co/zpl-eco-5ba693)
+- [zpl krt 5ba693](https://rentry.co/zpl-krt-5ba693)
+- [zpl ene 5ba693](https://rentry.co/zpl-ene-5ba693)
+- [zpl sol 5ba693](https://rentry.co/zpl-sol-5ba693)
 
 ## WindEurope: bezpieczeństwo fizyczne farm wiatrowych staje się priorytetem — zagrożenia hybrydowe docierają do Bałtyku
 
@@ -1954,7 +1954,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [windeurope bezpiecze stwo fizyczne farm wiatrowych staje si ](https://solarfinance.pl/2026/04/27/windeurope-bezpiecze-stwo-fizyczne-farm-wiatrowych-staje-si-/)
 - [windeurope bezpieczenstwo fizyczne farm wiatrowych staje sie](https://worldofozepoland.hashnode.dev/windeurope-bezpieczenstwo-fizyczne-farm-wiatrowych-staje-sie-priorytetem-zagrozenia-hybrydowe-docieraja-do-baltyku)
 - [windeurope bezpieczenstwo fizyczne farm wiatrowych staje sie](https://localozepoland.hashnode.dev/windeurope-bezpieczenstwo-fizyczne-farm-wiatrowych-staje-sie-priorytetem-zagrozenia-hybrydowe-docieraja-do-baltyku)
 - [windeurope bezpieczenstwo fizyczne farm wiatrowych staje sie](https://kasiasearchingpv.hashnode.dev/windeurope-bezpieczenstwo-fizyczne-farm-wiatrowych-staje-sie-priorytetem-zagrozenia-hybrydowe-docieraja-do-baltyku)
@@ -1967,11 +1966,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [windeurope bezpieczenstwo fizyczne farm wiatrowych staje sie](https://tomekwanttoinstalpc.hashnode.dev/windeurope-bezpieczenstwo-fizyczne-farm-wiatrowych-staje-sie-priorytetem-zagrozenia-hybrydowe-docieraja-do-baltyku)
 - [windeurope bezpieczenstwo fizyczne farm wiatrowych staje sie](https://electricycarpoland.hashnode.dev/windeurope-bezpieczenstwo-fizyczne-farm-wiatrowych-staje-sie-priorytetem-zagrozenia-hybrydowe-docieraja-do-baltyku)
 - [windeurope bezpieczenstwo fizyczne farm wiatrowych staje sie](https://effectiveone.mataroa.blog/blog/windeurope-bezpieczenstwo-fizyczne-farm-wiatrowych-staje-sie-priorytetem-zagrozenia-hybrydowe-docieraja-do-batyku/)
-- [zpl oze 21a0a4](https://rentry.co/zpl-oze-21a0a4)
-- [zpl eco 21a0a4](https://rentry.co/zpl-eco-21a0a4)
-- [zpl krt 21a0a4](https://rentry.co/zpl-krt-21a0a4)
-- [zpl ene 21a0a4](https://rentry.co/zpl-ene-21a0a4)
-- [zpl sol 21a0a4](https://rentry.co/zpl-sol-21a0a4)
+- [windeurope bezpiecze stwo fizyczne farm wiatrowych staje si ](https://solarfinance.pl/2026/04/27/windeurope-bezpiecze-stwo-fizyczne-farm-wiatrowych-staje-si-/)
 - [WindEurope bezpieczeństwo fizyczne farm wiatrowych staje się](https://telegra.ph/WindEurope-bezpieczeństwo-fizyczne-farm-wiatrowych-staje-się-priorytetem--zagrożenia-hybrydowe-docierają-do-Bałtyku-04-27)
 - [WindEurope bezpieczeństwo fizyczne farm wiatrowych staje się](https://telegra.ph/WindEurope-bezpieczeństwo-fizyczne-farm-wiatrowych-staje-się-priorytetem--zagrożenia-hybrydowe-docierają-do-Bałtyku-04-27-2)
 - [WindEurope bezpieczeństwo fizyczne farm wiatrowych staje się](https://telegra.ph/WindEurope-bezpieczeństwo-fizyczne-farm-wiatrowych-staje-się-priorytetem--zagrożenia-hybrydowe-docierają-do-Bałtyku-04-27-3)
@@ -1980,6 +1975,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [WindEurope bezpieczeństwo fizyczne farm wiatrowych staje się](https://telegra.ph/WindEurope-bezpieczeństwo-fizyczne-farm-wiatrowych-staje-się-priorytetem--zagrożenia-hybrydowe-docierają-do-Bałtyku-04-27-6)
 - [WindEurope bezpieczeństwo fizyczne farm wiatrowych staje się](https://telegra.ph/WindEurope-bezpieczeństwo-fizyczne-farm-wiatrowych-staje-się-priorytetem--zagrożenia-hybrydowe-docierają-do-Bałtyku-04-27-7)
 - [WindEurope bezpieczeństwo fizyczne farm wiatrowych staje się](https://telegra.ph/WindEurope-bezpieczeństwo-fizyczne-farm-wiatrowych-staje-się-priorytetem--zagrożenia-hybrydowe-docierają-do-Bałtyku-04-27-8)
+- [zpl oze 21a0a4](https://rentry.co/zpl-oze-21a0a4)
+- [zpl eco 21a0a4](https://rentry.co/zpl-eco-21a0a4)
+- [zpl krt 21a0a4](https://rentry.co/zpl-krt-21a0a4)
+- [zpl ene 21a0a4](https://rentry.co/zpl-ene-21a0a4)
+- [zpl sol 21a0a4](https://rentry.co/zpl-sol-21a0a4)
 
 ## Francja odchodzi od gazu — pompy ciepła mogą obniżyć rachunki o połowę. Kiedy Polska pójdzie tym tropem?
 
@@ -1987,7 +1987,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [francja odchodzi od gazu pompy ciep a mog obni y rachunki o ](https://solarfinance.pl/2026/04/27/francja-odchodzi-od-gazu-pompy-ciep-a-mog-obni-y-rachunki-o-/)
 - [francja odchodzi od gazu pompy ciepla moga obnizyc rachunki ](https://worldofozepoland.hashnode.dev/francja-odchodzi-od-gazu-pompy-ciepla-moga-obnizyc-rachunki-o-polowe-kiedy-polska-pojdzie-tym-tropem)
 - [francja odchodzi od gazu pompy ciepla moga obnizyc rachunki ](https://localozepoland.hashnode.dev/francja-odchodzi-od-gazu-pompy-ciepla-moga-obnizyc-rachunki-o-polowe-kiedy-polska-pojdzie-tym-tropem)
 - [francja odchodzi od gazu pompy ciepla moga obnizyc rachunki ](https://kasiasearchingpv.hashnode.dev/francja-odchodzi-od-gazu-pompy-ciepla-moga-obnizyc-rachunki-o-polowe-kiedy-polska-pojdzie-tym-tropem)
@@ -2000,11 +1999,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [francja odchodzi od gazu pompy ciepla moga obnizyc rachunki ](https://tomekwanttoinstalpc.hashnode.dev/francja-odchodzi-od-gazu-pompy-ciepla-moga-obnizyc-rachunki-o-polowe-kiedy-polska-pojdzie-tym-tropem)
 - [francja odchodzi od gazu pompy ciepla moga obnizyc rachunki ](https://electricycarpoland.hashnode.dev/francja-odchodzi-od-gazu-pompy-ciepla-moga-obnizyc-rachunki-o-polowe-kiedy-polska-pojdzie-tym-tropem)
 - [francja odchodzi od gazu pompy ciepa moga obnizyc rachunki o](https://effectiveone.mataroa.blog/blog/francja-odchodzi-od-gazu-pompy-ciepa-moga-obnizyc-rachunki-o-poowe-kiedy-polska-pojdzie-tym-tropem/)
-- [zpl oze 959ee0](https://rentry.co/zpl-oze-959ee0)
-- [zpl eco 959ee0](https://rentry.co/zpl-eco-959ee0)
-- [zpl krt 959ee0](https://rentry.co/zpl-krt-959ee0)
-- [zpl ene 959ee0](https://rentry.co/zpl-ene-959ee0)
-- [zpl sol 959ee0](https://rentry.co/zpl-sol-959ee0)
+- [francja odchodzi od gazu pompy ciep a mog obni y rachunki o ](https://solarfinance.pl/2026/04/27/francja-odchodzi-od-gazu-pompy-ciep-a-mog-obni-y-rachunki-o-/)
 - [Francja odchodzi od gazu  pompy ciepła mogą obniżyć rachunki](https://telegra.ph/Francja-odchodzi-od-gazu--pompy-ciepła-mogą-obniżyć-rachunki-o-połowę-Kiedy-Polska-pójdzie-tym-tropem-04-27)
 - [Francja odchodzi od gazu  pompy ciepła mogą obniżyć rachunki](https://telegra.ph/Francja-odchodzi-od-gazu--pompy-ciepła-mogą-obniżyć-rachunki-o-połowę-Kiedy-Polska-pójdzie-tym-tropem-04-27-2)
 - [Francja odchodzi od gazu  pompy ciepła mogą obniżyć rachunki](https://telegra.ph/Francja-odchodzi-od-gazu--pompy-ciepła-mogą-obniżyć-rachunki-o-połowę-Kiedy-Polska-pójdzie-tym-tropem-04-27-3)
@@ -2013,6 +2008,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Francja odchodzi od gazu  pompy ciepła mogą obniżyć rachunki](https://telegra.ph/Francja-odchodzi-od-gazu--pompy-ciepła-mogą-obniżyć-rachunki-o-połowę-Kiedy-Polska-pójdzie-tym-tropem-04-27-6)
 - [Francja odchodzi od gazu  pompy ciepła mogą obniżyć rachunki](https://telegra.ph/Francja-odchodzi-od-gazu--pompy-ciepła-mogą-obniżyć-rachunki-o-połowę-Kiedy-Polska-pójdzie-tym-tropem-04-27-7)
 - [Francja odchodzi od gazu  pompy ciepła mogą obniżyć rachunki](https://telegra.ph/Francja-odchodzi-od-gazu--pompy-ciepła-mogą-obniżyć-rachunki-o-połowę-Kiedy-Polska-pójdzie-tym-tropem-04-27-8)
+- [zpl oze 959ee0](https://rentry.co/zpl-oze-959ee0)
+- [zpl eco 959ee0](https://rentry.co/zpl-eco-959ee0)
+- [zpl krt 959ee0](https://rentry.co/zpl-krt-959ee0)
+- [zpl ene 959ee0](https://rentry.co/zpl-ene-959ee0)
+- [zpl sol 959ee0](https://rentry.co/zpl-sol-959ee0)
 
 ## CATL deklaruje ładowanie akumulatora EV w 6 minut — co może oznaczać ten sygnał technologiczny dla rynku elektryków w Polsce
 
@@ -2020,7 +2020,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [catl deklaruje adowanie akumulatora ev w 6 minut co mo e ozn](https://solarfinance.pl/2026/04/27/catl-deklaruje-adowanie-akumulatora-ev-w-6-minut-co-mo-e-ozn/)
 - [catl deklaruje ladowanie akumulatora ev w 6 minut co moze oz](https://worldofozepoland.hashnode.dev/catl-deklaruje-ladowanie-akumulatora-ev-w-6-minut-co-moze-oznaczac-ten-sygnal-technologiczny-dla-rynku-elektrykow-w-polsce)
 - [catl deklaruje ladowanie akumulatora ev w 6 minut co moze oz](https://localozepoland.hashnode.dev/catl-deklaruje-ladowanie-akumulatora-ev-w-6-minut-co-moze-oznaczac-ten-sygnal-technologiczny-dla-rynku-elektrykow-w-polsce)
 - [catl deklaruje ladowanie akumulatora ev w 6 minut co moze oz](https://kasiasearchingpv.hashnode.dev/catl-deklaruje-ladowanie-akumulatora-ev-w-6-minut-co-moze-oznaczac-ten-sygnal-technologiczny-dla-rynku-elektrykow-w-polsce)
@@ -2033,11 +2032,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [catl deklaruje ladowanie akumulatora ev w 6 minut co moze oz](https://tomekwanttoinstalpc.hashnode.dev/catl-deklaruje-ladowanie-akumulatora-ev-w-6-minut-co-moze-oznaczac-ten-sygnal-technologiczny-dla-rynku-elektrykow-w-polsce)
 - [catl deklaruje ladowanie akumulatora ev w 6 minut co moze oz](https://electricycarpoland.hashnode.dev/catl-deklaruje-ladowanie-akumulatora-ev-w-6-minut-co-moze-oznaczac-ten-sygnal-technologiczny-dla-rynku-elektrykow-w-polsce)
 - [catl deklaruje adowanie akumulatora ev w 6 minut co moze ozn](https://effectiveone.mataroa.blog/blog/catl-deklaruje-adowanie-akumulatora-ev-w-6-minut-co-moze-oznaczac-ten-sygna-technologiczny-dla-rynku-elektrykow-w-polsce/)
-- [zpl oze 9d42a8](https://rentry.co/zpl-oze-9d42a8)
-- [zpl eco 9d42a8](https://rentry.co/zpl-eco-9d42a8)
-- [zpl krt 9d42a8](https://rentry.co/zpl-krt-9d42a8)
-- [zpl ene 9d42a8](https://rentry.co/zpl-ene-9d42a8)
-- [zpl sol 9d42a8](https://rentry.co/zpl-sol-9d42a8)
+- [catl deklaruje adowanie akumulatora ev w 6 minut co mo e ozn](https://solarfinance.pl/2026/04/27/catl-deklaruje-adowanie-akumulatora-ev-w-6-minut-co-mo-e-ozn/)
 - [CATL deklaruje ładowanie akumulatora EV w 6 minut  co może o](https://telegra.ph/CATL-deklaruje-ładowanie-akumulatora-EV-w-6-minut--co-może-oznaczać-ten-sygnał-technologiczny-dla-rynku-elektryków-w-Polsce-04-27)
 - [CATL deklaruje ładowanie akumulatora EV w 6 minut  co może o](https://telegra.ph/CATL-deklaruje-ładowanie-akumulatora-EV-w-6-minut--co-może-oznaczać-ten-sygnał-technologiczny-dla-rynku-elektryków-w-Polsce-04-27-2)
 - [CATL deklaruje ładowanie akumulatora EV w 6 minut  co może o](https://telegra.ph/CATL-deklaruje-ładowanie-akumulatora-EV-w-6-minut--co-może-oznaczać-ten-sygnał-technologiczny-dla-rynku-elektryków-w-Polsce-04-27-3)
@@ -2046,6 +2041,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [CATL deklaruje ładowanie akumulatora EV w 6 minut  co może o](https://telegra.ph/CATL-deklaruje-ładowanie-akumulatora-EV-w-6-minut--co-może-oznaczać-ten-sygnał-technologiczny-dla-rynku-elektryków-w-Polsce-04-27-6)
 - [CATL deklaruje ładowanie akumulatora EV w 6 minut  co może o](https://telegra.ph/CATL-deklaruje-ładowanie-akumulatora-EV-w-6-minut--co-może-oznaczać-ten-sygnał-technologiczny-dla-rynku-elektryków-w-Polsce-04-27-7)
 - [CATL deklaruje ładowanie akumulatora EV w 6 minut  co może o](https://telegra.ph/CATL-deklaruje-ładowanie-akumulatora-EV-w-6-minut--co-może-oznaczać-ten-sygnał-technologiczny-dla-rynku-elektryków-w-Polsce-04-27-8)
+- [zpl oze 9d42a8](https://rentry.co/zpl-oze-9d42a8)
+- [zpl eco 9d42a8](https://rentry.co/zpl-eco-9d42a8)
+- [zpl krt 9d42a8](https://rentry.co/zpl-krt-9d42a8)
+- [zpl ene 9d42a8](https://rentry.co/zpl-ene-9d42a8)
+- [zpl sol 9d42a8](https://rentry.co/zpl-sol-9d42a8)
 
 ## Według portalu Electrek Chiny mogły wyeksportować 68 GW paneli słonecznych w marcu 2026 — co z tego może wynikać dla cen PV w Polsce
 
@@ -2053,7 +2053,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [wed ug portalu electrek chiny mog y wyeksportowa 68 gw panel](https://solarfinance.pl/2026/04/27/wed-ug-portalu-electrek-chiny-mog-y-wyeksportowa-68-gw-panel/)
 - [wedlug portalu electrek chiny mogly wyeksportowac 68 gw pane](https://worldofozepoland.hashnode.dev/wedlug-portalu-electrek-chiny-mogly-wyeksportowac-68-gw-paneli-slonecznych-w-marcu-2026-co-z-tego-moze-wynikac-dla-cen-pv-w-polsce)
 - [wedlug portalu electrek chiny mogly wyeksportowac 68 gw pane](https://localozepoland.hashnode.dev/wedlug-portalu-electrek-chiny-mogly-wyeksportowac-68-gw-paneli-slonecznych-w-marcu-2026-co-z-tego-moze-wynikac-dla-cen-pv-w-polsce)
 - [wedlug portalu electrek chiny mogly wyeksportowac 68 gw pane](https://kasiasearchingpv.hashnode.dev/wedlug-portalu-electrek-chiny-mogly-wyeksportowac-68-gw-paneli-slonecznych-w-marcu-2026-co-z-tego-moze-wynikac-dla-cen-pv-w-polsce)
@@ -2066,11 +2065,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [wedlug portalu electrek chiny mogly wyeksportowac 68 gw pane](https://tomekwanttoinstalpc.hashnode.dev/wedlug-portalu-electrek-chiny-mogly-wyeksportowac-68-gw-paneli-slonecznych-w-marcu-2026-co-z-tego-moze-wynikac-dla-cen-pv-w-polsce)
 - [wedlug portalu electrek chiny mogly wyeksportowac 68 gw pane](https://electricycarpoland.hashnode.dev/wedlug-portalu-electrek-chiny-mogly-wyeksportowac-68-gw-paneli-slonecznych-w-marcu-2026-co-z-tego-moze-wynikac-dla-cen-pv-w-polsce)
 - [wedug portalu electrek chiny mogy wyeksportowac 68 gw paneli](https://effectiveone.mataroa.blog/blog/wedug-portalu-electrek-chiny-mogy-wyeksportowac-68-gw-paneli-sonecznych-w-marcu-2026-co-z-tego-moze-wynikac-dla-cen-pv-w-polsce/)
-- [zpl oze 0ca586](https://rentry.co/zpl-oze-0ca586)
-- [zpl eco 0ca586](https://rentry.co/zpl-eco-0ca586)
-- [zpl krt 0ca586](https://rentry.co/zpl-krt-0ca586)
-- [zpl ene 0ca586](https://rentry.co/zpl-ene-0ca586)
-- [zpl sol 0ca586](https://rentry.co/zpl-sol-0ca586)
+- [wed ug portalu electrek chiny mog y wyeksportowa 68 gw panel](https://solarfinance.pl/2026/04/27/wed-ug-portalu-electrek-chiny-mog-y-wyeksportowa-68-gw-panel/)
 - [Według portalu Electrek Chiny mogły wyeksportować 68 GW pane](https://telegra.ph/Według-portalu-Electrek-Chiny-mogły-wyeksportować-68-GW-paneli-słonecznych-w-marcu-2026--co-z-tego-może-wynikać-dla-cen-PV-w-Pol-04-27)
 - [Według portalu Electrek Chiny mogły wyeksportować 68 GW pane](https://telegra.ph/Według-portalu-Electrek-Chiny-mogły-wyeksportować-68-GW-paneli-słonecznych-w-marcu-2026--co-z-tego-może-wynikać-dla-cen-PV-w-Pol-04-27-2)
 - [Według portalu Electrek Chiny mogły wyeksportować 68 GW pane](https://telegra.ph/Według-portalu-Electrek-Chiny-mogły-wyeksportować-68-GW-paneli-słonecznych-w-marcu-2026--co-z-tego-może-wynikać-dla-cen-PV-w-Pol-04-27-3)
@@ -2079,6 +2074,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Według portalu Electrek Chiny mogły wyeksportować 68 GW pane](https://telegra.ph/Według-portalu-Electrek-Chiny-mogły-wyeksportować-68-GW-paneli-słonecznych-w-marcu-2026--co-z-tego-może-wynikać-dla-cen-PV-w-Pol-04-27-6)
 - [Według portalu Electrek Chiny mogły wyeksportować 68 GW pane](https://telegra.ph/Według-portalu-Electrek-Chiny-mogły-wyeksportować-68-GW-paneli-słonecznych-w-marcu-2026--co-z-tego-może-wynikać-dla-cen-PV-w-Pol-04-27-7)
 - [Według portalu Electrek Chiny mogły wyeksportować 68 GW pane](https://telegra.ph/Według-portalu-Electrek-Chiny-mogły-wyeksportować-68-GW-paneli-słonecznych-w-marcu-2026--co-z-tego-może-wynikać-dla-cen-PV-w-Pol-04-27-8)
+- [zpl oze 0ca586](https://rentry.co/zpl-oze-0ca586)
+- [zpl eco 0ca586](https://rentry.co/zpl-eco-0ca586)
+- [zpl krt 0ca586](https://rentry.co/zpl-krt-0ca586)
+- [zpl ene 0ca586](https://rentry.co/zpl-ene-0ca586)
+- [zpl sol 0ca586](https://rentry.co/zpl-sol-0ca586)
 
 ## Meta i Noon Energy ogłosiły według doniesień rezerwację zdolności na 100 GWh ultra-LDES — giganci tech wchodzą w rynek magazynowania
 
@@ -2086,7 +2086,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [meta i noon energy og osi y wed ug doniesie rezerwacj zdolno](https://solarfinance.pl/2026/04/27/meta-i-noon-energy-og-osi-y-wed-ug-doniesie-rezerwacj-zdolno/)
 - [meta i noon energy oglosily wedlug doniesien rezerwacje zdol](https://worldofozepoland.hashnode.dev/meta-i-noon-energy-oglosily-wedlug-doniesien-rezerwacje-zdolnosci-na-100-gwh-ultra-ldes-giganci-tech-wchodza-w-rynek-magazynowania)
 - [meta i noon energy oglosily wedlug doniesien rezerwacje zdol](https://localozepoland.hashnode.dev/meta-i-noon-energy-oglosily-wedlug-doniesien-rezerwacje-zdolnosci-na-100-gwh-ultra-ldes-giganci-tech-wchodza-w-rynek-magazynowania)
 - [meta i noon energy oglosily wedlug doniesien rezerwacje zdol](https://kasiasearchingpv.hashnode.dev/meta-i-noon-energy-oglosily-wedlug-doniesien-rezerwacje-zdolnosci-na-100-gwh-ultra-ldes-giganci-tech-wchodza-w-rynek-magazynowania)
@@ -2099,11 +2098,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [meta i noon energy oglosily wedlug doniesien rezerwacje zdol](https://tomekwanttoinstalpc.hashnode.dev/meta-i-noon-energy-oglosily-wedlug-doniesien-rezerwacje-zdolnosci-na-100-gwh-ultra-ldes-giganci-tech-wchodza-w-rynek-magazynowania)
 - [meta i noon energy oglosily wedlug doniesien rezerwacje zdol](https://electricycarpoland.hashnode.dev/meta-i-noon-energy-oglosily-wedlug-doniesien-rezerwacje-zdolnosci-na-100-gwh-ultra-ldes-giganci-tech-wchodza-w-rynek-magazynowania)
 - [meta i noon energy ogosiy wedug doniesien rezerwacje zdolnos](https://effectiveone.mataroa.blog/blog/meta-i-noon-energy-ogosiy-wedug-doniesien-rezerwacje-zdolnosci-na-100-gwh-ultra-ldes-giganci-tech-wchodza-w-rynek-magazynowania/)
-- [zpl oze b5c68b](https://rentry.co/zpl-oze-b5c68b)
-- [zpl eco b5c68b](https://rentry.co/zpl-eco-b5c68b)
-- [zpl krt b5c68b](https://rentry.co/zpl-krt-b5c68b)
-- [zpl ene b5c68b](https://rentry.co/zpl-ene-b5c68b)
-- [zpl sol b5c68b](https://rentry.co/zpl-sol-b5c68b)
+- [meta i noon energy og osi y wed ug doniesie rezerwacj zdolno](https://solarfinance.pl/2026/04/27/meta-i-noon-energy-og-osi-y-wed-ug-doniesie-rezerwacj-zdolno/)
 - [Meta i Noon Energy ogłosiły według doniesień rezerwację zdol](https://telegra.ph/Meta-i-Noon-Energy-ogłosiły-według-doniesień-rezerwację-zdolności-na-100-GWh-ultra-LDES--giganci-tech-wchodzą-w-rynek-magazynowa-04-27)
 - [Meta i Noon Energy ogłosiły według doniesień rezerwację zdol](https://telegra.ph/Meta-i-Noon-Energy-ogłosiły-według-doniesień-rezerwację-zdolności-na-100-GWh-ultra-LDES--giganci-tech-wchodzą-w-rynek-magazynowa-04-27-2)
 - [Meta i Noon Energy ogłosiły według doniesień rezerwację zdol](https://telegra.ph/Meta-i-Noon-Energy-ogłosiły-według-doniesień-rezerwację-zdolności-na-100-GWh-ultra-LDES--giganci-tech-wchodzą-w-rynek-magazynowa-04-27-3)
@@ -2112,6 +2107,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Meta i Noon Energy ogłosiły według doniesień rezerwację zdol](https://telegra.ph/Meta-i-Noon-Energy-ogłosiły-według-doniesień-rezerwację-zdolności-na-100-GWh-ultra-LDES--giganci-tech-wchodzą-w-rynek-magazynowa-04-27-6)
 - [Meta i Noon Energy ogłosiły według doniesień rezerwację zdol](https://telegra.ph/Meta-i-Noon-Energy-ogłosiły-według-doniesień-rezerwację-zdolności-na-100-GWh-ultra-LDES--giganci-tech-wchodzą-w-rynek-magazynowa-04-27-7)
 - [Meta i Noon Energy ogłosiły według doniesień rezerwację zdol](https://telegra.ph/Meta-i-Noon-Energy-ogłosiły-według-doniesień-rezerwację-zdolności-na-100-GWh-ultra-LDES--giganci-tech-wchodzą-w-rynek-magazynowa-04-27-8)
+- [zpl oze b5c68b](https://rentry.co/zpl-oze-b5c68b)
+- [zpl eco b5c68b](https://rentry.co/zpl-eco-b5c68b)
+- [zpl krt b5c68b](https://rentry.co/zpl-krt-b5c68b)
+- [zpl ene b5c68b](https://rentry.co/zpl-ene-b5c68b)
+- [zpl sol b5c68b](https://rentry.co/zpl-sol-b5c68b)
 
 ## Arabia Saudyjska ogłosiła według doniesień branżowych przetarg na 12 GWh magazynów energii
 
@@ -2119,7 +2119,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [arabia saudyjska og osi a wed ug doniesie bran owych przetar](https://solarfinance.pl/2026/04/27/arabia-saudyjska-og-osi-a-wed-ug-doniesie-bran-owych-przetar/)
 - [arabia saudyjska oglosila wedlug doniesien branzowych przeta](https://worldofozepoland.hashnode.dev/arabia-saudyjska-oglosila-wedlug-doniesien-branzowych-przetarg-na-12-gwh-magazynow-energii)
 - [arabia saudyjska oglosila wedlug doniesien branzowych przeta](https://localozepoland.hashnode.dev/arabia-saudyjska-oglosila-wedlug-doniesien-branzowych-przetarg-na-12-gwh-magazynow-energii)
 - [arabia saudyjska oglosila wedlug doniesien branzowych przeta](https://kasiasearchingpv.hashnode.dev/arabia-saudyjska-oglosila-wedlug-doniesien-branzowych-przetarg-na-12-gwh-magazynow-energii)
@@ -2132,11 +2131,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [arabia saudyjska oglosila wedlug doniesien branzowych przeta](https://tomekwanttoinstalpc.hashnode.dev/arabia-saudyjska-oglosila-wedlug-doniesien-branzowych-przetarg-na-12-gwh-magazynow-energii)
 - [arabia saudyjska oglosila wedlug doniesien branzowych przeta](https://electricycarpoland.hashnode.dev/arabia-saudyjska-oglosila-wedlug-doniesien-branzowych-przetarg-na-12-gwh-magazynow-energii)
 - [arabia saudyjska ogosia wedug doniesien branzowych przetarg ](https://effectiveone.mataroa.blog/blog/arabia-saudyjska-ogosia-wedug-doniesien-branzowych-przetarg-na-12-gwh-magazynow-energii/)
-- [zpl oze 813984](https://rentry.co/zpl-oze-813984)
-- [zpl eco 813984](https://rentry.co/zpl-eco-813984)
-- [zpl krt 813984](https://rentry.co/zpl-krt-813984)
-- [zpl ene 813984](https://rentry.co/zpl-ene-813984)
-- [zpl sol 813984](https://rentry.co/zpl-sol-813984)
+- [arabia saudyjska og osi a wed ug doniesie bran owych przetar](https://solarfinance.pl/2026/04/27/arabia-saudyjska-og-osi-a-wed-ug-doniesie-bran-owych-przetar/)
 - [Arabia Saudyjska ogłosiła według doniesień branżowych przeta](https://telegra.ph/Arabia-Saudyjska-ogłosiła-według-doniesień-branżowych-przetarg-na-12-GWh-magazynów-energii-04-27)
 - [Arabia Saudyjska ogłosiła według doniesień branżowych przeta](https://telegra.ph/Arabia-Saudyjska-ogłosiła-według-doniesień-branżowych-przetarg-na-12-GWh-magazynów-energii-04-27-2)
 - [Arabia Saudyjska ogłosiła według doniesień branżowych przeta](https://telegra.ph/Arabia-Saudyjska-ogłosiła-według-doniesień-branżowych-przetarg-na-12-GWh-magazynów-energii-04-27-3)
@@ -2145,6 +2140,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Arabia Saudyjska ogłosiła według doniesień branżowych przeta](https://telegra.ph/Arabia-Saudyjska-ogłosiła-według-doniesień-branżowych-przetarg-na-12-GWh-magazynów-energii-04-27-6)
 - [Arabia Saudyjska ogłosiła według doniesień branżowych przeta](https://telegra.ph/Arabia-Saudyjska-ogłosiła-według-doniesień-branżowych-przetarg-na-12-GWh-magazynów-energii-04-27-7)
 - [Arabia Saudyjska ogłosiła według doniesień branżowych przeta](https://telegra.ph/Arabia-Saudyjska-ogłosiła-według-doniesień-branżowych-przetarg-na-12-GWh-magazynów-energii-04-27-8)
+- [zpl oze 813984](https://rentry.co/zpl-oze-813984)
+- [zpl eco 813984](https://rentry.co/zpl-eco-813984)
+- [zpl krt 813984](https://rentry.co/zpl-krt-813984)
+- [zpl ene 813984](https://rentry.co/zpl-ene-813984)
+- [zpl sol 813984](https://rentry.co/zpl-sol-813984)
 
 ## CBA, OLAF, EPPO — jak trzy instytucje ścigają fraud w projektach OZE i co je od siebie różni
 
@@ -2152,7 +2152,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [cba olaf eppo jak trzy instytucje cigaj fraud w projektach o](https://solarfinance.pl/2026/04/27/cba-olaf-eppo-jak-trzy-instytucje-cigaj-fraud-w-projektach-o/)
 - [cba olaf eppo jak trzy instytucje scigaja fraud w projektach](https://worldofozepoland.hashnode.dev/cba-olaf-eppo-jak-trzy-instytucje-scigaja-fraud-w-projektach-oze-i-co-je-od-siebie-rozni)
 - [cba olaf eppo jak trzy instytucje scigaja fraud w projektach](https://localozepoland.hashnode.dev/cba-olaf-eppo-jak-trzy-instytucje-scigaja-fraud-w-projektach-oze-i-co-je-od-siebie-rozni)
 - [cba olaf eppo jak trzy instytucje scigaja fraud w projektach](https://kasiasearchingpv.hashnode.dev/cba-olaf-eppo-jak-trzy-instytucje-scigaja-fraud-w-projektach-oze-i-co-je-od-siebie-rozni)
@@ -2165,11 +2164,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [cba olaf eppo jak trzy instytucje scigaja fraud w projektach](https://tomekwanttoinstalpc.hashnode.dev/cba-olaf-eppo-jak-trzy-instytucje-scigaja-fraud-w-projektach-oze-i-co-je-od-siebie-rozni)
 - [cba olaf eppo jak trzy instytucje scigaja fraud w projektach](https://electricycarpoland.hashnode.dev/cba-olaf-eppo-jak-trzy-instytucje-scigaja-fraud-w-projektach-oze-i-co-je-od-siebie-rozni)
 - [cba olaf eppo jak trzy instytucje scigaja fraud w projektach](https://effectiveone.mataroa.blog/blog/cba-olaf-eppo-jak-trzy-instytucje-scigaja-fraud-w-projektach-oze-i-co-je-od-siebie-rozni/)
-- [zpl oze ad5722](https://rentry.co/zpl-oze-ad5722)
-- [zpl eco ad5722](https://rentry.co/zpl-eco-ad5722)
-- [zpl krt ad5722](https://rentry.co/zpl-krt-ad5722)
-- [zpl ene ad5722](https://rentry.co/zpl-ene-ad5722)
-- [zpl sol ad5722](https://rentry.co/zpl-sol-ad5722)
+- [cba olaf eppo jak trzy instytucje cigaj fraud w projektach o](https://solarfinance.pl/2026/04/27/cba-olaf-eppo-jak-trzy-instytucje-cigaj-fraud-w-projektach-o/)
 - [CBA OLAF EPPO  jak trzy instytucje ścigają fraud w projektac](https://telegra.ph/CBA-OLAF-EPPO--jak-trzy-instytucje-ścigają-fraud-w-projektach-OZE-i-co-je-od-siebie-różni-04-27)
 - [CBA OLAF EPPO  jak trzy instytucje ścigają fraud w projektac](https://telegra.ph/CBA-OLAF-EPPO--jak-trzy-instytucje-ścigają-fraud-w-projektach-OZE-i-co-je-od-siebie-różni-04-27-2)
 - [CBA OLAF EPPO  jak trzy instytucje ścigają fraud w projektac](https://telegra.ph/CBA-OLAF-EPPO--jak-trzy-instytucje-ścigają-fraud-w-projektach-OZE-i-co-je-od-siebie-różni-04-27-3)
@@ -2178,6 +2173,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [CBA OLAF EPPO  jak trzy instytucje ścigają fraud w projektac](https://telegra.ph/CBA-OLAF-EPPO--jak-trzy-instytucje-ścigają-fraud-w-projektach-OZE-i-co-je-od-siebie-różni-04-27-6)
 - [CBA OLAF EPPO  jak trzy instytucje ścigają fraud w projektac](https://telegra.ph/CBA-OLAF-EPPO--jak-trzy-instytucje-ścigają-fraud-w-projektach-OZE-i-co-je-od-siebie-różni-04-27-7)
 - [CBA OLAF EPPO  jak trzy instytucje ścigają fraud w projektac](https://telegra.ph/CBA-OLAF-EPPO--jak-trzy-instytucje-ścigają-fraud-w-projektach-OZE-i-co-je-od-siebie-różni-04-27-8)
+- [zpl oze ad5722](https://rentry.co/zpl-oze-ad5722)
+- [zpl eco ad5722](https://rentry.co/zpl-eco-ad5722)
+- [zpl krt ad5722](https://rentry.co/zpl-krt-ad5722)
+- [zpl ene ad5722](https://rentry.co/zpl-ene-ad5722)
+- [zpl sol ad5722](https://rentry.co/zpl-sol-ad5722)
 
 ## Rynek mocy 2027 — URE ogłasza wyniki aukcji dodatkowych. Ceny od 0,12 do 186 zł/kW/rok
 
@@ -2185,7 +2185,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [rynek mocy 2027 ure og asza wyniki aukcji dodatkowych ceny o](https://solarfinance.pl/2026/04/27/rynek-mocy-2027-ure-og-asza-wyniki-aukcji-dodatkowych-ceny-o/)
 - [rynek mocy 2027 ure oglasza wyniki aukcji dodatkowych ceny o](https://worldofozepoland.hashnode.dev/rynek-mocy-2027-ure-oglasza-wyniki-aukcji-dodatkowych-ceny-od-012-do-186-zlkwrok)
 - [rynek mocy 2027 ure oglasza wyniki aukcji dodatkowych ceny o](https://localozepoland.hashnode.dev/rynek-mocy-2027-ure-oglasza-wyniki-aukcji-dodatkowych-ceny-od-012-do-186-zlkwrok)
 - [rynek mocy 2027 ure oglasza wyniki aukcji dodatkowych ceny o](https://kasiasearchingpv.hashnode.dev/rynek-mocy-2027-ure-oglasza-wyniki-aukcji-dodatkowych-ceny-od-012-do-186-zlkwrok)
@@ -2198,11 +2197,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [rynek mocy 2027 ure oglasza wyniki aukcji dodatkowych ceny o](https://tomekwanttoinstalpc.hashnode.dev/rynek-mocy-2027-ure-oglasza-wyniki-aukcji-dodatkowych-ceny-od-012-do-186-zlkwrok)
 - [rynek mocy 2027 ure oglasza wyniki aukcji dodatkowych ceny o](https://electricycarpoland.hashnode.dev/rynek-mocy-2027-ure-oglasza-wyniki-aukcji-dodatkowych-ceny-od-012-do-186-zlkwrok)
 - [rynek mocy 2027 ure ogasza wyniki aukcji dodatkowych ceny od](https://effectiveone.mataroa.blog/blog/rynek-mocy-2027-ure-ogasza-wyniki-aukcji-dodatkowych-ceny-od-012-do-186-zkwrok/)
-- [zpl oze c74a4d](https://rentry.co/zpl-oze-c74a4d)
-- [zpl eco c74a4d](https://rentry.co/zpl-eco-c74a4d)
-- [zpl krt c74a4d](https://rentry.co/zpl-krt-c74a4d)
-- [zpl ene c74a4d](https://rentry.co/zpl-ene-c74a4d)
-- [zpl sol c74a4d](https://rentry.co/zpl-sol-c74a4d)
+- [rynek mocy 2027 ure og asza wyniki aukcji dodatkowych ceny o](https://solarfinance.pl/2026/04/27/rynek-mocy-2027-ure-og-asza-wyniki-aukcji-dodatkowych-ceny-o/)
 - [Rynek mocy 2027  URE ogłasza wyniki aukcji dodatkowych Ceny ](https://telegra.ph/Rynek-mocy-2027--URE-ogłasza-wyniki-aukcji-dodatkowych-Ceny-od-012-do-186-złkWrok-04-27)
 - [Rynek mocy 2027  URE ogłasza wyniki aukcji dodatkowych Ceny ](https://telegra.ph/Rynek-mocy-2027--URE-ogłasza-wyniki-aukcji-dodatkowych-Ceny-od-012-do-186-złkWrok-04-27-2)
 - [Rynek mocy 2027  URE ogłasza wyniki aukcji dodatkowych Ceny ](https://telegra.ph/Rynek-mocy-2027--URE-ogłasza-wyniki-aukcji-dodatkowych-Ceny-od-012-do-186-złkWrok-04-27-3)
@@ -2211,6 +2206,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Rynek mocy 2027  URE ogłasza wyniki aukcji dodatkowych Ceny ](https://telegra.ph/Rynek-mocy-2027--URE-ogłasza-wyniki-aukcji-dodatkowych-Ceny-od-012-do-186-złkWrok-04-27-6)
 - [Rynek mocy 2027  URE ogłasza wyniki aukcji dodatkowych Ceny ](https://telegra.ph/Rynek-mocy-2027--URE-ogłasza-wyniki-aukcji-dodatkowych-Ceny-od-012-do-186-złkWrok-04-27-7)
 - [Rynek mocy 2027  URE ogłasza wyniki aukcji dodatkowych Ceny ](https://telegra.ph/Rynek-mocy-2027--URE-ogłasza-wyniki-aukcji-dodatkowych-Ceny-od-012-do-186-złkWrok-04-27-8)
+- [zpl oze c74a4d](https://rentry.co/zpl-oze-c74a4d)
+- [zpl eco c74a4d](https://rentry.co/zpl-eco-c74a4d)
+- [zpl krt c74a4d](https://rentry.co/zpl-krt-c74a4d)
+- [zpl ene c74a4d](https://rentry.co/zpl-ene-c74a4d)
+- [zpl sol c74a4d](https://rentry.co/zpl-sol-c74a4d)
 
 ## Polska i Francja razem przy atomie — co wynika z deklaracji i co EDF bada dla kolejnej elektrowni
 
@@ -2218,7 +2218,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [polska i francja razem przy atomie co wynika z deklaracji i ](https://solarfinance.pl/2026/04/27/polska-i-francja-razem-przy-atomie-co-wynika-z-deklaracji-i-/)
 - [polska i francja razem przy atomie co wynika z deklaracji i ](https://worldofozepoland.hashnode.dev/polska-i-francja-razem-przy-atomie-co-wynika-z-deklaracji-i-co-edf-bada-dla-kolejnej-elektrowni)
 - [polska i francja razem przy atomie co wynika z deklaracji i ](https://localozepoland.hashnode.dev/polska-i-francja-razem-przy-atomie-co-wynika-z-deklaracji-i-co-edf-bada-dla-kolejnej-elektrowni)
 - [polska i francja razem przy atomie co wynika z deklaracji i ](https://kasiasearchingpv.hashnode.dev/polska-i-francja-razem-przy-atomie-co-wynika-z-deklaracji-i-co-edf-bada-dla-kolejnej-elektrowni)
@@ -2231,11 +2230,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [polska i francja razem przy atomie co wynika z deklaracji i ](https://tomekwanttoinstalpc.hashnode.dev/polska-i-francja-razem-przy-atomie-co-wynika-z-deklaracji-i-co-edf-bada-dla-kolejnej-elektrowni)
 - [polska i francja razem przy atomie co wynika z deklaracji i ](https://electricycarpoland.hashnode.dev/polska-i-francja-razem-przy-atomie-co-wynika-z-deklaracji-i-co-edf-bada-dla-kolejnej-elektrowni)
 - [polska i francja razem przy atomie co wynika z deklaracji i ](https://effectiveone.mataroa.blog/blog/polska-i-francja-razem-przy-atomie-co-wynika-z-deklaracji-i-co-edf-bada-dla-kolejnej-elektrowni/)
-- [zpl oze a729e3](https://rentry.co/zpl-oze-a729e3)
-- [zpl eco a729e3](https://rentry.co/zpl-eco-a729e3)
-- [zpl krt a729e3](https://rentry.co/zpl-krt-a729e3)
-- [zpl ene a729e3](https://rentry.co/zpl-ene-a729e3)
-- [zpl sol a729e3](https://rentry.co/zpl-sol-a729e3)
+- [polska i francja razem przy atomie co wynika z deklaracji i ](https://solarfinance.pl/2026/04/27/polska-i-francja-razem-przy-atomie-co-wynika-z-deklaracji-i-/)
 - [Polska i Francja razem przy atomie  co wynika z deklaracji i](https://telegra.ph/Polska-i-Francja-razem-przy-atomie--co-wynika-z-deklaracji-i-co-EDF-bada-dla-kolejnej-elektrowni-04-27)
 - [Polska i Francja razem przy atomie  co wynika z deklaracji i](https://telegra.ph/Polska-i-Francja-razem-przy-atomie--co-wynika-z-deklaracji-i-co-EDF-bada-dla-kolejnej-elektrowni-04-27-2)
 - [Polska i Francja razem przy atomie  co wynika z deklaracji i](https://telegra.ph/Polska-i-Francja-razem-przy-atomie--co-wynika-z-deklaracji-i-co-EDF-bada-dla-kolejnej-elektrowni-04-27-3)
@@ -2244,6 +2239,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Polska i Francja razem przy atomie  co wynika z deklaracji i](https://telegra.ph/Polska-i-Francja-razem-przy-atomie--co-wynika-z-deklaracji-i-co-EDF-bada-dla-kolejnej-elektrowni-04-27-6)
 - [Polska i Francja razem przy atomie  co wynika z deklaracji i](https://telegra.ph/Polska-i-Francja-razem-przy-atomie--co-wynika-z-deklaracji-i-co-EDF-bada-dla-kolejnej-elektrowni-04-27-7)
 - [Polska i Francja razem przy atomie  co wynika z deklaracji i](https://telegra.ph/Polska-i-Francja-razem-przy-atomie--co-wynika-z-deklaracji-i-co-EDF-bada-dla-kolejnej-elektrowni-04-27-8)
+- [zpl oze a729e3](https://rentry.co/zpl-oze-a729e3)
+- [zpl eco a729e3](https://rentry.co/zpl-eco-a729e3)
+- [zpl krt a729e3](https://rentry.co/zpl-krt-a729e3)
+- [zpl ene a729e3](https://rentry.co/zpl-ene-a729e3)
+- [zpl sol a729e3](https://rentry.co/zpl-sol-a729e3)
 
 ## Orlen Charge ujednolicił ceny DC do 2,69 zł/kWh od 1 kwietnia 2026. Co to zmienia dla kierowców i flot
 
@@ -2251,7 +2251,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [orlen charge ujednolici ceny dc do 2 69 z kwh od 1 kwietnia ](https://solarfinance.pl/2026/04/27/orlen-charge-ujednolici-ceny-dc-do-2-69-z-kwh-od-1-kwietnia-/)
 - [orlen charge ujednolicil ceny dc do 269 zlkwh od 1 kwietnia ](https://worldofozepoland.hashnode.dev/orlen-charge-ujednolicil-ceny-dc-do-269-zlkwh-od-1-kwietnia-2026-co-to-zmienia-dla-kierowcow-i-flot)
 - [orlen charge ujednolicil ceny dc do 269 zlkwh od 1 kwietnia ](https://localozepoland.hashnode.dev/orlen-charge-ujednolicil-ceny-dc-do-269-zlkwh-od-1-kwietnia-2026-co-to-zmienia-dla-kierowcow-i-flot)
 - [orlen charge ujednolicil ceny dc do 269 zlkwh od 1 kwietnia ](https://kasiasearchingpv.hashnode.dev/orlen-charge-ujednolicil-ceny-dc-do-269-zlkwh-od-1-kwietnia-2026-co-to-zmienia-dla-kierowcow-i-flot)
@@ -2264,11 +2263,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [orlen charge ujednolicil ceny dc do 269 zlkwh od 1 kwietnia ](https://tomekwanttoinstalpc.hashnode.dev/orlen-charge-ujednolicil-ceny-dc-do-269-zlkwh-od-1-kwietnia-2026-co-to-zmienia-dla-kierowcow-i-flot)
 - [orlen charge ujednolicil ceny dc do 269 zlkwh od 1 kwietnia ](https://electricycarpoland.hashnode.dev/orlen-charge-ujednolicil-ceny-dc-do-269-zlkwh-od-1-kwietnia-2026-co-to-zmienia-dla-kierowcow-i-flot)
 - [orlen charge ujednolici ceny dc do 269 zkwh od 1 kwietnia 20](https://effectiveone.mataroa.blog/blog/orlen-charge-ujednolici-ceny-dc-do-269-zkwh-od-1-kwietnia-2026-co-to-zmienia-dla-kierowcow-i-flot/)
-- [zpl oze b7bad8](https://rentry.co/zpl-oze-b7bad8)
-- [zpl eco b7bad8](https://rentry.co/zpl-eco-b7bad8)
-- [zpl krt b7bad8](https://rentry.co/zpl-krt-b7bad8)
-- [zpl ene b7bad8](https://rentry.co/zpl-ene-b7bad8)
-- [zpl sol b7bad8](https://rentry.co/zpl-sol-b7bad8)
+- [orlen charge ujednolici ceny dc do 2 69 z kwh od 1 kwietnia ](https://solarfinance.pl/2026/04/27/orlen-charge-ujednolici-ceny-dc-do-2-69-z-kwh-od-1-kwietnia-/)
 - [Orlen Charge ujednolicił ceny DC do 269 złkWh od 1 kwietnia ](https://telegra.ph/Orlen-Charge-ujednolicił-ceny-DC-do-269-złkWh-od-1-kwietnia-2026-Co-to-zmienia-dla-kierowców-i-flot-04-27)
 - [Orlen Charge ujednolicił ceny DC do 269 złkWh od 1 kwietnia ](https://telegra.ph/Orlen-Charge-ujednolicił-ceny-DC-do-269-złkWh-od-1-kwietnia-2026-Co-to-zmienia-dla-kierowców-i-flot-04-27-2)
 - [Orlen Charge ujednolicił ceny DC do 269 złkWh od 1 kwietnia ](https://telegra.ph/Orlen-Charge-ujednolicił-ceny-DC-do-269-złkWh-od-1-kwietnia-2026-Co-to-zmienia-dla-kierowców-i-flot-04-27-3)
@@ -2277,6 +2272,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Orlen Charge ujednolicił ceny DC do 269 złkWh od 1 kwietnia ](https://telegra.ph/Orlen-Charge-ujednolicił-ceny-DC-do-269-złkWh-od-1-kwietnia-2026-Co-to-zmienia-dla-kierowców-i-flot-04-27-6)
 - [Orlen Charge ujednolicił ceny DC do 269 złkWh od 1 kwietnia ](https://telegra.ph/Orlen-Charge-ujednolicił-ceny-DC-do-269-złkWh-od-1-kwietnia-2026-Co-to-zmienia-dla-kierowców-i-flot-04-27-7)
 - [Orlen Charge ujednolicił ceny DC do 269 złkWh od 1 kwietnia ](https://telegra.ph/Orlen-Charge-ujednolicił-ceny-DC-do-269-złkWh-od-1-kwietnia-2026-Co-to-zmienia-dla-kierowców-i-flot-04-27-8)
+- [zpl oze b7bad8](https://rentry.co/zpl-oze-b7bad8)
+- [zpl eco b7bad8](https://rentry.co/zpl-eco-b7bad8)
+- [zpl krt b7bad8](https://rentry.co/zpl-krt-b7bad8)
+- [zpl ene b7bad8](https://rentry.co/zpl-ene-b7bad8)
+- [zpl sol b7bad8](https://rentry.co/zpl-sol-b7bad8)
 
 ## 79% nowych mocy PV to instalacje powyżej 50 MW. Era gigafarm właśnie zastąpiła erę przydomowych paneli
 
@@ -2284,7 +2284,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [79 nowych mocy pv to instalacje powy ej 50 mw era gigafarm w](https://solarfinance.pl/2026/04/27/79-nowych-mocy-pv-to-instalacje-powy-ej-50-mw-era-gigafarm-w/)
 - [79 nowych mocy pv to instalacje powyzej 50 mw era gigafarm w](https://worldofozepoland.hashnode.dev/79-nowych-mocy-pv-to-instalacje-powyzej-50-mw-era-gigafarm-wlasnie-zastapila-ere-przydomowych-paneli)
 - [79 nowych mocy pv to instalacje powyzej 50 mw era gigafarm w](https://localozepoland.hashnode.dev/79-nowych-mocy-pv-to-instalacje-powyzej-50-mw-era-gigafarm-wlasnie-zastapila-ere-przydomowych-paneli)
 - [79 nowych mocy pv to instalacje powyzej 50 mw era gigafarm w](https://kasiasearchingpv.hashnode.dev/79-nowych-mocy-pv-to-instalacje-powyzej-50-mw-era-gigafarm-wlasnie-zastapila-ere-przydomowych-paneli)
@@ -2297,11 +2296,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [79 nowych mocy pv to instalacje powyzej 50 mw era gigafarm w](https://tomekwanttoinstalpc.hashnode.dev/79-nowych-mocy-pv-to-instalacje-powyzej-50-mw-era-gigafarm-wlasnie-zastapila-ere-przydomowych-paneli)
 - [79 nowych mocy pv to instalacje powyzej 50 mw era gigafarm w](https://electricycarpoland.hashnode.dev/79-nowych-mocy-pv-to-instalacje-powyzej-50-mw-era-gigafarm-wlasnie-zastapila-ere-przydomowych-paneli)
 - [79 nowych mocy pv to instalacje powyzej 50 mw era gigafarm w](https://effectiveone.mataroa.blog/blog/79-nowych-mocy-pv-to-instalacje-powyzej-50-mw-era-gigafarm-wasnie-zastapia-ere-przydomowych-paneli/)
-- [zpl oze db76de](https://rentry.co/zpl-oze-db76de)
-- [zpl eco db76de](https://rentry.co/zpl-eco-db76de)
-- [zpl krt db76de](https://rentry.co/zpl-krt-db76de)
-- [zpl ene db76de](https://rentry.co/zpl-ene-db76de)
-- [zpl sol db76de](https://rentry.co/zpl-sol-db76de)
+- [79 nowych mocy pv to instalacje powy ej 50 mw era gigafarm w](https://solarfinance.pl/2026/04/27/79-nowych-mocy-pv-to-instalacje-powy-ej-50-mw-era-gigafarm-w/)
 - [79 nowych mocy PV to instalacje powyżej 50 MW Era gigafarm w](https://telegra.ph/79-nowych-mocy-PV-to-instalacje-powyżej-50-MW-Era-gigafarm-właśnie-zastąpiła-erę-przydomowych-paneli-04-27)
 - [79 nowych mocy PV to instalacje powyżej 50 MW Era gigafarm w](https://telegra.ph/79-nowych-mocy-PV-to-instalacje-powyżej-50-MW-Era-gigafarm-właśnie-zastąpiła-erę-przydomowych-paneli-04-27-2)
 - [79 nowych mocy PV to instalacje powyżej 50 MW Era gigafarm w](https://telegra.ph/79-nowych-mocy-PV-to-instalacje-powyżej-50-MW-Era-gigafarm-właśnie-zastąpiła-erę-przydomowych-paneli-04-27-3)
@@ -2310,6 +2305,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [79 nowych mocy PV to instalacje powyżej 50 MW Era gigafarm w](https://telegra.ph/79-nowych-mocy-PV-to-instalacje-powyżej-50-MW-Era-gigafarm-właśnie-zastąpiła-erę-przydomowych-paneli-04-27-6)
 - [79 nowych mocy PV to instalacje powyżej 50 MW Era gigafarm w](https://telegra.ph/79-nowych-mocy-PV-to-instalacje-powyżej-50-MW-Era-gigafarm-właśnie-zastąpiła-erę-przydomowych-paneli-04-27-7)
 - [79 nowych mocy PV to instalacje powyżej 50 MW Era gigafarm w](https://telegra.ph/79-nowych-mocy-PV-to-instalacje-powyżej-50-MW-Era-gigafarm-właśnie-zastąpiła-erę-przydomowych-paneli-04-27-8)
+- [zpl oze db76de](https://rentry.co/zpl-oze-db76de)
+- [zpl eco db76de](https://rentry.co/zpl-eco-db76de)
+- [zpl krt db76de](https://rentry.co/zpl-krt-db76de)
+- [zpl ene db76de](https://rentry.co/zpl-ene-db76de)
+- [zpl sol db76de](https://rentry.co/zpl-sol-db76de)
 
 ## Phantom farms, certyfikaty-duchy i zawyżone faktury — trzy schematy wyłudzeń w projektach OZE, które działają latami
 
@@ -2317,7 +2317,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [phantom farms certyfikaty duchy i zawy one faktury trzy sche](https://solarfinance.pl/2026/04/27/phantom-farms-certyfikaty-duchy-i-zawy-one-faktury-trzy-sche/)
 - [phantom farms certyfikaty duchy i zawyzone faktury trzy sche](https://worldofozepoland.hashnode.dev/phantom-farms-certyfikaty-duchy-i-zawyzone-faktury-trzy-schematy-wyludzen-w-projektach-oze-ktore-dzialaja-latami)
 - [phantom farms certyfikaty duchy i zawyzone faktury trzy sche](https://localozepoland.hashnode.dev/phantom-farms-certyfikaty-duchy-i-zawyzone-faktury-trzy-schematy-wyludzen-w-projektach-oze-ktore-dzialaja-latami)
 - [phantom farms certyfikaty duchy i zawyzone faktury trzy sche](https://kasiasearchingpv.hashnode.dev/phantom-farms-certyfikaty-duchy-i-zawyzone-faktury-trzy-schematy-wyludzen-w-projektach-oze-ktore-dzialaja-latami)
@@ -2330,11 +2329,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [phantom farms certyfikaty duchy i zawyzone faktury trzy sche](https://tomekwanttoinstalpc.hashnode.dev/phantom-farms-certyfikaty-duchy-i-zawyzone-faktury-trzy-schematy-wyludzen-w-projektach-oze-ktore-dzialaja-latami)
 - [phantom farms certyfikaty duchy i zawyzone faktury trzy sche](https://electricycarpoland.hashnode.dev/phantom-farms-certyfikaty-duchy-i-zawyzone-faktury-trzy-schematy-wyludzen-w-projektach-oze-ktore-dzialaja-latami)
 - [phantom farms certyfikaty duchy i zawyzone faktury trzy sche](https://effectiveone.mataroa.blog/blog/phantom-farms-certyfikaty-duchy-i-zawyzone-faktury-trzy-schematy-wyudzen-w-projektach-oze-ktore-dziaaja-latami/)
-- [zpl oze 22bdad](https://rentry.co/zpl-oze-22bdad)
-- [zpl eco 22bdad](https://rentry.co/zpl-eco-22bdad)
-- [zpl krt 22bdad](https://rentry.co/zpl-krt-22bdad)
-- [zpl ene 22bdad](https://rentry.co/zpl-ene-22bdad)
-- [zpl sol 22bdad](https://rentry.co/zpl-sol-22bdad)
+- [phantom farms certyfikaty duchy i zawy one faktury trzy sche](https://solarfinance.pl/2026/04/27/phantom-farms-certyfikaty-duchy-i-zawy-one-faktury-trzy-sche/)
 - [Phantom farms certyfikaty duchy i zawyżone faktury  trzy sch](https://telegra.ph/Phantom-farms-certyfikaty-duchy-i-zawyżone-faktury--trzy-schematy-wyłudzeń-w-projektach-OZE-które-działają-latami-04-27)
 - [Phantom farms certyfikaty duchy i zawyżone faktury  trzy sch](https://telegra.ph/Phantom-farms-certyfikaty-duchy-i-zawyżone-faktury--trzy-schematy-wyłudzeń-w-projektach-OZE-które-działają-latami-04-27-2)
 - [Phantom farms certyfikaty duchy i zawyżone faktury  trzy sch](https://telegra.ph/Phantom-farms-certyfikaty-duchy-i-zawyżone-faktury--trzy-schematy-wyłudzeń-w-projektach-OZE-które-działają-latami-04-27-3)
@@ -2343,6 +2338,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Phantom farms certyfikaty duchy i zawyżone faktury  trzy sch](https://telegra.ph/Phantom-farms-certyfikaty-duchy-i-zawyżone-faktury--trzy-schematy-wyłudzeń-w-projektach-OZE-które-działają-latami-04-27-6)
 - [Phantom farms certyfikaty duchy i zawyżone faktury  trzy sch](https://telegra.ph/Phantom-farms-certyfikaty-duchy-i-zawyżone-faktury--trzy-schematy-wyłudzeń-w-projektach-OZE-które-działają-latami-04-27-7)
 - [Phantom farms certyfikaty duchy i zawyżone faktury  trzy sch](https://telegra.ph/Phantom-farms-certyfikaty-duchy-i-zawyżone-faktury--trzy-schematy-wyłudzeń-w-projektach-OZE-które-działają-latami-04-27-8)
+- [zpl oze 22bdad](https://rentry.co/zpl-oze-22bdad)
+- [zpl eco 22bdad](https://rentry.co/zpl-eco-22bdad)
+- [zpl krt 22bdad](https://rentry.co/zpl-krt-22bdad)
+- [zpl ene 22bdad](https://rentry.co/zpl-ene-22bdad)
+- [zpl sol 22bdad](https://rentry.co/zpl-sol-22bdad)
 
 ## 160 mln euro na zieloną transformację — Polska podpisała nowy program z Funduszy Norweskich i EOG
 
@@ -2350,7 +2350,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [160 mln euro na zielon transformacj polska podpisa a nowy pr](https://solarfinance.pl/2026/04/27/160-mln-euro-na-zielon-transformacj-polska-podpisa-a-nowy-pr/)
 - [160 mln euro na zielona transformacje polska podpisala nowy ](https://worldofozepoland.hashnode.dev/160-mln-euro-na-zielona-transformacje-polska-podpisala-nowy-program-z-funduszy-norweskich-i-eog)
 - [160 mln euro na zielona transformacje polska podpisala nowy ](https://localozepoland.hashnode.dev/160-mln-euro-na-zielona-transformacje-polska-podpisala-nowy-program-z-funduszy-norweskich-i-eog)
 - [160 mln euro na zielona transformacje polska podpisala nowy ](https://kasiasearchingpv.hashnode.dev/160-mln-euro-na-zielona-transformacje-polska-podpisala-nowy-program-z-funduszy-norweskich-i-eog)
@@ -2363,11 +2362,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [160 mln euro na zielona transformacje polska podpisala nowy ](https://tomekwanttoinstalpc.hashnode.dev/160-mln-euro-na-zielona-transformacje-polska-podpisala-nowy-program-z-funduszy-norweskich-i-eog)
 - [160 mln euro na zielona transformacje polska podpisala nowy ](https://electricycarpoland.hashnode.dev/160-mln-euro-na-zielona-transformacje-polska-podpisala-nowy-program-z-funduszy-norweskich-i-eog)
 - [160 mln euro na zielona transformacje polska podpisaa nowy p](https://effectiveone.mataroa.blog/blog/160-mln-euro-na-zielona-transformacje-polska-podpisaa-nowy-program-z-funduszy-norweskich-i-eog/)
-- [zpl oze 8fabd0](https://rentry.co/zpl-oze-8fabd0)
-- [zpl eco 8fabd0](https://rentry.co/zpl-eco-8fabd0)
-- [zpl krt 8fabd0](https://rentry.co/zpl-krt-8fabd0)
-- [zpl ene 8fabd0](https://rentry.co/zpl-ene-8fabd0)
-- [zpl sol 8fabd0](https://rentry.co/zpl-sol-8fabd0)
+- [160 mln euro na zielon transformacj polska podpisa a nowy pr](https://solarfinance.pl/2026/04/27/160-mln-euro-na-zielon-transformacj-polska-podpisa-a-nowy-pr/)
 - [160 mln euro na zieloną transformację  Polska podpisała nowy](https://telegra.ph/160-mln-euro-na-zieloną-transformację--Polska-podpisała-nowy-program-z-Funduszy-Norweskich-i-EOG-04-27)
 - [160 mln euro na zieloną transformację  Polska podpisała nowy](https://telegra.ph/160-mln-euro-na-zieloną-transformację--Polska-podpisała-nowy-program-z-Funduszy-Norweskich-i-EOG-04-27-2)
 - [160 mln euro na zieloną transformację  Polska podpisała nowy](https://telegra.ph/160-mln-euro-na-zieloną-transformację--Polska-podpisała-nowy-program-z-Funduszy-Norweskich-i-EOG-04-27-3)
@@ -2376,6 +2371,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [160 mln euro na zieloną transformację  Polska podpisała nowy](https://telegra.ph/160-mln-euro-na-zieloną-transformację--Polska-podpisała-nowy-program-z-Funduszy-Norweskich-i-EOG-04-27-6)
 - [160 mln euro na zieloną transformację  Polska podpisała nowy](https://telegra.ph/160-mln-euro-na-zieloną-transformację--Polska-podpisała-nowy-program-z-Funduszy-Norweskich-i-EOG-04-27-7)
 - [160 mln euro na zieloną transformację  Polska podpisała nowy](https://telegra.ph/160-mln-euro-na-zieloną-transformację--Polska-podpisała-nowy-program-z-Funduszy-Norweskich-i-EOG-04-27-8)
+- [zpl oze 8fabd0](https://rentry.co/zpl-oze-8fabd0)
+- [zpl eco 8fabd0](https://rentry.co/zpl-eco-8fabd0)
+- [zpl krt 8fabd0](https://rentry.co/zpl-krt-8fabd0)
+- [zpl ene 8fabd0](https://rentry.co/zpl-ene-8fabd0)
+- [zpl sol 8fabd0](https://rentry.co/zpl-sol-8fabd0)
 
 ## NaszEauto skończyło się 27 stycznia. Co zostało dla firm? 225 tys. zł amortyzacji i tańszy rachunek
 
@@ -2383,7 +2383,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [naszeauto sko czy o si 27 stycznia co zosta o dla firm 225 t](https://solarfinance.pl/2026/04/27/naszeauto-sko-czy-o-si-27-stycznia-co-zosta-o-dla-firm-225-t/)
 - [naszeauto skonczylo sie 27 stycznia co zostalo dla firm 225 ](https://worldofozepoland.hashnode.dev/naszeauto-skonczylo-sie-27-stycznia-co-zostalo-dla-firm-225-tys-zl-amortyzacji-i-tanszy-rachunek)
 - [naszeauto skonczylo sie 27 stycznia co zostalo dla firm 225 ](https://localozepoland.hashnode.dev/naszeauto-skonczylo-sie-27-stycznia-co-zostalo-dla-firm-225-tys-zl-amortyzacji-i-tanszy-rachunek)
 - [naszeauto skonczylo sie 27 stycznia co zostalo dla firm 225 ](https://kasiasearchingpv.hashnode.dev/naszeauto-skonczylo-sie-27-stycznia-co-zostalo-dla-firm-225-tys-zl-amortyzacji-i-tanszy-rachunek)
@@ -2396,11 +2395,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [naszeauto skonczylo sie 27 stycznia co zostalo dla firm 225 ](https://tomekwanttoinstalpc.hashnode.dev/naszeauto-skonczylo-sie-27-stycznia-co-zostalo-dla-firm-225-tys-zl-amortyzacji-i-tanszy-rachunek)
 - [naszeauto skonczylo sie 27 stycznia co zostalo dla firm 225 ](https://electricycarpoland.hashnode.dev/naszeauto-skonczylo-sie-27-stycznia-co-zostalo-dla-firm-225-tys-zl-amortyzacji-i-tanszy-rachunek)
 - [naszeauto skonczyo sie 27 stycznia co zostao dla firm 225 ty](https://effectiveone.mataroa.blog/blog/naszeauto-skonczyo-sie-27-stycznia-co-zostao-dla-firm-225-tys-z-amortyzacji-i-tanszy-rachunek/)
-- [zpl oze 2d786e](https://rentry.co/zpl-oze-2d786e)
-- [zpl eco 2d786e](https://rentry.co/zpl-eco-2d786e)
-- [zpl krt 2d786e](https://rentry.co/zpl-krt-2d786e)
-- [zpl ene 2d786e](https://rentry.co/zpl-ene-2d786e)
-- [zpl sol 2d786e](https://rentry.co/zpl-sol-2d786e)
+- [naszeauto sko czy o si 27 stycznia co zosta o dla firm 225 t](https://solarfinance.pl/2026/04/27/naszeauto-sko-czy-o-si-27-stycznia-co-zosta-o-dla-firm-225-t/)
 - [NaszEauto skończyło się 27 stycznia Co zostało dla firm 225 ](https://telegra.ph/NaszEauto-skończyło-się-27-stycznia-Co-zostało-dla-firm-225-tys-zł-amortyzacji-i-tańszy-rachunek-04-27)
 - [NaszEauto skończyło się 27 stycznia Co zostało dla firm 225 ](https://telegra.ph/NaszEauto-skończyło-się-27-stycznia-Co-zostało-dla-firm-225-tys-zł-amortyzacji-i-tańszy-rachunek-04-27-2)
 - [NaszEauto skończyło się 27 stycznia Co zostało dla firm 225 ](https://telegra.ph/NaszEauto-skończyło-się-27-stycznia-Co-zostało-dla-firm-225-tys-zł-amortyzacji-i-tańszy-rachunek-04-27-3)
@@ -2409,6 +2404,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [NaszEauto skończyło się 27 stycznia Co zostało dla firm 225 ](https://telegra.ph/NaszEauto-skończyło-się-27-stycznia-Co-zostało-dla-firm-225-tys-zł-amortyzacji-i-tańszy-rachunek-04-27-6)
 - [NaszEauto skończyło się 27 stycznia Co zostało dla firm 225 ](https://telegra.ph/NaszEauto-skończyło-się-27-stycznia-Co-zostało-dla-firm-225-tys-zł-amortyzacji-i-tańszy-rachunek-04-27-7)
 - [NaszEauto skończyło się 27 stycznia Co zostało dla firm 225 ](https://telegra.ph/NaszEauto-skończyło-się-27-stycznia-Co-zostało-dla-firm-225-tys-zł-amortyzacji-i-tańszy-rachunek-04-27-8)
+- [zpl oze 2d786e](https://rentry.co/zpl-oze-2d786e)
+- [zpl eco 2d786e](https://rentry.co/zpl-eco-2d786e)
+- [zpl krt 2d786e](https://rentry.co/zpl-krt-2d786e)
+- [zpl ene 2d786e](https://rentry.co/zpl-ene-2d786e)
+- [zpl sol 2d786e](https://rentry.co/zpl-sol-2d786e)
 
 ## CBA zabezpiecza dokumenty ws. „Czystego Powietrza”. Co dziś wiadomo, a czego śledztwo jeszcze nie przesądza
 
@@ -2416,7 +2416,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [cba zabezpiecza dokumenty ws czystego powietrza co dzi wiado](https://solarfinance.pl/2026/04/22/cba-zabezpiecza-dokumenty-ws-czystego-powietrza-co-dzi-wiado/)
 - [cba zabezpiecza dokumenty ws czystego powietrza co dzis wiad](https://worldofozepoland.hashnode.dev/cba-zabezpiecza-dokumenty-ws-czystego-powietrza-co-dzis-wiadomo-a-czego-sledztwo-jeszcze-nie-przesadza)
 - [cba zabezpiecza dokumenty ws czystego powietrza co dzis wiad](https://localozepoland.hashnode.dev/cba-zabezpiecza-dokumenty-ws-czystego-powietrza-co-dzis-wiadomo-a-czego-sledztwo-jeszcze-nie-przesadza)
 - [cba zabezpiecza dokumenty ws czystego powietrza co dzis wiad](https://kasiasearchingpv.hashnode.dev/cba-zabezpiecza-dokumenty-ws-czystego-powietrza-co-dzis-wiadomo-a-czego-sledztwo-jeszcze-nie-przesadza)
@@ -2428,11 +2427,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [cba zabezpiecza dokumenty ws czystego powietrza co dzis wiad](https://yourengineerpoland.hashnode.dev/cba-zabezpiecza-dokumenty-ws-czystego-powietrza-co-dzis-wiadomo-a-czego-sledztwo-jeszcze-nie-przesadza)
 - [cba zabezpiecza dokumenty ws czystego powietrza co dzis wiad](https://tomekwanttoinstalpc.hashnode.dev/cba-zabezpiecza-dokumenty-ws-czystego-powietrza-co-dzis-wiadomo-a-czego-sledztwo-jeszcze-nie-przesadza)
 - [cba zabezpiecza dokumenty ws czystego powietrza co dzis wiad](https://electricycarpoland.hashnode.dev/cba-zabezpiecza-dokumenty-ws-czystego-powietrza-co-dzis-wiadomo-a-czego-sledztwo-jeszcze-nie-przesadza)
-- [zpl oze e5d433](https://rentry.co/zpl-oze-e5d433)
-- [zpl eco e5d433](https://rentry.co/zpl-eco-e5d433)
-- [zpl krt e5d433](https://rentry.co/zpl-krt-e5d433)
-- [zpl ene e5d433](https://rentry.co/zpl-ene-e5d433)
-- [zpl sol e5d433](https://rentry.co/zpl-sol-e5d433)
+- [cba zabezpiecza dokumenty ws czystego powietrza co dzi wiado](https://solarfinance.pl/2026/04/22/cba-zabezpiecza-dokumenty-ws-czystego-powietrza-co-dzi-wiado/)
 - [CBA zabezpiecza dokumenty ws Czystego Powietrza Co dziś wiad](https://telegra.ph/CBA-zabezpiecza-dokumenty-ws-Czystego-Powietrza-Co-dziś-wiadomo-a-czego-śledztwo-jeszcze-nie-przesądza-04-22)
 - [CBA zabezpiecza dokumenty ws Czystego Powietrza Co dziś wiad](https://telegra.ph/CBA-zabezpiecza-dokumenty-ws-Czystego-Powietrza-Co-dziś-wiadomo-a-czego-śledztwo-jeszcze-nie-przesądza-04-22-2)
 - [CBA zabezpiecza dokumenty ws Czystego Powietrza Co dziś wiad](https://telegra.ph/CBA-zabezpiecza-dokumenty-ws-Czystego-Powietrza-Co-dziś-wiadomo-a-czego-śledztwo-jeszcze-nie-przesądza-04-22-3)
@@ -2441,6 +2436,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [CBA zabezpiecza dokumenty ws Czystego Powietrza Co dziś wiad](https://telegra.ph/CBA-zabezpiecza-dokumenty-ws-Czystego-Powietrza-Co-dziś-wiadomo-a-czego-śledztwo-jeszcze-nie-przesądza-04-22-6)
 - [CBA zabezpiecza dokumenty ws Czystego Powietrza Co dziś wiad](https://telegra.ph/CBA-zabezpiecza-dokumenty-ws-Czystego-Powietrza-Co-dziś-wiadomo-a-czego-śledztwo-jeszcze-nie-przesądza-04-22-7)
 - [CBA zabezpiecza dokumenty ws Czystego Powietrza Co dziś wiad](https://telegra.ph/CBA-zabezpiecza-dokumenty-ws-Czystego-Powietrza-Co-dziś-wiadomo-a-czego-śledztwo-jeszcze-nie-przesądza-04-22-8)
+- [zpl oze e5d433](https://rentry.co/zpl-oze-e5d433)
+- [zpl eco e5d433](https://rentry.co/zpl-eco-e5d433)
+- [zpl krt e5d433](https://rentry.co/zpl-krt-e5d433)
+- [zpl ene e5d433](https://rentry.co/zpl-ene-e5d433)
+- [zpl sol e5d433](https://rentry.co/zpl-sol-e5d433)
 
 ## Ujemne ceny energii wiosną 2026 — dlaczego weekendy to największy problem i co to oznacza dla rynku OZE
 
@@ -2448,7 +2448,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [ujemne ceny energii wiosn 2026 dlaczego weekendy to najwi ks](https://solarfinance.pl/2026/04/23/ujemne-ceny-energii-wiosn-2026-dlaczego-weekendy-to-najwi-ks/)
 - [ujemne ceny energii wiosna 2026 dlaczego weekendy to najwiek](https://worldofozepoland.hashnode.dev/ujemne-ceny-energii-wiosna-2026-dlaczego-weekendy-to-najwiekszy-problem-i-co-to-oznacza-dla-rynku-oze)
 - [ujemne ceny energii wiosna 2026 dlaczego weekendy to najwiek](https://localozepoland.hashnode.dev/ujemne-ceny-energii-wiosna-2026-dlaczego-weekendy-to-najwiekszy-problem-i-co-to-oznacza-dla-rynku-oze)
 - [ujemne ceny energii wiosna 2026 dlaczego weekendy to najwiek](https://kasiasearchingpv.hashnode.dev/ujemne-ceny-energii-wiosna-2026-dlaczego-weekendy-to-najwiekszy-problem-i-co-to-oznacza-dla-rynku-oze)
@@ -2460,11 +2459,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [ujemne ceny energii wiosna 2026 dlaczego weekendy to najwiek](https://yourengineerpoland.hashnode.dev/ujemne-ceny-energii-wiosna-2026-dlaczego-weekendy-to-najwiekszy-problem-i-co-to-oznacza-dla-rynku-oze)
 - [ujemne ceny energii wiosna 2026 dlaczego weekendy to najwiek](https://tomekwanttoinstalpc.hashnode.dev/ujemne-ceny-energii-wiosna-2026-dlaczego-weekendy-to-najwiekszy-problem-i-co-to-oznacza-dla-rynku-oze)
 - [ujemne ceny energii wiosna 2026 dlaczego weekendy to najwiek](https://electricycarpoland.hashnode.dev/ujemne-ceny-energii-wiosna-2026-dlaczego-weekendy-to-najwiekszy-problem-i-co-to-oznacza-dla-rynku-oze)
-- [zpl oze 5481b5](https://rentry.co/zpl-oze-5481b5)
-- [zpl eco 5481b5](https://rentry.co/zpl-eco-5481b5)
-- [zpl krt 5481b5](https://rentry.co/zpl-krt-5481b5)
-- [zpl ene 5481b5](https://rentry.co/zpl-ene-5481b5)
-- [zpl sol 5481b5](https://rentry.co/zpl-sol-5481b5)
+- [ujemne ceny energii wiosn 2026 dlaczego weekendy to najwi ks](https://solarfinance.pl/2026/04/23/ujemne-ceny-energii-wiosn-2026-dlaczego-weekendy-to-najwi-ks/)
 - [Ujemne ceny energii wiosną 2026  dlaczego weekendy to najwię](https://telegra.ph/Ujemne-ceny-energii-wiosną-2026--dlaczego-weekendy-to-największy-problem-i-co-to-oznacza-dla-rynku-OZE-04-23)
 - [Ujemne ceny energii wiosną 2026  dlaczego weekendy to najwię](https://telegra.ph/Ujemne-ceny-energii-wiosną-2026--dlaczego-weekendy-to-największy-problem-i-co-to-oznacza-dla-rynku-OZE-04-23-2)
 - [Ujemne ceny energii wiosną 2026  dlaczego weekendy to najwię](https://telegra.ph/Ujemne-ceny-energii-wiosną-2026--dlaczego-weekendy-to-największy-problem-i-co-to-oznacza-dla-rynku-OZE-04-23-3)
@@ -2473,6 +2468,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Ujemne ceny energii wiosną 2026  dlaczego weekendy to najwię](https://telegra.ph/Ujemne-ceny-energii-wiosną-2026--dlaczego-weekendy-to-największy-problem-i-co-to-oznacza-dla-rynku-OZE-04-23-6)
 - [Ujemne ceny energii wiosną 2026  dlaczego weekendy to najwię](https://telegra.ph/Ujemne-ceny-energii-wiosną-2026--dlaczego-weekendy-to-największy-problem-i-co-to-oznacza-dla-rynku-OZE-04-23-7)
 - [Ujemne ceny energii wiosną 2026  dlaczego weekendy to najwię](https://telegra.ph/Ujemne-ceny-energii-wiosną-2026--dlaczego-weekendy-to-największy-problem-i-co-to-oznacza-dla-rynku-OZE-04-23-8)
+- [zpl oze 5481b5](https://rentry.co/zpl-oze-5481b5)
+- [zpl eco 5481b5](https://rentry.co/zpl-eco-5481b5)
+- [zpl krt 5481b5](https://rentry.co/zpl-krt-5481b5)
+- [zpl ene 5481b5](https://rentry.co/zpl-ene-5481b5)
+- [zpl sol 5481b5](https://rentry.co/zpl-sol-5481b5)
 
 ## Jak działa fraud w OZE — mapa mechanizmów i kosztów dla budżetów publicznych
 
@@ -2480,7 +2480,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [jak dzia a fraud w oze mapa mechanizm w i koszt w dla bud et](https://solarfinance.pl/2026/04/23/jak-dzia-a-fraud-w-oze-mapa-mechanizm-w-i-koszt-w-dla-bud-et/)
 - [jak dziala fraud w oze mapa mechanizmow i kosztow dla budzet](https://worldofozepoland.hashnode.dev/jak-dziala-fraud-w-oze-mapa-mechanizmow-i-kosztow-dla-budzetow-publicznych)
 - [jak dziala fraud w oze mapa mechanizmow i kosztow dla budzet](https://localozepoland.hashnode.dev/jak-dziala-fraud-w-oze-mapa-mechanizmow-i-kosztow-dla-budzetow-publicznych)
 - [jak dziala fraud w oze mapa mechanizmow i kosztow dla budzet](https://kasiasearchingpv.hashnode.dev/jak-dziala-fraud-w-oze-mapa-mechanizmow-i-kosztow-dla-budzetow-publicznych)
@@ -2492,11 +2491,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [jak dziala fraud w oze mapa mechanizmow i kosztow dla budzet](https://yourengineerpoland.hashnode.dev/jak-dziala-fraud-w-oze-mapa-mechanizmow-i-kosztow-dla-budzetow-publicznych)
 - [jak dziala fraud w oze mapa mechanizmow i kosztow dla budzet](https://tomekwanttoinstalpc.hashnode.dev/jak-dziala-fraud-w-oze-mapa-mechanizmow-i-kosztow-dla-budzetow-publicznych)
 - [jak dziala fraud w oze mapa mechanizmow i kosztow dla budzet](https://electricycarpoland.hashnode.dev/jak-dziala-fraud-w-oze-mapa-mechanizmow-i-kosztow-dla-budzetow-publicznych)
-- [zpl oze 4a7df7](https://rentry.co/zpl-oze-4a7df7)
-- [zpl eco 4a7df7](https://rentry.co/zpl-eco-4a7df7)
-- [zpl krt 4a7df7](https://rentry.co/zpl-krt-4a7df7)
-- [zpl ene 4a7df7](https://rentry.co/zpl-ene-4a7df7)
-- [zpl sol 4a7df7](https://rentry.co/zpl-sol-4a7df7)
+- [jak dzia a fraud w oze mapa mechanizm w i koszt w dla bud et](https://solarfinance.pl/2026/04/23/jak-dzia-a-fraud-w-oze-mapa-mechanizm-w-i-koszt-w-dla-bud-et/)
 - [Jak działa fraud w OZE  mapa mechanizmów i kosztów dla budże](https://telegra.ph/Jak-działa-fraud-w-OZE--mapa-mechanizmów-i-kosztów-dla-budżetów-publicznych-04-23)
 - [Jak działa fraud w OZE  mapa mechanizmów i kosztów dla budże](https://telegra.ph/Jak-działa-fraud-w-OZE--mapa-mechanizmów-i-kosztów-dla-budżetów-publicznych-04-23-2)
 - [Jak działa fraud w OZE  mapa mechanizmów i kosztów dla budże](https://telegra.ph/Jak-działa-fraud-w-OZE--mapa-mechanizmów-i-kosztów-dla-budżetów-publicznych-04-23-3)
@@ -2505,6 +2500,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Jak działa fraud w OZE  mapa mechanizmów i kosztów dla budże](https://telegra.ph/Jak-działa-fraud-w-OZE--mapa-mechanizmów-i-kosztów-dla-budżetów-publicznych-04-23-6)
 - [Jak działa fraud w OZE  mapa mechanizmów i kosztów dla budże](https://telegra.ph/Jak-działa-fraud-w-OZE--mapa-mechanizmów-i-kosztów-dla-budżetów-publicznych-04-23-7)
 - [Jak działa fraud w OZE  mapa mechanizmów i kosztów dla budże](https://telegra.ph/Jak-działa-fraud-w-OZE--mapa-mechanizmów-i-kosztów-dla-budżetów-publicznych-04-23-8)
+- [zpl oze 4a7df7](https://rentry.co/zpl-oze-4a7df7)
+- [zpl eco 4a7df7](https://rentry.co/zpl-eco-4a7df7)
+- [zpl krt 4a7df7](https://rentry.co/zpl-krt-4a7df7)
+- [zpl ene 4a7df7](https://rentry.co/zpl-ene-4a7df7)
+- [zpl sol 4a7df7](https://rentry.co/zpl-sol-4a7df7)
 
 ## Polska ma 50% OZE w mocy zainstalowanej — minister Hennig-Kloska potwierdza na EKG w Katowicach
 
@@ -2512,7 +2512,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [polska ma 50 oze w mocy zainstalowanej minister hennig klosk](https://solarfinance.pl/2026/04/23/polska-ma-50-oze-w-mocy-zainstalowanej-minister-hennig-klosk/)
 - [polska ma 50 oze w mocy zainstalowanej minister hennig klosk](https://worldofozepoland.hashnode.dev/polska-ma-50-oze-w-mocy-zainstalowanej-minister-hennig-kloska-potwierdza-na-ekg-w-katowicach)
 - [polska ma 50 oze w mocy zainstalowanej minister hennig klosk](https://localozepoland.hashnode.dev/polska-ma-50-oze-w-mocy-zainstalowanej-minister-hennig-kloska-potwierdza-na-ekg-w-katowicach)
 - [polska ma 50 oze w mocy zainstalowanej minister hennig klosk](https://kasiasearchingpv.hashnode.dev/polska-ma-50-oze-w-mocy-zainstalowanej-minister-hennig-kloska-potwierdza-na-ekg-w-katowicach)
@@ -2524,11 +2523,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [polska ma 50 oze w mocy zainstalowanej minister hennig klosk](https://yourengineerpoland.hashnode.dev/polska-ma-50-oze-w-mocy-zainstalowanej-minister-hennig-kloska-potwierdza-na-ekg-w-katowicach)
 - [polska ma 50 oze w mocy zainstalowanej minister hennig klosk](https://tomekwanttoinstalpc.hashnode.dev/polska-ma-50-oze-w-mocy-zainstalowanej-minister-hennig-kloska-potwierdza-na-ekg-w-katowicach)
 - [polska ma 50 oze w mocy zainstalowanej minister hennig klosk](https://electricycarpoland.hashnode.dev/polska-ma-50-oze-w-mocy-zainstalowanej-minister-hennig-kloska-potwierdza-na-ekg-w-katowicach)
-- [zpl oze de49c0](https://rentry.co/zpl-oze-de49c0)
-- [zpl eco de49c0](https://rentry.co/zpl-eco-de49c0)
-- [zpl krt de49c0](https://rentry.co/zpl-krt-de49c0)
-- [zpl ene de49c0](https://rentry.co/zpl-ene-de49c0)
-- [zpl sol de49c0](https://rentry.co/zpl-sol-de49c0)
+- [polska ma 50 oze w mocy zainstalowanej minister hennig klosk](https://solarfinance.pl/2026/04/23/polska-ma-50-oze-w-mocy-zainstalowanej-minister-hennig-klosk/)
 - [Polska ma 50 OZE w mocy zainstalowanej  minister Hennig Klos](https://telegra.ph/Polska-ma-50-OZE-w-mocy-zainstalowanej--minister-Hennig-Kloska-potwierdza-na-EKG-w-Katowicach-04-23)
 - [Polska ma 50 OZE w mocy zainstalowanej  minister Hennig Klos](https://telegra.ph/Polska-ma-50-OZE-w-mocy-zainstalowanej--minister-Hennig-Kloska-potwierdza-na-EKG-w-Katowicach-04-23-2)
 - [Polska ma 50 OZE w mocy zainstalowanej  minister Hennig Klos](https://telegra.ph/Polska-ma-50-OZE-w-mocy-zainstalowanej--minister-Hennig-Kloska-potwierdza-na-EKG-w-Katowicach-04-23-3)
@@ -2537,6 +2532,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Polska ma 50 OZE w mocy zainstalowanej  minister Hennig Klos](https://telegra.ph/Polska-ma-50-OZE-w-mocy-zainstalowanej--minister-Hennig-Kloska-potwierdza-na-EKG-w-Katowicach-04-23-6)
 - [Polska ma 50 OZE w mocy zainstalowanej  minister Hennig Klos](https://telegra.ph/Polska-ma-50-OZE-w-mocy-zainstalowanej--minister-Hennig-Kloska-potwierdza-na-EKG-w-Katowicach-04-23-7)
 - [Polska ma 50 OZE w mocy zainstalowanej  minister Hennig Klos](https://telegra.ph/Polska-ma-50-OZE-w-mocy-zainstalowanej--minister-Hennig-Kloska-potwierdza-na-EKG-w-Katowicach-04-23-8)
+- [zpl oze de49c0](https://rentry.co/zpl-oze-de49c0)
+- [zpl eco de49c0](https://rentry.co/zpl-eco-de49c0)
+- [zpl krt de49c0](https://rentry.co/zpl-krt-de49c0)
+- [zpl ene de49c0](https://rentry.co/zpl-ene-de49c0)
+- [zpl sol de49c0](https://rentry.co/zpl-sol-de49c0)
 
 ## Portal branżowy donosi o korektach faktur dla prosumentów z fotowoltaiką — informacja niezweryfikowana przez URE ani OSD
 
@@ -2544,7 +2544,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [portal bran owy donosi o korektach faktur dla prosument w z ](https://solarfinance.pl/2026/04/24/portal-bran-owy-donosi-o-korektach-faktur-dla-prosument-w-z-/)
 - [portal branzowy donosi o korektach faktur dla prosumentow z ](https://worldofozepoland.hashnode.dev/portal-branzowy-donosi-o-korektach-faktur-dla-prosumentow-z-fotowoltaika-informacja-niezweryfikowana-przez-ure-ani-osd)
 - [portal branzowy donosi o korektach faktur dla prosumentow z ](https://localozepoland.hashnode.dev/portal-branzowy-donosi-o-korektach-faktur-dla-prosumentow-z-fotowoltaika-informacja-niezweryfikowana-przez-ure-ani-osd)
 - [portal branzowy donosi o korektach faktur dla prosumentow z ](https://kasiasearchingpv.hashnode.dev/portal-branzowy-donosi-o-korektach-faktur-dla-prosumentow-z-fotowoltaika-informacja-niezweryfikowana-przez-ure-ani-osd)
@@ -2556,11 +2555,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [portal branzowy donosi o korektach faktur dla prosumentow z ](https://yourengineerpoland.hashnode.dev/portal-branzowy-donosi-o-korektach-faktur-dla-prosumentow-z-fotowoltaika-informacja-niezweryfikowana-przez-ure-ani-osd)
 - [portal branzowy donosi o korektach faktur dla prosumentow z ](https://tomekwanttoinstalpc.hashnode.dev/portal-branzowy-donosi-o-korektach-faktur-dla-prosumentow-z-fotowoltaika-informacja-niezweryfikowana-przez-ure-ani-osd)
 - [portal branzowy donosi o korektach faktur dla prosumentow z ](https://electricycarpoland.hashnode.dev/portal-branzowy-donosi-o-korektach-faktur-dla-prosumentow-z-fotowoltaika-informacja-niezweryfikowana-przez-ure-ani-osd)
-- [zpl oze ceef95](https://rentry.co/zpl-oze-ceef95)
-- [zpl eco ceef95](https://rentry.co/zpl-eco-ceef95)
-- [zpl krt ceef95](https://rentry.co/zpl-krt-ceef95)
-- [zpl ene ceef95](https://rentry.co/zpl-ene-ceef95)
-- [zpl sol ceef95](https://rentry.co/zpl-sol-ceef95)
+- [portal bran owy donosi o korektach faktur dla prosument w z ](https://solarfinance.pl/2026/04/24/portal-bran-owy-donosi-o-korektach-faktur-dla-prosument-w-z-/)
 - [Portal branżowy donosi o korektach faktur dla prosumentów z ](https://telegra.ph/Portal-branżowy-donosi-o-korektach-faktur-dla-prosumentów-z-fotowoltaiką--informacja-niezweryfikowana-przez-URE-ani-OSD-04-24)
 - [Portal branżowy donosi o korektach faktur dla prosumentów z ](https://telegra.ph/Portal-branżowy-donosi-o-korektach-faktur-dla-prosumentów-z-fotowoltaiką--informacja-niezweryfikowana-przez-URE-ani-OSD-04-24-2)
 - [Portal branżowy donosi o korektach faktur dla prosumentów z ](https://telegra.ph/Portal-branżowy-donosi-o-korektach-faktur-dla-prosumentów-z-fotowoltaiką--informacja-niezweryfikowana-przez-URE-ani-OSD-04-24-3)
@@ -2569,6 +2564,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Portal branżowy donosi o korektach faktur dla prosumentów z ](https://telegra.ph/Portal-branżowy-donosi-o-korektach-faktur-dla-prosumentów-z-fotowoltaiką--informacja-niezweryfikowana-przez-URE-ani-OSD-04-24-6)
 - [Portal branżowy donosi o korektach faktur dla prosumentów z ](https://telegra.ph/Portal-branżowy-donosi-o-korektach-faktur-dla-prosumentów-z-fotowoltaiką--informacja-niezweryfikowana-przez-URE-ani-OSD-04-24-7)
 - [Portal branżowy donosi o korektach faktur dla prosumentów z ](https://telegra.ph/Portal-branżowy-donosi-o-korektach-faktur-dla-prosumentów-z-fotowoltaiką--informacja-niezweryfikowana-przez-URE-ani-OSD-04-24-8)
+- [zpl oze ceef95](https://rentry.co/zpl-oze-ceef95)
+- [zpl eco ceef95](https://rentry.co/zpl-eco-ceef95)
+- [zpl krt ceef95](https://rentry.co/zpl-krt-ceef95)
+- [zpl ene ceef95](https://rentry.co/zpl-ene-ceef95)
+- [zpl sol ceef95](https://rentry.co/zpl-sol-ceef95)
 
 ## 45 ton każdy, 204 w komplecie — tak rośnie największy magazyn energii PGE pod Trójmiastem
 
@@ -2576,7 +2576,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [45 ton ka dy 204 w komplecie tak ro nie najwi kszy magazyn e](https://solarfinance.pl/2026/04/24/45-ton-ka-dy-204-w-komplecie-tak-ro-nie-najwi-kszy-magazyn-e/)
 - [45 ton kazdy 204 w komplecie tak rosnie najwiekszy magazyn e](https://worldofozepoland.hashnode.dev/45-ton-kazdy-204-w-komplecie-tak-rosnie-najwiekszy-magazyn-energii-pge-pod-trojmiastem)
 - [45 ton kazdy 204 w komplecie tak rosnie najwiekszy magazyn e](https://localozepoland.hashnode.dev/45-ton-kazdy-204-w-komplecie-tak-rosnie-najwiekszy-magazyn-energii-pge-pod-trojmiastem)
 - [45 ton kazdy 204 w komplecie tak rosnie najwiekszy magazyn e](https://kasiasearchingpv.hashnode.dev/45-ton-kazdy-204-w-komplecie-tak-rosnie-najwiekszy-magazyn-energii-pge-pod-trojmiastem)
@@ -2588,11 +2587,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [45 ton kazdy 204 w komplecie tak rosnie najwiekszy magazyn e](https://yourengineerpoland.hashnode.dev/45-ton-kazdy-204-w-komplecie-tak-rosnie-najwiekszy-magazyn-energii-pge-pod-trojmiastem)
 - [45 ton kazdy 204 w komplecie tak rosnie najwiekszy magazyn e](https://tomekwanttoinstalpc.hashnode.dev/45-ton-kazdy-204-w-komplecie-tak-rosnie-najwiekszy-magazyn-energii-pge-pod-trojmiastem)
 - [45 ton kazdy 204 w komplecie tak rosnie najwiekszy magazyn e](https://electricycarpoland.hashnode.dev/45-ton-kazdy-204-w-komplecie-tak-rosnie-najwiekszy-magazyn-energii-pge-pod-trojmiastem)
-- [zpl oze a99bb3](https://rentry.co/zpl-oze-a99bb3)
-- [zpl eco a99bb3](https://rentry.co/zpl-eco-a99bb3)
-- [zpl krt a99bb3](https://rentry.co/zpl-krt-a99bb3)
-- [zpl ene a99bb3](https://rentry.co/zpl-ene-a99bb3)
-- [zpl sol a99bb3](https://rentry.co/zpl-sol-a99bb3)
+- [45 ton ka dy 204 w komplecie tak ro nie najwi kszy magazyn e](https://solarfinance.pl/2026/04/24/45-ton-ka-dy-204-w-komplecie-tak-ro-nie-najwi-kszy-magazyn-e/)
 - [45 ton każdy 204 w komplecie  tak rośnie największy magazyn ](https://telegra.ph/45-ton-każdy-204-w-komplecie--tak-rośnie-największy-magazyn-energii-PGE-pod-Trójmiastem-04-24)
 - [45 ton każdy 204 w komplecie  tak rośnie największy magazyn ](https://telegra.ph/45-ton-każdy-204-w-komplecie--tak-rośnie-największy-magazyn-energii-PGE-pod-Trójmiastem-04-24-2)
 - [45 ton każdy 204 w komplecie  tak rośnie największy magazyn ](https://telegra.ph/45-ton-każdy-204-w-komplecie--tak-rośnie-największy-magazyn-energii-PGE-pod-Trójmiastem-04-24-3)
@@ -2601,6 +2596,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [45 ton każdy 204 w komplecie  tak rośnie największy magazyn ](https://telegra.ph/45-ton-każdy-204-w-komplecie--tak-rośnie-największy-magazyn-energii-PGE-pod-Trójmiastem-04-24-6)
 - [45 ton każdy 204 w komplecie  tak rośnie największy magazyn ](https://telegra.ph/45-ton-każdy-204-w-komplecie--tak-rośnie-największy-magazyn-energii-PGE-pod-Trójmiastem-04-24-7)
 - [45 ton każdy 204 w komplecie  tak rośnie największy magazyn ](https://telegra.ph/45-ton-każdy-204-w-komplecie--tak-rośnie-największy-magazyn-energii-PGE-pod-Trójmiastem-04-24-8)
+- [zpl oze a99bb3](https://rentry.co/zpl-oze-a99bb3)
+- [zpl eco a99bb3](https://rentry.co/zpl-eco-a99bb3)
+- [zpl krt a99bb3](https://rentry.co/zpl-krt-a99bb3)
+- [zpl ene a99bb3](https://rentry.co/zpl-ene-a99bb3)
+- [zpl sol a99bb3](https://rentry.co/zpl-sol-a99bb3)
 
 ## Kryzys wokół Hormuzu i wzrost cen ropy — geopolityczny kontekst inwestycji w OZE w 2026 roku
 
@@ -2608,7 +2608,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [kryzys wok hormuzu i wzrost cen ropy geopolityczny kontekst ](https://solarfinance.pl/2026/04/25/kryzys-wok-hormuzu-i-wzrost-cen-ropy-geopolityczny-kontekst-/)
 - [kryzys wokol hormuzu i wzrost cen ropy geopolityczny konteks](https://worldofozepoland.hashnode.dev/kryzys-wokol-hormuzu-i-wzrost-cen-ropy-geopolityczny-kontekst-inwestycji-w-oze-w-2026-roku)
 - [kryzys wokol hormuzu i wzrost cen ropy geopolityczny konteks](https://localozepoland.hashnode.dev/kryzys-wokol-hormuzu-i-wzrost-cen-ropy-geopolityczny-kontekst-inwestycji-w-oze-w-2026-roku)
 - [kryzys wokol hormuzu i wzrost cen ropy geopolityczny konteks](https://kasiasearchingpv.hashnode.dev/kryzys-wokol-hormuzu-i-wzrost-cen-ropy-geopolityczny-kontekst-inwestycji-w-oze-w-2026-roku)
@@ -2620,11 +2619,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [kryzys wokol hormuzu i wzrost cen ropy geopolityczny konteks](https://yourengineerpoland.hashnode.dev/kryzys-wokol-hormuzu-i-wzrost-cen-ropy-geopolityczny-kontekst-inwestycji-w-oze-w-2026-roku)
 - [kryzys wokol hormuzu i wzrost cen ropy geopolityczny konteks](https://tomekwanttoinstalpc.hashnode.dev/kryzys-wokol-hormuzu-i-wzrost-cen-ropy-geopolityczny-kontekst-inwestycji-w-oze-w-2026-roku)
 - [kryzys wokol hormuzu i wzrost cen ropy geopolityczny konteks](https://electricycarpoland.hashnode.dev/kryzys-wokol-hormuzu-i-wzrost-cen-ropy-geopolityczny-kontekst-inwestycji-w-oze-w-2026-roku)
-- [zpl oze 2dcde8](https://rentry.co/zpl-oze-2dcde8)
-- [zpl eco 2dcde8](https://rentry.co/zpl-eco-2dcde8)
-- [zpl krt 2dcde8](https://rentry.co/zpl-krt-2dcde8)
-- [zpl ene 2dcde8](https://rentry.co/zpl-ene-2dcde8)
-- [zpl sol 2dcde8](https://rentry.co/zpl-sol-2dcde8)
+- [kryzys wok hormuzu i wzrost cen ropy geopolityczny kontekst ](https://solarfinance.pl/2026/04/25/kryzys-wok-hormuzu-i-wzrost-cen-ropy-geopolityczny-kontekst-/)
 - [Kryzys wokół Hormuzu i wzrost cen ropy  geopolityczny kontek](https://telegra.ph/Kryzys-wokół-Hormuzu-i-wzrost-cen-ropy--geopolityczny-kontekst-inwestycji-w-OZE-w-2026-roku-04-25)
 - [Kryzys wokół Hormuzu i wzrost cen ropy  geopolityczny kontek](https://telegra.ph/Kryzys-wokół-Hormuzu-i-wzrost-cen-ropy--geopolityczny-kontekst-inwestycji-w-OZE-w-2026-roku-04-25-2)
 - [Kryzys wokół Hormuzu i wzrost cen ropy  geopolityczny kontek](https://telegra.ph/Kryzys-wokół-Hormuzu-i-wzrost-cen-ropy--geopolityczny-kontekst-inwestycji-w-OZE-w-2026-roku-04-25-3)
@@ -2633,6 +2628,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Kryzys wokół Hormuzu i wzrost cen ropy  geopolityczny kontek](https://telegra.ph/Kryzys-wokół-Hormuzu-i-wzrost-cen-ropy--geopolityczny-kontekst-inwestycji-w-OZE-w-2026-roku-04-25-6)
 - [Kryzys wokół Hormuzu i wzrost cen ropy  geopolityczny kontek](https://telegra.ph/Kryzys-wokół-Hormuzu-i-wzrost-cen-ropy--geopolityczny-kontekst-inwestycji-w-OZE-w-2026-roku-04-25-7)
 - [Kryzys wokół Hormuzu i wzrost cen ropy  geopolityczny kontek](https://telegra.ph/Kryzys-wokół-Hormuzu-i-wzrost-cen-ropy--geopolityczny-kontekst-inwestycji-w-OZE-w-2026-roku-04-25-8)
+- [zpl oze 2dcde8](https://rentry.co/zpl-oze-2dcde8)
+- [zpl eco 2dcde8](https://rentry.co/zpl-eco-2dcde8)
+- [zpl krt 2dcde8](https://rentry.co/zpl-krt-2dcde8)
+- [zpl ene 2dcde8](https://rentry.co/zpl-ene-2dcde8)
+- [zpl sol 2dcde8](https://rentry.co/zpl-sol-2dcde8)
 
 ## Komisja Europejska zapowiada pakiet "HomePower" i AccelerateEU — propozycja wsparcia domowego OZE na etapie komunikatu
 
@@ -2640,7 +2640,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [komisja europejska zapowiada pakiet homepower i accelerateeu](https://solarfinance.pl/2026/04/25/komisja-europejska-zapowiada-pakiet-homepower-i-accelerateeu/)
 - [komisja europejska zapowiada pakiet homepower i accelerateeu](https://worldofozepoland.hashnode.dev/komisja-europejska-zapowiada-pakiet-homepower-i-accelerateeu-propozycja-wsparcia-domowego-oze-na-etapie-komunikatu)
 - [komisja europejska zapowiada pakiet homepower i accelerateeu](https://localozepoland.hashnode.dev/komisja-europejska-zapowiada-pakiet-homepower-i-accelerateeu-propozycja-wsparcia-domowego-oze-na-etapie-komunikatu)
 - [komisja europejska zapowiada pakiet homepower i accelerateeu](https://kasiasearchingpv.hashnode.dev/komisja-europejska-zapowiada-pakiet-homepower-i-accelerateeu-propozycja-wsparcia-domowego-oze-na-etapie-komunikatu)
@@ -2652,11 +2651,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [komisja europejska zapowiada pakiet homepower i accelerateeu](https://yourengineerpoland.hashnode.dev/komisja-europejska-zapowiada-pakiet-homepower-i-accelerateeu-propozycja-wsparcia-domowego-oze-na-etapie-komunikatu)
 - [komisja europejska zapowiada pakiet homepower i accelerateeu](https://tomekwanttoinstalpc.hashnode.dev/komisja-europejska-zapowiada-pakiet-homepower-i-accelerateeu-propozycja-wsparcia-domowego-oze-na-etapie-komunikatu)
 - [komisja europejska zapowiada pakiet homepower i accelerateeu](https://electricycarpoland.hashnode.dev/komisja-europejska-zapowiada-pakiet-homepower-i-accelerateeu-propozycja-wsparcia-domowego-oze-na-etapie-komunikatu)
-- [zpl oze d0ca76](https://rentry.co/zpl-oze-d0ca76)
-- [zpl eco d0ca76](https://rentry.co/zpl-eco-d0ca76)
-- [zpl krt d0ca76](https://rentry.co/zpl-krt-d0ca76)
-- [zpl ene d0ca76](https://rentry.co/zpl-ene-d0ca76)
-- [zpl sol d0ca76](https://rentry.co/zpl-sol-d0ca76)
+- [komisja europejska zapowiada pakiet homepower i accelerateeu](https://solarfinance.pl/2026/04/25/komisja-europejska-zapowiada-pakiet-homepower-i-accelerateeu/)
 - [Komisja Europejska zapowiada pakiet HomePower i AccelerateEU](https://telegra.ph/Komisja-Europejska-zapowiada-pakiet-HomePower-i-AccelerateEU--propozycja-wsparcia-domowego-OZE-na-etapie-komunikatu-04-25)
 - [Komisja Europejska zapowiada pakiet HomePower i AccelerateEU](https://telegra.ph/Komisja-Europejska-zapowiada-pakiet-HomePower-i-AccelerateEU--propozycja-wsparcia-domowego-OZE-na-etapie-komunikatu-04-25-2)
 - [Komisja Europejska zapowiada pakiet HomePower i AccelerateEU](https://telegra.ph/Komisja-Europejska-zapowiada-pakiet-HomePower-i-AccelerateEU--propozycja-wsparcia-domowego-OZE-na-etapie-komunikatu-04-25-3)
@@ -2665,6 +2660,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Komisja Europejska zapowiada pakiet HomePower i AccelerateEU](https://telegra.ph/Komisja-Europejska-zapowiada-pakiet-HomePower-i-AccelerateEU--propozycja-wsparcia-domowego-OZE-na-etapie-komunikatu-04-25-6)
 - [Komisja Europejska zapowiada pakiet HomePower i AccelerateEU](https://telegra.ph/Komisja-Europejska-zapowiada-pakiet-HomePower-i-AccelerateEU--propozycja-wsparcia-domowego-OZE-na-etapie-komunikatu-04-25-7)
 - [Komisja Europejska zapowiada pakiet HomePower i AccelerateEU](https://telegra.ph/Komisja-Europejska-zapowiada-pakiet-HomePower-i-AccelerateEU--propozycja-wsparcia-domowego-OZE-na-etapie-komunikatu-04-25-8)
+- [zpl oze d0ca76](https://rentry.co/zpl-oze-d0ca76)
+- [zpl eco d0ca76](https://rentry.co/zpl-eco-d0ca76)
+- [zpl krt d0ca76](https://rentry.co/zpl-krt-d0ca76)
+- [zpl ene d0ca76](https://rentry.co/zpl-ene-d0ca76)
+- [zpl sol d0ca76](https://rentry.co/zpl-sol-d0ca76)
 
 ## Termakustyczne pompy ciepła — technologia pre-komercyjna bez freonu. Co wiemy, czego jeszcze nie wiemy
 
@@ -2672,7 +2672,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [termakustyczne pompy ciep a technologia pre komercyjna bez f](https://solarfinance.pl/2026/04/25/termakustyczne-pompy-ciep-a-technologia-pre-komercyjna-bez-f/)
 - [termakustyczne pompy ciepla technologia pre komercyjna bez f](https://worldofozepoland.hashnode.dev/termakustyczne-pompy-ciepla-technologia-pre-komercyjna-bez-freonu-co-wiemy-czego-jeszcze-nie-wiemy)
 - [termakustyczne pompy ciepla technologia pre komercyjna bez f](https://localozepoland.hashnode.dev/termakustyczne-pompy-ciepla-technologia-pre-komercyjna-bez-freonu-co-wiemy-czego-jeszcze-nie-wiemy)
 - [termakustyczne pompy ciepla technologia pre komercyjna bez f](https://kasiasearchingpv.hashnode.dev/termakustyczne-pompy-ciepla-technologia-pre-komercyjna-bez-freonu-co-wiemy-czego-jeszcze-nie-wiemy)
@@ -2684,11 +2683,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [termakustyczne pompy ciepla technologia pre komercyjna bez f](https://yourengineerpoland.hashnode.dev/termakustyczne-pompy-ciepla-technologia-pre-komercyjna-bez-freonu-co-wiemy-czego-jeszcze-nie-wiemy)
 - [termakustyczne pompy ciepla technologia pre komercyjna bez f](https://tomekwanttoinstalpc.hashnode.dev/termakustyczne-pompy-ciepla-technologia-pre-komercyjna-bez-freonu-co-wiemy-czego-jeszcze-nie-wiemy)
 - [termakustyczne pompy ciepla technologia pre komercyjna bez f](https://electricycarpoland.hashnode.dev/termakustyczne-pompy-ciepla-technologia-pre-komercyjna-bez-freonu-co-wiemy-czego-jeszcze-nie-wiemy)
-- [zpl oze f8322f](https://rentry.co/zpl-oze-f8322f)
-- [zpl eco f8322f](https://rentry.co/zpl-eco-f8322f)
-- [zpl krt f8322f](https://rentry.co/zpl-krt-f8322f)
-- [zpl ene f8322f](https://rentry.co/zpl-ene-f8322f)
-- [zpl sol f8322f](https://rentry.co/zpl-sol-f8322f)
+- [termakustyczne pompy ciep a technologia pre komercyjna bez f](https://solarfinance.pl/2026/04/25/termakustyczne-pompy-ciep-a-technologia-pre-komercyjna-bez-f/)
 - [Termakustyczne pompy ciepła  technologia pre komercyjna bez ](https://telegra.ph/Termakustyczne-pompy-ciepła--technologia-pre-komercyjna-bez-freonu-Co-wiemy-czego-jeszcze-nie-wiemy-04-25)
 - [Termakustyczne pompy ciepła  technologia pre komercyjna bez ](https://telegra.ph/Termakustyczne-pompy-ciepła--technologia-pre-komercyjna-bez-freonu-Co-wiemy-czego-jeszcze-nie-wiemy-04-25-2)
 - [Termakustyczne pompy ciepła  technologia pre komercyjna bez ](https://telegra.ph/Termakustyczne-pompy-ciepła--technologia-pre-komercyjna-bez-freonu-Co-wiemy-czego-jeszcze-nie-wiemy-04-25-3)
@@ -2697,6 +2692,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Termakustyczne pompy ciepła  technologia pre komercyjna bez ](https://telegra.ph/Termakustyczne-pompy-ciepła--technologia-pre-komercyjna-bez-freonu-Co-wiemy-czego-jeszcze-nie-wiemy-04-25-6)
 - [Termakustyczne pompy ciepła  technologia pre komercyjna bez ](https://telegra.ph/Termakustyczne-pompy-ciepła--technologia-pre-komercyjna-bez-freonu-Co-wiemy-czego-jeszcze-nie-wiemy-04-25-7)
 - [Termakustyczne pompy ciepła  technologia pre komercyjna bez ](https://telegra.ph/Termakustyczne-pompy-ciepła--technologia-pre-komercyjna-bez-freonu-Co-wiemy-czego-jeszcze-nie-wiemy-04-25-8)
+- [zpl oze f8322f](https://rentry.co/zpl-oze-f8322f)
+- [zpl eco f8322f](https://rentry.co/zpl-eco-f8322f)
+- [zpl krt f8322f](https://rentry.co/zpl-krt-f8322f)
+- [zpl ene f8322f](https://rentry.co/zpl-ene-f8322f)
+- [zpl sol f8322f](https://rentry.co/zpl-sol-f8322f)
 
 ## Cła USA do 123% na PV z Azji. Co to znaczy dla Polski?
 
@@ -2704,7 +2704,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [c a usa do 123 na pv z azji co to znaczy dla polski](https://solarfinance.pl/2026/04/26/c-a-usa-do-123-na-pv-z-azji-co-to-znaczy-dla-polski/)
 - [cla usa do 123 na pv z azji co to znaczy dla polski](https://worldofozepoland.hashnode.dev/cla-usa-do-123-na-pv-z-azji-co-to-znaczy-dla-polski)
 - [cla usa do 123 na pv z azji co to znaczy dla polski](https://localozepoland.hashnode.dev/cla-usa-do-123-na-pv-z-azji-co-to-znaczy-dla-polski)
 - [cla usa do 123 na pv z azji co to znaczy dla polski](https://kasiasearchingpv.hashnode.dev/cla-usa-do-123-na-pv-z-azji-co-to-znaczy-dla-polski)
@@ -2716,11 +2715,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [cla usa do 123 na pv z azji co to znaczy dla polski](https://yourengineerpoland.hashnode.dev/cla-usa-do-123-na-pv-z-azji-co-to-znaczy-dla-polski)
 - [cla usa do 123 na pv z azji co to znaczy dla polski](https://tomekwanttoinstalpc.hashnode.dev/cla-usa-do-123-na-pv-z-azji-co-to-znaczy-dla-polski)
 - [cla usa do 123 na pv z azji co to znaczy dla polski](https://electricycarpoland.hashnode.dev/cla-usa-do-123-na-pv-z-azji-co-to-znaczy-dla-polski)
-- [zpl oze 46dc21](https://rentry.co/zpl-oze-46dc21)
-- [zpl eco 46dc21](https://rentry.co/zpl-eco-46dc21)
-- [zpl krt 46dc21](https://rentry.co/zpl-krt-46dc21)
-- [zpl ene 46dc21](https://rentry.co/zpl-ene-46dc21)
-- [zpl sol 46dc21](https://rentry.co/zpl-sol-46dc21)
+- [c a usa do 123 na pv z azji co to znaczy dla polski](https://solarfinance.pl/2026/04/26/c-a-usa-do-123-na-pv-z-azji-co-to-znaczy-dla-polski/)
 - [Cła USA do 123 na PV z Azji Co to znaczy dla Polski 04 26](https://telegra.ph/Cła-USA-do-123-na-PV-z-Azji-Co-to-znaczy-dla-Polski-04-26)
 - [Cła USA do 123 na PV z Azji Co to znaczy dla Polski 04 26 2](https://telegra.ph/Cła-USA-do-123-na-PV-z-Azji-Co-to-znaczy-dla-Polski-04-26-2)
 - [Cła USA do 123 na PV z Azji Co to znaczy dla Polski 04 26 3](https://telegra.ph/Cła-USA-do-123-na-PV-z-Azji-Co-to-znaczy-dla-Polski-04-26-3)
@@ -2729,6 +2724,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Cła USA do 123 na PV z Azji Co to znaczy dla Polski 04 26 6](https://telegra.ph/Cła-USA-do-123-na-PV-z-Azji-Co-to-znaczy-dla-Polski-04-26-6)
 - [Cła USA do 123 na PV z Azji Co to znaczy dla Polski 04 26 7](https://telegra.ph/Cła-USA-do-123-na-PV-z-Azji-Co-to-znaczy-dla-Polski-04-26-7)
 - [Cła USA do 123 na PV z Azji Co to znaczy dla Polski 04 26 8](https://telegra.ph/Cła-USA-do-123-na-PV-z-Azji-Co-to-znaczy-dla-Polski-04-26-8)
+- [zpl oze 46dc21](https://rentry.co/zpl-oze-46dc21)
+- [zpl eco 46dc21](https://rentry.co/zpl-eco-46dc21)
+- [zpl krt 46dc21](https://rentry.co/zpl-krt-46dc21)
+- [zpl ene 46dc21](https://rentry.co/zpl-ene-46dc21)
+- [zpl sol 46dc21](https://rentry.co/zpl-sol-46dc21)
 
 ## Falownik od 2027: liczyć się będą też aktualizacje
 
@@ -2736,7 +2736,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [falownik od 2027 liczy si b d te aktualizacje](https://solarfinance.pl/2026/04/26/falownik-od-2027-liczy-si-b-d-te-aktualizacje/)
 - [falownik od 2027 liczyc sie beda tez aktualizacje](https://worldofozepoland.hashnode.dev/falownik-od-2027-liczyc-sie-beda-tez-aktualizacje)
 - [falownik od 2027 liczyc sie beda tez aktualizacje](https://localozepoland.hashnode.dev/falownik-od-2027-liczyc-sie-beda-tez-aktualizacje)
 - [falownik od 2027 liczyc sie beda tez aktualizacje](https://kasiasearchingpv.hashnode.dev/falownik-od-2027-liczyc-sie-beda-tez-aktualizacje)
@@ -2748,11 +2747,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [falownik od 2027 liczyc sie beda tez aktualizacje](https://yourengineerpoland.hashnode.dev/falownik-od-2027-liczyc-sie-beda-tez-aktualizacje)
 - [falownik od 2027 liczyc sie beda tez aktualizacje](https://tomekwanttoinstalpc.hashnode.dev/falownik-od-2027-liczyc-sie-beda-tez-aktualizacje)
 - [falownik od 2027 liczyc sie beda tez aktualizacje](https://electricycarpoland.hashnode.dev/falownik-od-2027-liczyc-sie-beda-tez-aktualizacje)
-- [zpl oze f1c73b](https://rentry.co/zpl-oze-f1c73b)
-- [zpl eco f1c73b](https://rentry.co/zpl-eco-f1c73b)
-- [zpl krt f1c73b](https://rentry.co/zpl-krt-f1c73b)
-- [zpl ene f1c73b](https://rentry.co/zpl-ene-f1c73b)
-- [zpl sol f1c73b](https://rentry.co/zpl-sol-f1c73b)
+- [falownik od 2027 liczy si b d te aktualizacje](https://solarfinance.pl/2026/04/26/falownik-od-2027-liczy-si-b-d-te-aktualizacje/)
 - [Falownik od 2027 liczyć się będą też aktualizacje 04 26](https://telegra.ph/Falownik-od-2027-liczyć-się-będą-też-aktualizacje-04-26)
 - [Falownik od 2027 liczyć się będą też aktualizacje 04 26 2](https://telegra.ph/Falownik-od-2027-liczyć-się-będą-też-aktualizacje-04-26-2)
 - [Falownik od 2027 liczyć się będą też aktualizacje 04 26 3](https://telegra.ph/Falownik-od-2027-liczyć-się-będą-też-aktualizacje-04-26-3)
@@ -2761,6 +2756,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Falownik od 2027 liczyć się będą też aktualizacje 04 26 6](https://telegra.ph/Falownik-od-2027-liczyć-się-będą-też-aktualizacje-04-26-6)
 - [Falownik od 2027 liczyć się będą też aktualizacje 04 26 7](https://telegra.ph/Falownik-od-2027-liczyć-się-będą-też-aktualizacje-04-26-7)
 - [Falownik od 2027 liczyć się będą też aktualizacje 04 26 8](https://telegra.ph/Falownik-od-2027-liczyć-się-będą-też-aktualizacje-04-26-8)
+- [zpl oze f1c73b](https://rentry.co/zpl-oze-f1c73b)
+- [zpl eco f1c73b](https://rentry.co/zpl-eco-f1c73b)
+- [zpl krt f1c73b](https://rentry.co/zpl-krt-f1c73b)
+- [zpl ene f1c73b](https://rentry.co/zpl-ene-f1c73b)
+- [zpl sol f1c73b](https://rentry.co/zpl-sol-f1c73b)
 
 ## Program NFOŚiGW na magazyny energii? Co sprawdzić w domu
 
@@ -2768,7 +2768,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [program nfo igw na magazyny energii co sprawdzi w domu](https://solarfinance.pl/2026/04/26/program-nfo-igw-na-magazyny-energii-co-sprawdzi-w-domu/)
 - [program nfosigw na magazyny energii co sprawdzic w domu](https://worldofozepoland.hashnode.dev/program-nfosigw-na-magazyny-energii-co-sprawdzic-w-domu)
 - [program nfosigw na magazyny energii co sprawdzic w domu](https://localozepoland.hashnode.dev/program-nfosigw-na-magazyny-energii-co-sprawdzic-w-domu)
 - [program nfosigw na magazyny energii co sprawdzic w domu](https://kasiasearchingpv.hashnode.dev/program-nfosigw-na-magazyny-energii-co-sprawdzic-w-domu)
@@ -2780,11 +2779,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [program nfosigw na magazyny energii co sprawdzic w domu](https://yourengineerpoland.hashnode.dev/program-nfosigw-na-magazyny-energii-co-sprawdzic-w-domu)
 - [program nfosigw na magazyny energii co sprawdzic w domu](https://tomekwanttoinstalpc.hashnode.dev/program-nfosigw-na-magazyny-energii-co-sprawdzic-w-domu)
 - [program nfosigw na magazyny energii co sprawdzic w domu](https://electricycarpoland.hashnode.dev/program-nfosigw-na-magazyny-energii-co-sprawdzic-w-domu)
-- [zpl oze f10cac](https://rentry.co/zpl-oze-f10cac)
-- [zpl eco f10cac](https://rentry.co/zpl-eco-f10cac)
-- [zpl krt f10cac](https://rentry.co/zpl-krt-f10cac)
-- [zpl ene f10cac](https://rentry.co/zpl-ene-f10cac)
-- [zpl sol f10cac](https://rentry.co/zpl-sol-f10cac)
+- [program nfo igw na magazyny energii co sprawdzi w domu](https://solarfinance.pl/2026/04/26/program-nfo-igw-na-magazyny-energii-co-sprawdzi-w-domu/)
 - [Program NFOŚiGW na magazyny energii Co sprawdzić w domu 04 2](https://telegra.ph/Program-NFOŚiGW-na-magazyny-energii-Co-sprawdzić-w-domu-04-26)
 - [Program NFOŚiGW na magazyny energii Co sprawdzić w domu 04 2](https://telegra.ph/Program-NFOŚiGW-na-magazyny-energii-Co-sprawdzić-w-domu-04-26-2)
 - [Program NFOŚiGW na magazyny energii Co sprawdzić w domu 04 2](https://telegra.ph/Program-NFOŚiGW-na-magazyny-energii-Co-sprawdzić-w-domu-04-26-3)
@@ -2793,6 +2788,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Program NFOŚiGW na magazyny energii Co sprawdzić w domu 04 2](https://telegra.ph/Program-NFOŚiGW-na-magazyny-energii-Co-sprawdzić-w-domu-04-26-6)
 - [Program NFOŚiGW na magazyny energii Co sprawdzić w domu 04 2](https://telegra.ph/Program-NFOŚiGW-na-magazyny-energii-Co-sprawdzić-w-domu-04-26-7)
 - [Program NFOŚiGW na magazyny energii Co sprawdzić w domu 04 2](https://telegra.ph/Program-NFOŚiGW-na-magazyny-energii-Co-sprawdzić-w-domu-04-26-8)
+- [zpl oze f10cac](https://rentry.co/zpl-oze-f10cac)
+- [zpl eco f10cac](https://rentry.co/zpl-eco-f10cac)
+- [zpl krt f10cac](https://rentry.co/zpl-krt-f10cac)
+- [zpl ene f10cac](https://rentry.co/zpl-ene-f10cac)
+- [zpl sol f10cac](https://rentry.co/zpl-sol-f10cac)
 
 ## EKG 2026: co resort klimatu powiedział o strategii i GOZ
 
@@ -2800,7 +2800,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [ekg 2026 co resort klimatu powiedzia o strategii i goz](https://solarfinance.pl/2026/04/26/ekg-2026-co-resort-klimatu-powiedzia-o-strategii-i-goz/)
 - [ekg 2026 co resort klimatu powiedzial o strategii i goz](https://worldofozepoland.hashnode.dev/ekg-2026-co-resort-klimatu-powiedzial-o-strategii-i-goz)
 - [ekg 2026 co resort klimatu powiedzial o strategii i goz](https://localozepoland.hashnode.dev/ekg-2026-co-resort-klimatu-powiedzial-o-strategii-i-goz)
 - [ekg 2026 co resort klimatu powiedzial o strategii i goz](https://kasiasearchingpv.hashnode.dev/ekg-2026-co-resort-klimatu-powiedzial-o-strategii-i-goz)
@@ -2812,11 +2811,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [ekg 2026 co resort klimatu powiedzial o strategii i goz](https://yourengineerpoland.hashnode.dev/ekg-2026-co-resort-klimatu-powiedzial-o-strategii-i-goz)
 - [ekg 2026 co resort klimatu powiedzial o strategii i goz](https://tomekwanttoinstalpc.hashnode.dev/ekg-2026-co-resort-klimatu-powiedzial-o-strategii-i-goz)
 - [ekg 2026 co resort klimatu powiedzial o strategii i goz](https://electricycarpoland.hashnode.dev/ekg-2026-co-resort-klimatu-powiedzial-o-strategii-i-goz)
-- [zpl oze 0b9dd5](https://rentry.co/zpl-oze-0b9dd5)
-- [zpl eco 0b9dd5](https://rentry.co/zpl-eco-0b9dd5)
-- [zpl krt 0b9dd5](https://rentry.co/zpl-krt-0b9dd5)
-- [zpl ene 0b9dd5](https://rentry.co/zpl-ene-0b9dd5)
-- [zpl sol 0b9dd5](https://rentry.co/zpl-sol-0b9dd5)
+- [ekg 2026 co resort klimatu powiedzia o strategii i goz](https://solarfinance.pl/2026/04/26/ekg-2026-co-resort-klimatu-powiedzia-o-strategii-i-goz/)
 - [EKG 2026 co resort klimatu powiedział o strategii i GOZ 04 2](https://telegra.ph/EKG-2026-co-resort-klimatu-powiedział-o-strategii-i-GOZ-04-26)
 - [EKG 2026 co resort klimatu powiedział o strategii i GOZ 04 2](https://telegra.ph/EKG-2026-co-resort-klimatu-powiedział-o-strategii-i-GOZ-04-26-2)
 - [EKG 2026 co resort klimatu powiedział o strategii i GOZ 04 2](https://telegra.ph/EKG-2026-co-resort-klimatu-powiedział-o-strategii-i-GOZ-04-26-3)
@@ -2825,6 +2820,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [EKG 2026 co resort klimatu powiedział o strategii i GOZ 04 2](https://telegra.ph/EKG-2026-co-resort-klimatu-powiedział-o-strategii-i-GOZ-04-26-6)
 - [EKG 2026 co resort klimatu powiedział o strategii i GOZ 04 2](https://telegra.ph/EKG-2026-co-resort-klimatu-powiedział-o-strategii-i-GOZ-04-26-7)
 - [EKG 2026 co resort klimatu powiedział o strategii i GOZ 04 2](https://telegra.ph/EKG-2026-co-resort-klimatu-powiedział-o-strategii-i-GOZ-04-26-8)
+- [zpl oze 0b9dd5](https://rentry.co/zpl-oze-0b9dd5)
+- [zpl eco 0b9dd5](https://rentry.co/zpl-eco-0b9dd5)
+- [zpl krt 0b9dd5](https://rentry.co/zpl-krt-0b9dd5)
+- [zpl ene 0b9dd5](https://rentry.co/zpl-ene-0b9dd5)
+- [zpl sol 0b9dd5](https://rentry.co/zpl-sol-0b9dd5)
 
 ## To nie wygląda już jak pojedyncze eksperymenty. Polski BESS zaczyna układać się w cały pipeline
 
@@ -2832,7 +2832,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [to nie wygl da ju jak pojedyncze eksperymenty polski bess za](https://solarfinance.pl/2026/04/27/to-nie-wygl-da-ju-jak-pojedyncze-eksperymenty-polski-bess-za/)
 - [to nie wyglada juz jak pojedyncze eksperymenty polski bess z](https://worldofozepoland.hashnode.dev/to-nie-wyglada-juz-jak-pojedyncze-eksperymenty-polski-bess-zaczyna-ukladac-sie-w-caly-pipeline)
 - [to nie wyglada juz jak pojedyncze eksperymenty polski bess z](https://localozepoland.hashnode.dev/to-nie-wyglada-juz-jak-pojedyncze-eksperymenty-polski-bess-zaczyna-ukladac-sie-w-caly-pipeline)
 - [to nie wyglada juz jak pojedyncze eksperymenty polski bess z](https://kasiasearchingpv.hashnode.dev/to-nie-wyglada-juz-jak-pojedyncze-eksperymenty-polski-bess-zaczyna-ukladac-sie-w-caly-pipeline)
@@ -2844,11 +2843,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [to nie wyglada juz jak pojedyncze eksperymenty polski bess z](https://yourengineerpoland.hashnode.dev/to-nie-wyglada-juz-jak-pojedyncze-eksperymenty-polski-bess-zaczyna-ukladac-sie-w-caly-pipeline)
 - [to nie wyglada juz jak pojedyncze eksperymenty polski bess z](https://tomekwanttoinstalpc.hashnode.dev/to-nie-wyglada-juz-jak-pojedyncze-eksperymenty-polski-bess-zaczyna-ukladac-sie-w-caly-pipeline)
 - [to nie wyglada juz jak pojedyncze eksperymenty polski bess z](https://electricycarpoland.hashnode.dev/to-nie-wyglada-juz-jak-pojedyncze-eksperymenty-polski-bess-zaczyna-ukladac-sie-w-caly-pipeline)
-- [zpl oze 82c7b2](https://rentry.co/zpl-oze-82c7b2)
-- [zpl eco 82c7b2](https://rentry.co/zpl-eco-82c7b2)
-- [zpl krt 82c7b2](https://rentry.co/zpl-krt-82c7b2)
-- [zpl ene 82c7b2](https://rentry.co/zpl-ene-82c7b2)
-- [zpl sol 82c7b2](https://rentry.co/zpl-sol-82c7b2)
+- [to nie wygl da ju jak pojedyncze eksperymenty polski bess za](https://solarfinance.pl/2026/04/27/to-nie-wygl-da-ju-jak-pojedyncze-eksperymenty-polski-bess-za/)
 - [To nie wygląda już jak pojedyncze eksperymenty Polski BESS z](https://telegra.ph/To-nie-wygląda-już-jak-pojedyncze-eksperymenty-Polski-BESS-zaczyna-układać-się-w-cały-pipeline-04-27)
 - [To nie wygląda już jak pojedyncze eksperymenty Polski BESS z](https://telegra.ph/To-nie-wygląda-już-jak-pojedyncze-eksperymenty-Polski-BESS-zaczyna-układać-się-w-cały-pipeline-04-27-2)
 - [To nie wygląda już jak pojedyncze eksperymenty Polski BESS z](https://telegra.ph/To-nie-wygląda-już-jak-pojedyncze-eksperymenty-Polski-BESS-zaczyna-układać-się-w-cały-pipeline-04-27-3)
@@ -2857,6 +2852,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [To nie wygląda już jak pojedyncze eksperymenty Polski BESS z](https://telegra.ph/To-nie-wygląda-już-jak-pojedyncze-eksperymenty-Polski-BESS-zaczyna-układać-się-w-cały-pipeline-04-27-6)
 - [To nie wygląda już jak pojedyncze eksperymenty Polski BESS z](https://telegra.ph/To-nie-wygląda-już-jak-pojedyncze-eksperymenty-Polski-BESS-zaczyna-układać-się-w-cały-pipeline-04-27-7)
 - [To nie wygląda już jak pojedyncze eksperymenty Polski BESS z](https://telegra.ph/To-nie-wygląda-już-jak-pojedyncze-eksperymenty-Polski-BESS-zaczyna-układać-się-w-cały-pipeline-04-27-8)
+- [zpl oze 82c7b2](https://rentry.co/zpl-oze-82c7b2)
+- [zpl eco 82c7b2](https://rentry.co/zpl-eco-82c7b2)
+- [zpl krt 82c7b2](https://rentry.co/zpl-krt-82c7b2)
+- [zpl ene 82c7b2](https://rentry.co/zpl-ene-82c7b2)
+- [zpl sol 82c7b2](https://rentry.co/zpl-sol-82c7b2)
 
 ## CBAM już działa. Od 2026 roku ślad węglowy importu staje się kosztem, a nie tylko raportem
 
@@ -2864,7 +2864,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [cbam ju dzia a od 2026 roku lad w glowy importu staje si kos](https://solarfinance.pl/2026/04/22/cbam-ju-dzia-a-od-2026-roku-lad-w-glowy-importu-staje-si-kos/)
 - [cbam juz dziala od 2026 roku slad weglowy importu staje sie ](https://worldofozepoland.hashnode.dev/cbam-juz-dziala-od-2026-roku-slad-weglowy-importu-staje-sie-kosztem-a-nie-tylko-raportem)
 - [cbam juz dziala od 2026 roku slad weglowy importu staje sie ](https://localozepoland.hashnode.dev/cbam-juz-dziala-od-2026-roku-slad-weglowy-importu-staje-sie-kosztem-a-nie-tylko-raportem)
 - [cbam juz dziala od 2026 roku slad weglowy importu staje sie ](https://lawanddotationpoland.hashnode.dev/cbam-juz-dziala-od-2026-roku-slad-weglowy-importu-staje-sie-kosztem-a-nie-tylko-raportem)
@@ -2875,11 +2874,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [cbam juz dziala od 2026 roku slad weglowy importu staje sie ](https://tomekwanttoinstalpc.hashnode.dev/cbam-juz-dziala-od-2026-roku-slad-weglowy-importu-staje-sie-kosztem-a-nie-tylko-raportem)
 - [cbam juz dziala od 2026 roku slad weglowy importu staje sie ](https://electricycarpoland.hashnode.dev/cbam-juz-dziala-od-2026-roku-slad-weglowy-importu-staje-sie-kosztem-a-nie-tylko-raportem)
 - [cbam juz dziaa od 2026 roku slad weglowy importu staje sie k](https://effectiveone.mataroa.blog/blog/cbam-juz-dziaa-od-2026-roku-slad-weglowy-importu-staje-sie-kosztem-a-nie-tylko-raportem/)
-- [zpl oze 8cb4c6](https://rentry.co/zpl-oze-8cb4c6)
-- [zpl eco 8cb4c6](https://rentry.co/zpl-eco-8cb4c6)
-- [zpl krt 8cb4c6](https://rentry.co/zpl-krt-8cb4c6)
-- [zpl ene 8cb4c6](https://rentry.co/zpl-ene-8cb4c6)
-- [zpl sol 8cb4c6](https://rentry.co/zpl-sol-8cb4c6)
+- [cbam ju dzia a od 2026 roku lad w glowy importu staje si kos](https://solarfinance.pl/2026/04/22/cbam-ju-dzia-a-od-2026-roku-lad-w-glowy-importu-staje-si-kos/)
 - [CBAM już działa Od 2026 roku ślad węglowy importu staje się ](https://telegra.ph/CBAM-już-działa-Od-2026-roku-ślad-węglowy-importu-staje-się-kosztem-a-nie-tylko-raportem-04-22)
 - [CBAM już działa Od 2026 roku ślad węglowy importu staje się ](https://telegra.ph/CBAM-już-działa-Od-2026-roku-ślad-węglowy-importu-staje-się-kosztem-a-nie-tylko-raportem-04-22-2)
 - [CBAM już działa Od 2026 roku ślad węglowy importu staje się ](https://telegra.ph/CBAM-już-działa-Od-2026-roku-ślad-węglowy-importu-staje-się-kosztem-a-nie-tylko-raportem-04-22-3)
@@ -2888,6 +2883,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [CBAM już działa Od 2026 roku ślad węglowy importu staje się ](https://telegra.ph/CBAM-już-działa-Od-2026-roku-ślad-węglowy-importu-staje-się-kosztem-a-nie-tylko-raportem-04-22-6)
 - [CBAM już działa Od 2026 roku ślad węglowy importu staje się ](https://telegra.ph/CBAM-już-działa-Od-2026-roku-ślad-węglowy-importu-staje-się-kosztem-a-nie-tylko-raportem-04-22-7)
 - [CBAM już działa Od 2026 roku ślad węglowy importu staje się ](https://telegra.ph/CBAM-już-działa-Od-2026-roku-ślad-węglowy-importu-staje-się-kosztem-a-nie-tylko-raportem-04-22-8)
+- [zpl oze 8cb4c6](https://rentry.co/zpl-oze-8cb4c6)
+- [zpl eco 8cb4c6](https://rentry.co/zpl-eco-8cb4c6)
+- [zpl krt 8cb4c6](https://rentry.co/zpl-krt-8cb4c6)
+- [zpl ene 8cb4c6](https://rentry.co/zpl-ene-8cb4c6)
+- [zpl sol 8cb4c6](https://rentry.co/zpl-sol-8cb4c6)
 
 ## Balcony solar: trzy stany USA legislują jednocześnie, a polskie firmy BIPV rosną w Europie
 
@@ -2895,7 +2895,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [balcony solar trzy stany usa legisluj jednocze nie a polskie](https://solarfinance.pl/2026/04/22/balcony-solar-trzy-stany-usa-legisluj-jednocze-nie-a-polskie/)
 - [balcony solar trzy stany usa legisluja jednoczesnie a polski](https://worldofozepoland.hashnode.dev/balcony-solar-trzy-stany-usa-legisluja-jednoczesnie-a-polskie-firmy-bipv-rosna-w-europie)
 - [balcony solar trzy stany usa legisluja jednoczesnie a polski](https://localozepoland.hashnode.dev/balcony-solar-trzy-stany-usa-legisluja-jednoczesnie-a-polskie-firmy-bipv-rosna-w-europie)
 - [balcony solar trzy stany usa legisluja jednoczesnie a polski](https://kasiasearchingpv.hashnode.dev/balcony-solar-trzy-stany-usa-legisluja-jednoczesnie-a-polskie-firmy-bipv-rosna-w-europie)
@@ -2908,10 +2907,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [balcony solar trzy stany usa legisluja jednoczesnie a polski](https://tomekwanttoinstalpc.hashnode.dev/balcony-solar-trzy-stany-usa-legisluja-jednoczesnie-a-polskie-firmy-bipv-rosna-w-europie)
 - [balcony solar trzy stany usa legisluja jednoczesnie a polski](https://electricycarpoland.hashnode.dev/balcony-solar-trzy-stany-usa-legisluja-jednoczesnie-a-polskie-firmy-bipv-rosna-w-europie)
 - [balcony solar trzy stany usa legisluja jednoczesnie a polski](https://effectiveone.mataroa.blog/blog/balcony-solar-trzy-stany-usa-legisluja-jednoczesnie-a-polskie-firmy-bipv-rosna-w-europie/)
-- [zpl oze 036cb6](https://rentry.co/zpl-oze-036cb6)
-- [zpl eco 036cb6](https://rentry.co/zpl-eco-036cb6)
-- [zpl ene 036cb6](https://rentry.co/zpl-ene-036cb6)
-- [zpl sol 036cb6](https://rentry.co/zpl-sol-036cb6)
+- [balcony solar trzy stany usa legisluj jednocze nie a polskie](https://solarfinance.pl/2026/04/22/balcony-solar-trzy-stany-usa-legisluj-jednocze-nie-a-polskie/)
 - [Balcony solar trzy stany USA legislują jednocześnie a polski](https://telegra.ph/Balcony-solar-trzy-stany-USA-legislują-jednocześnie-a-polskie-firmy-BIPV-rosną-w-Europie-04-22)
 - [Balcony solar trzy stany USA legislują jednocześnie a polski](https://telegra.ph/Balcony-solar-trzy-stany-USA-legislują-jednocześnie-a-polskie-firmy-BIPV-rosną-w-Europie-04-22-2)
 - [Balcony solar trzy stany USA legislują jednocześnie a polski](https://telegra.ph/Balcony-solar-trzy-stany-USA-legislują-jednocześnie-a-polskie-firmy-BIPV-rosną-w-Europie-04-22-3)
@@ -2919,6 +2915,10 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Balcony solar trzy stany USA legislują jednocześnie a polski](https://telegra.ph/Balcony-solar-trzy-stany-USA-legislują-jednocześnie-a-polskie-firmy-BIPV-rosną-w-Europie-04-22-5)
 - [Balcony solar trzy stany USA legislują jednocześnie a polski](https://telegra.ph/Balcony-solar-trzy-stany-USA-legislują-jednocześnie-a-polskie-firmy-BIPV-rosną-w-Europie-04-22-6)
 - [Balcony solar trzy stany USA legislują jednocześnie a polski](https://telegra.ph/Balcony-solar-trzy-stany-USA-legislują-jednocześnie-a-polskie-firmy-BIPV-rosną-w-Europie-04-22-7)
+- [zpl oze 036cb6](https://rentry.co/zpl-oze-036cb6)
+- [zpl eco 036cb6](https://rentry.co/zpl-eco-036cb6)
+- [zpl ene 036cb6](https://rentry.co/zpl-ene-036cb6)
+- [zpl sol 036cb6](https://rentry.co/zpl-sol-036cb6)
 
 ## Według doniesień CleanTechnica za IEA: świat może wchodzić w „Epokę Elektryczności" — OZE miały po raz pierwszy wyprzedzić węgiel w 2025 roku
 
@@ -2926,7 +2926,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [wed ug doniesie cleantechnica za iea wiat mo e wchodzi w epo](https://solarfinance.pl/2026/04/24/wed-ug-doniesie-cleantechnica-za-iea-wiat-mo-e-wchodzi-w-epo/)
 - [wedlug doniesien cleantechnica za iea swiat moze wchodzic w ](https://worldofozepoland.hashnode.dev/wedlug-doniesien-cleantechnica-za-iea-swiat-moze-wchodzic-w-epoke-elektrycznosci-oze-mialy-po-raz-pierwszy-wyprzedzic-wegiel-w-2025-roku)
 - [wedlug doniesien cleantechnica za iea swiat moze wchodzic w ](https://localozepoland.hashnode.dev/wedlug-doniesien-cleantechnica-za-iea-swiat-moze-wchodzic-w-epoke-elektrycznosci-oze-mialy-po-raz-pierwszy-wyprzedzic-wegiel-w-2025-roku)
 - [wedlug doniesien cleantechnica za iea swiat moze wchodzic w ](https://kasiasearchingpv.hashnode.dev/wedlug-doniesien-cleantechnica-za-iea-swiat-moze-wchodzic-w-epoke-elektrycznosci-oze-mialy-po-raz-pierwszy-wyprzedzic-wegiel-w-2025-roku)
@@ -2936,11 +2935,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [wedlug doniesien cleantechnica za iea swiat moze wchodzic w ](https://thermohubpoland.hashnode.dev/wedlug-doniesien-cleantechnica-za-iea-swiat-moze-wchodzic-w-epoke-elektrycznosci-oze-mialy-po-raz-pierwszy-wyprzedzic-wegiel-w-2025-roku)
 - [wedlug doniesien cleantechnica za iea swiat moze wchodzic w ](https://tomekwanttoinstalpc.hashnode.dev/wedlug-doniesien-cleantechnica-za-iea-swiat-moze-wchodzic-w-epoke-elektrycznosci-oze-mialy-po-raz-pierwszy-wyprzedzic-wegiel-w-2025-roku)
 - [wedlug doniesien cleantechnica za iea swiat moze wchodzic w ](https://electricycarpoland.hashnode.dev/wedlug-doniesien-cleantechnica-za-iea-swiat-moze-wchodzic-w-epoke-elektrycznosci-oze-mialy-po-raz-pierwszy-wyprzedzic-wegiel-w-2025-roku)
-- [zpl oze 6c6b7c](https://rentry.co/zpl-oze-6c6b7c)
-- [zpl eco 6c6b7c](https://rentry.co/zpl-eco-6c6b7c)
-- [zpl krt 6c6b7c](https://rentry.co/zpl-krt-6c6b7c)
-- [zpl ene 6c6b7c](https://rentry.co/zpl-ene-6c6b7c)
-- [zpl sol 6c6b7c](https://rentry.co/zpl-sol-6c6b7c)
+- [wed ug doniesie cleantechnica za iea wiat mo e wchodzi w epo](https://solarfinance.pl/2026/04/24/wed-ug-doniesie-cleantechnica-za-iea-wiat-mo-e-wchodzi-w-epo/)
 - [Według doniesień CleanTechnica za IEA świat może wchodzić w ](https://telegra.ph/Według-doniesień-CleanTechnica-za-IEA-świat-może-wchodzić-w-Epokę-Elektryczności--OZE-miały-po-raz-pierwszy-wyprzedzić-węgiel-w--04-24)
 - [Według doniesień CleanTechnica za IEA świat może wchodzić w ](https://telegra.ph/Według-doniesień-CleanTechnica-za-IEA-świat-może-wchodzić-w-Epokę-Elektryczności--OZE-miały-po-raz-pierwszy-wyprzedzić-węgiel-w--04-24-2)
 - [Według doniesień CleanTechnica za IEA świat może wchodzić w ](https://telegra.ph/Według-doniesień-CleanTechnica-za-IEA-świat-może-wchodzić-w-Epokę-Elektryczności--OZE-miały-po-raz-pierwszy-wyprzedzić-węgiel-w--04-24-3)
@@ -2949,6 +2944,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Według doniesień CleanTechnica za IEA świat może wchodzić w ](https://telegra.ph/Według-doniesień-CleanTechnica-za-IEA-świat-może-wchodzić-w-Epokę-Elektryczności--OZE-miały-po-raz-pierwszy-wyprzedzić-węgiel-w--04-24-6)
 - [Według doniesień CleanTechnica za IEA świat może wchodzić w ](https://telegra.ph/Według-doniesień-CleanTechnica-za-IEA-świat-może-wchodzić-w-Epokę-Elektryczności--OZE-miały-po-raz-pierwszy-wyprzedzić-węgiel-w--04-24-7)
 - [Według doniesień CleanTechnica za IEA świat może wchodzić w ](https://telegra.ph/Według-doniesień-CleanTechnica-za-IEA-świat-może-wchodzić-w-Epokę-Elektryczności--OZE-miały-po-raz-pierwszy-wyprzedzić-węgiel-w--04-24-8)
+- [zpl oze 6c6b7c](https://rentry.co/zpl-oze-6c6b7c)
+- [zpl eco 6c6b7c](https://rentry.co/zpl-eco-6c6b7c)
+- [zpl krt 6c6b7c](https://rentry.co/zpl-krt-6c6b7c)
+- [zpl ene 6c6b7c](https://rentry.co/zpl-ene-6c6b7c)
+- [zpl sol 6c6b7c](https://rentry.co/zpl-sol-6c6b7c)
 
 ## Zielona transformacja jako projekt bezpieczeństwa — dlaczego Norwegia finansuje OZE w Polsce i co Ukraina zmieniła w myśleniu o energetyce
 
@@ -2956,7 +2956,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [zielona transformacja jako projekt bezpiecze stwa dlaczego n](https://solarfinance.pl/2026/04/24/zielona-transformacja-jako-projekt-bezpiecze-stwa-dlaczego-n/)
 - [zielona transformacja jako projekt bezpieczenstwa dlaczego n](https://worldofozepoland.hashnode.dev/zielona-transformacja-jako-projekt-bezpieczenstwa-dlaczego-norwegia-finansuje-oze-w-polsce-i-co-ukraina-zmienila-w-mysleniu-o-energetyce)
 - [zielona transformacja jako projekt bezpieczenstwa dlaczego n](https://localozepoland.hashnode.dev/zielona-transformacja-jako-projekt-bezpieczenstwa-dlaczego-norwegia-finansuje-oze-w-polsce-i-co-ukraina-zmienila-w-mysleniu-o-energetyce)
 - [zielona transformacja jako projekt bezpieczenstwa dlaczego n](https://lawanddotationpoland.hashnode.dev/zielona-transformacja-jako-projekt-bezpieczenstwa-dlaczego-norwegia-finansuje-oze-w-polsce-i-co-ukraina-zmienila-w-mysleniu-o-energetyce)
@@ -2966,11 +2965,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [zielona transformacja jako projekt bezpieczenstwa dlaczego n](https://yourengineerpoland.hashnode.dev/zielona-transformacja-jako-projekt-bezpieczenstwa-dlaczego-norwegia-finansuje-oze-w-polsce-i-co-ukraina-zmienila-w-mysleniu-o-energetyce)
 - [zielona transformacja jako projekt bezpieczenstwa dlaczego n](https://tomekwanttoinstalpc.hashnode.dev/zielona-transformacja-jako-projekt-bezpieczenstwa-dlaczego-norwegia-finansuje-oze-w-polsce-i-co-ukraina-zmienila-w-mysleniu-o-energetyce)
 - [zielona transformacja jako projekt bezpieczenstwa dlaczego n](https://electricycarpoland.hashnode.dev/zielona-transformacja-jako-projekt-bezpieczenstwa-dlaczego-norwegia-finansuje-oze-w-polsce-i-co-ukraina-zmienila-w-mysleniu-o-energetyce)
-- [zpl oze 08add7](https://rentry.co/zpl-oze-08add7)
-- [zpl eco 08add7](https://rentry.co/zpl-eco-08add7)
-- [zpl krt 08add7](https://rentry.co/zpl-krt-08add7)
-- [zpl ene 08add7](https://rentry.co/zpl-ene-08add7)
-- [zpl sol 08add7](https://rentry.co/zpl-sol-08add7)
+- [zielona transformacja jako projekt bezpiecze stwa dlaczego n](https://solarfinance.pl/2026/04/24/zielona-transformacja-jako-projekt-bezpiecze-stwa-dlaczego-n/)
 - [Zielona transformacja jako projekt bezpieczeństwa  dlaczego ](https://telegra.ph/Zielona-transformacja-jako-projekt-bezpieczeństwa--dlaczego-Norwegia-finansuje-OZE-w-Polsce-i-co-Ukraina-zmieniła-w-myśleniu-o-e-04-24)
 - [Zielona transformacja jako projekt bezpieczeństwa  dlaczego ](https://telegra.ph/Zielona-transformacja-jako-projekt-bezpieczeństwa--dlaczego-Norwegia-finansuje-OZE-w-Polsce-i-co-Ukraina-zmieniła-w-myśleniu-o-e-04-24-2)
 - [Zielona transformacja jako projekt bezpieczeństwa  dlaczego ](https://telegra.ph/Zielona-transformacja-jako-projekt-bezpieczeństwa--dlaczego-Norwegia-finansuje-OZE-w-Polsce-i-co-Ukraina-zmieniła-w-myśleniu-o-e-04-24-3)
@@ -2979,6 +2974,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Zielona transformacja jako projekt bezpieczeństwa  dlaczego ](https://telegra.ph/Zielona-transformacja-jako-projekt-bezpieczeństwa--dlaczego-Norwegia-finansuje-OZE-w-Polsce-i-co-Ukraina-zmieniła-w-myśleniu-o-e-04-24-6)
 - [Zielona transformacja jako projekt bezpieczeństwa  dlaczego ](https://telegra.ph/Zielona-transformacja-jako-projekt-bezpieczeństwa--dlaczego-Norwegia-finansuje-OZE-w-Polsce-i-co-Ukraina-zmieniła-w-myśleniu-o-e-04-24-7)
 - [Zielona transformacja jako projekt bezpieczeństwa  dlaczego ](https://telegra.ph/Zielona-transformacja-jako-projekt-bezpieczeństwa--dlaczego-Norwegia-finansuje-OZE-w-Polsce-i-co-Ukraina-zmieniła-w-myśleniu-o-e-04-24-8)
+- [zpl oze 08add7](https://rentry.co/zpl-oze-08add7)
+- [zpl eco 08add7](https://rentry.co/zpl-eco-08add7)
+- [zpl krt 08add7](https://rentry.co/zpl-krt-08add7)
+- [zpl ene 08add7](https://rentry.co/zpl-ene-08add7)
+- [zpl sol 08add7](https://rentry.co/zpl-sol-08add7)
 
 ## Sąd w USA odblokował permitting OZE. Co to zmienia?
 
@@ -2986,7 +2986,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [s d w usa odblokowa permitting oze co to zmienia](https://solarfinance.pl/2026/04/26/s-d-w-usa-odblokowa-permitting-oze-co-to-zmienia/)
 - [sad w usa odblokowal permitting oze co to zmienia](https://worldofozepoland.hashnode.dev/sad-w-usa-odblokowal-permitting-oze-co-to-zmienia)
 - [sad w usa odblokowal permitting oze co to zmienia](https://localozepoland.hashnode.dev/sad-w-usa-odblokowal-permitting-oze-co-to-zmienia)
 - [sad w usa odblokowal permitting oze co to zmienia](https://kasiasearchingpv.hashnode.dev/sad-w-usa-odblokowal-permitting-oze-co-to-zmienia)
@@ -2996,11 +2995,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [sad w usa odblokowal permitting oze co to zmienia](https://thermohubpoland.hashnode.dev/sad-w-usa-odblokowal-permitting-oze-co-to-zmienia)
 - [sad w usa odblokowal permitting oze co to zmienia](https://tomekwanttoinstalpc.hashnode.dev/sad-w-usa-odblokowal-permitting-oze-co-to-zmienia)
 - [sad w usa odblokowal permitting oze co to zmienia](https://electricycarpoland.hashnode.dev/sad-w-usa-odblokowal-permitting-oze-co-to-zmienia)
-- [zpl oze 59e042](https://rentry.co/zpl-oze-59e042)
-- [zpl eco 59e042](https://rentry.co/zpl-eco-59e042)
-- [zpl krt 59e042](https://rentry.co/zpl-krt-59e042)
-- [zpl ene 59e042](https://rentry.co/zpl-ene-59e042)
-- [zpl sol 59e042](https://rentry.co/zpl-sol-59e042)
+- [s d w usa odblokowa permitting oze co to zmienia](https://solarfinance.pl/2026/04/26/s-d-w-usa-odblokowa-permitting-oze-co-to-zmienia/)
 - [Sąd w USA odblokował permitting OZE Co to zmienia 04 26](https://telegra.ph/Sąd-w-USA-odblokował-permitting-OZE-Co-to-zmienia-04-26)
 - [Sąd w USA odblokował permitting OZE Co to zmienia 04 26 2](https://telegra.ph/Sąd-w-USA-odblokował-permitting-OZE-Co-to-zmienia-04-26-2)
 - [Sąd w USA odblokował permitting OZE Co to zmienia 04 26 3](https://telegra.ph/Sąd-w-USA-odblokował-permitting-OZE-Co-to-zmienia-04-26-3)
@@ -3009,6 +3004,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Sąd w USA odblokował permitting OZE Co to zmienia 04 26 6](https://telegra.ph/Sąd-w-USA-odblokował-permitting-OZE-Co-to-zmienia-04-26-6)
 - [Sąd w USA odblokował permitting OZE Co to zmienia 04 26 7](https://telegra.ph/Sąd-w-USA-odblokował-permitting-OZE-Co-to-zmienia-04-26-7)
 - [Sąd w USA odblokował permitting OZE Co to zmienia 04 26 8](https://telegra.ph/Sąd-w-USA-odblokował-permitting-OZE-Co-to-zmienia-04-26-8)
+- [zpl oze 59e042](https://rentry.co/zpl-oze-59e042)
+- [zpl eco 59e042](https://rentry.co/zpl-eco-59e042)
+- [zpl krt 59e042](https://rentry.co/zpl-krt-59e042)
+- [zpl ene 59e042](https://rentry.co/zpl-ene-59e042)
+- [zpl sol 59e042](https://rentry.co/zpl-sol-59e042)
 
 ## Budowa elektrowni gazowej zdrożała o 66% w dwa lata — OZE może być tańsze od nowych projektów gazowych w części rynków
 
@@ -3016,7 +3016,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [budowa elektrowni gazowej zdro a a o 66 w dwa lata oze mo e ](https://solarfinance.pl/2026/04/24/budowa-elektrowni-gazowej-zdro-a-a-o-66-w-dwa-lata-oze-mo-e-/)
 - [budowa elektrowni gazowej zdrozala o 66 w dwa lata oze moze ](https://localozepoland.hashnode.dev/budowa-elektrowni-gazowej-zdrozala-o-66-w-dwa-lata-oze-moze-byc-tansze-od-nowych-projektow-gazowych-w-czesci-rynkow)
 - [budowa elektrowni gazowej zdrozala o 66 w dwa lata oze moze ](https://kasiasearchingpv.hashnode.dev/budowa-elektrowni-gazowej-zdrozala-o-66-w-dwa-lata-oze-moze-byc-tansze-od-nowych-projektow-gazowych-w-czesci-rynkow)
 - [budowa elektrowni gazowej zdrozala o 66 w dwa lata oze moze ](https://lawanddotationpoland.hashnode.dev/budowa-elektrowni-gazowej-zdrozala-o-66-w-dwa-lata-oze-moze-byc-tansze-od-nowych-projektow-gazowych-w-czesci-rynkow)
@@ -3025,11 +3024,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [budowa elektrowni gazowej zdrozala o 66 w dwa lata oze moze ](https://thermohubpoland.hashnode.dev/budowa-elektrowni-gazowej-zdrozala-o-66-w-dwa-lata-oze-moze-byc-tansze-od-nowych-projektow-gazowych-w-czesci-rynkow)
 - [budowa elektrowni gazowej zdrozala o 66 w dwa lata oze moze ](https://yourengineerpoland.hashnode.dev/budowa-elektrowni-gazowej-zdrozala-o-66-w-dwa-lata-oze-moze-byc-tansze-od-nowych-projektow-gazowych-w-czesci-rynkow)
 - [budowa elektrowni gazowej zdrozala o 66 w dwa lata oze moze ](https://electricycarpoland.hashnode.dev/budowa-elektrowni-gazowej-zdrozala-o-66-w-dwa-lata-oze-moze-byc-tansze-od-nowych-projektow-gazowych-w-czesci-rynkow)
-- [zpl oze 13e12e](https://rentry.co/zpl-oze-13e12e)
-- [zpl eco 13e12e](https://rentry.co/zpl-eco-13e12e)
-- [zpl krt 13e12e](https://rentry.co/zpl-krt-13e12e)
-- [zpl ene 13e12e](https://rentry.co/zpl-ene-13e12e)
-- [zpl sol 13e12e](https://rentry.co/zpl-sol-13e12e)
+- [budowa elektrowni gazowej zdro a a o 66 w dwa lata oze mo e ](https://solarfinance.pl/2026/04/24/budowa-elektrowni-gazowej-zdro-a-a-o-66-w-dwa-lata-oze-mo-e-/)
 - [Budowa elektrowni gazowej zdrożała o 66 w dwa lata  OZE może](https://telegra.ph/Budowa-elektrowni-gazowej-zdrożała-o-66-w-dwa-lata--OZE-może-być-tańsze-od-nowych-projektów-gazowych-w-części-rynków-04-24)
 - [Budowa elektrowni gazowej zdrożała o 66 w dwa lata  OZE może](https://telegra.ph/Budowa-elektrowni-gazowej-zdrożała-o-66-w-dwa-lata--OZE-może-być-tańsze-od-nowych-projektów-gazowych-w-części-rynków-04-24-2)
 - [Budowa elektrowni gazowej zdrożała o 66 w dwa lata  OZE może](https://telegra.ph/Budowa-elektrowni-gazowej-zdrożała-o-66-w-dwa-lata--OZE-może-być-tańsze-od-nowych-projektów-gazowych-w-części-rynków-04-24-3)
@@ -3038,6 +3033,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Budowa elektrowni gazowej zdrożała o 66 w dwa lata  OZE może](https://telegra.ph/Budowa-elektrowni-gazowej-zdrożała-o-66-w-dwa-lata--OZE-może-być-tańsze-od-nowych-projektów-gazowych-w-części-rynków-04-24-6)
 - [Budowa elektrowni gazowej zdrożała o 66 w dwa lata  OZE może](https://telegra.ph/Budowa-elektrowni-gazowej-zdrożała-o-66-w-dwa-lata--OZE-może-być-tańsze-od-nowych-projektów-gazowych-w-części-rynków-04-24-7)
 - [Budowa elektrowni gazowej zdrożała o 66 w dwa lata  OZE może](https://telegra.ph/Budowa-elektrowni-gazowej-zdrożała-o-66-w-dwa-lata--OZE-może-być-tańsze-od-nowych-projektów-gazowych-w-części-rynków-04-24-8)
+- [zpl oze 13e12e](https://rentry.co/zpl-oze-13e12e)
+- [zpl eco 13e12e](https://rentry.co/zpl-eco-13e12e)
+- [zpl krt 13e12e](https://rentry.co/zpl-krt-13e12e)
+- [zpl ene 13e12e](https://rentry.co/zpl-ene-13e12e)
+- [zpl sol 13e12e](https://rentry.co/zpl-sol-13e12e)
 
 ## URE ostrzega przed fotowoltaiką od drzwi do drzwi
 
@@ -3045,7 +3045,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [ure ostrzega przed fotowoltaik od drzwi do drzwi](https://solarfinance.pl/2026/04/25/ure-ostrzega-przed-fotowoltaik-od-drzwi-do-drzwi/)
 - [ure ostrzega przed fotowoltaika od drzwi do drzwi](https://localozepoland.hashnode.dev/ure-ostrzega-przed-fotowoltaika-od-drzwi-do-drzwi)
 - [ure ostrzega przed fotowoltaika od drzwi do drzwi](https://kasiasearchingpv.hashnode.dev/ure-ostrzega-przed-fotowoltaika-od-drzwi-do-drzwi)
 - [ure ostrzega przed fotowoltaika od drzwi do drzwi](https://lawanddotationpoland.hashnode.dev/ure-ostrzega-przed-fotowoltaika-od-drzwi-do-drzwi)
@@ -3054,11 +3053,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [ure ostrzega przed fotowoltaika od drzwi do drzwi](https://thermohubpoland.hashnode.dev/ure-ostrzega-przed-fotowoltaika-od-drzwi-do-drzwi)
 - [ure ostrzega przed fotowoltaika od drzwi do drzwi](https://yourengineerpoland.hashnode.dev/ure-ostrzega-przed-fotowoltaika-od-drzwi-do-drzwi)
 - [ure ostrzega przed fotowoltaika od drzwi do drzwi](https://electricycarpoland.hashnode.dev/ure-ostrzega-przed-fotowoltaika-od-drzwi-do-drzwi)
-- [zpl oze 7fe11c](https://rentry.co/zpl-oze-7fe11c)
-- [zpl eco 7fe11c](https://rentry.co/zpl-eco-7fe11c)
-- [zpl krt 7fe11c](https://rentry.co/zpl-krt-7fe11c)
-- [zpl ene 7fe11c](https://rentry.co/zpl-ene-7fe11c)
-- [zpl sol 7fe11c](https://rentry.co/zpl-sol-7fe11c)
+- [ure ostrzega przed fotowoltaik od drzwi do drzwi](https://solarfinance.pl/2026/04/25/ure-ostrzega-przed-fotowoltaik-od-drzwi-do-drzwi/)
 - [URE ostrzega przed fotowoltaiką od drzwi do drzwi 04 25](https://telegra.ph/URE-ostrzega-przed-fotowoltaiką-od-drzwi-do-drzwi-04-25)
 - [URE ostrzega przed fotowoltaiką od drzwi do drzwi 04 25 2](https://telegra.ph/URE-ostrzega-przed-fotowoltaiką-od-drzwi-do-drzwi-04-25-2)
 - [URE ostrzega przed fotowoltaiką od drzwi do drzwi 04 25 3](https://telegra.ph/URE-ostrzega-przed-fotowoltaiką-od-drzwi-do-drzwi-04-25-3)
@@ -3067,6 +3062,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [URE ostrzega przed fotowoltaiką od drzwi do drzwi 04 25 6](https://telegra.ph/URE-ostrzega-przed-fotowoltaiką-od-drzwi-do-drzwi-04-25-6)
 - [URE ostrzega przed fotowoltaiką od drzwi do drzwi 04 25 7](https://telegra.ph/URE-ostrzega-przed-fotowoltaiką-od-drzwi-do-drzwi-04-25-7)
 - [URE ostrzega przed fotowoltaiką od drzwi do drzwi 04 25 8](https://telegra.ph/URE-ostrzega-przed-fotowoltaiką-od-drzwi-do-drzwi-04-25-8)
+- [zpl oze 7fe11c](https://rentry.co/zpl-oze-7fe11c)
+- [zpl eco 7fe11c](https://rentry.co/zpl-eco-7fe11c)
+- [zpl krt 7fe11c](https://rentry.co/zpl-krt-7fe11c)
+- [zpl ene 7fe11c](https://rentry.co/zpl-ene-7fe11c)
+- [zpl sol 7fe11c](https://rentry.co/zpl-sol-7fe11c)
 
 ## Francja przetarg 10 GW offshore. Polska jest ciągle obserwatorem
 
@@ -3100,7 +3100,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [chiny produkuj rocznie 37 mln ton wodoru i buduj 800 projekt](https://solarfinance.pl/2026/04/22/chiny-produkuj-rocznie-37-mln-ton-wodoru-i-buduj-800-projekt/)
 - [chiny produkuja rocznie 37 mln ton wodoru i buduja 800 proje](https://worldofozepoland.hashnode.dev/chiny-produkuja-rocznie-37-mln-ton-wodoru-i-buduja-800-projektow-windsolarelektrolizer-co-robi-europa-i-czy-to-dotyczy-polski)
 - [chiny produkuja rocznie 37 mln ton wodoru i buduja 800 proje](https://localozepoland.hashnode.dev/chiny-produkuja-rocznie-37-mln-ton-wodoru-i-buduja-800-projektow-windsolarelektrolizer-co-robi-europa-i-czy-to-dotyczy-polski)
 - [chiny produkuja rocznie 37 mln ton wodoru i buduja 800 proje](https://kasiasearchingpv.hashnode.dev/chiny-produkuja-rocznie-37-mln-ton-wodoru-i-buduja-800-projektow-windsolarelektrolizer-co-robi-europa-i-czy-to-dotyczy-polski)
@@ -3113,6 +3112,7 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [chiny produkuja rocznie 37 mln ton wodoru i buduja 800 proje](https://tomekwanttoinstalpc.hashnode.dev/chiny-produkuja-rocznie-37-mln-ton-wodoru-i-buduja-800-projektow-windsolarelektrolizer-co-robi-europa-i-czy-to-dotyczy-polski)
 - [chiny produkuja rocznie 37 mln ton wodoru i buduja 800 proje](https://electricycarpoland.hashnode.dev/chiny-produkuja-rocznie-37-mln-ton-wodoru-i-buduja-800-projektow-windsolarelektrolizer-co-robi-europa-i-czy-to-dotyczy-polski)
 - [chiny produkuja rocznie 37 mln ton wodoru i buduja 800 proje](https://effectiveone.mataroa.blog/blog/chiny-produkuja-rocznie-37-mln-ton-wodoru-i-buduja-800-projektow-windsolarelektrolizer-co-robi-europa-i-czy-to-dotyczy-polski/)
+- [chiny produkuj rocznie 37 mln ton wodoru i buduj 800 projekt](https://solarfinance.pl/2026/04/22/chiny-produkuj-rocznie-37-mln-ton-wodoru-i-buduj-800-projekt/)
 
 ## Upał obniża moc PV? To zwykle fizyka, nie awaria
 
@@ -3120,11 +3120,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [zpl oze 183946](https://rentry.co/zpl-oze-183946)
-- [zpl eco 183946](https://rentry.co/zpl-eco-183946)
-- [zpl krt 183946](https://rentry.co/zpl-krt-183946)
-- [zpl ene 183946](https://rentry.co/zpl-ene-183946)
-- [zpl sol 183946](https://rentry.co/zpl-sol-183946)
 - [Upał obniża moc PV To zwykle fizyka nie awaria 04 25](https://telegra.ph/Upał-obniża-moc-PV-To-zwykle-fizyka-nie-awaria-04-25)
 - [Upał obniża moc PV To zwykle fizyka nie awaria 04 25 2](https://telegra.ph/Upał-obniża-moc-PV-To-zwykle-fizyka-nie-awaria-04-25-2)
 - [Upał obniża moc PV To zwykle fizyka nie awaria 04 25 3](https://telegra.ph/Upał-obniża-moc-PV-To-zwykle-fizyka-nie-awaria-04-25-3)
@@ -3133,6 +3128,11 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [Upał obniża moc PV To zwykle fizyka nie awaria 04 25 6](https://telegra.ph/Upał-obniża-moc-PV-To-zwykle-fizyka-nie-awaria-04-25-6)
 - [Upał obniża moc PV To zwykle fizyka nie awaria 04 25 7](https://telegra.ph/Upał-obniża-moc-PV-To-zwykle-fizyka-nie-awaria-04-25-7)
 - [Upał obniża moc PV To zwykle fizyka nie awaria 04 25 8](https://telegra.ph/Upał-obniża-moc-PV-To-zwykle-fizyka-nie-awaria-04-25-8)
+- [zpl oze 183946](https://rentry.co/zpl-oze-183946)
+- [zpl eco 183946](https://rentry.co/zpl-eco-183946)
+- [zpl krt 183946](https://rentry.co/zpl-krt-183946)
+- [zpl ene 183946](https://rentry.co/zpl-ene-183946)
+- [zpl sol 183946](https://rentry.co/zpl-sol-183946)
 
 ## W Czystym Powietrzu największy chaos bywa dziś nie w nagłówkach, tylko w papierach. Kto z kim zawiera umowę?
 
@@ -3140,11 +3140,6 @@ Opracowania i dyskusje na temat tego zagadnienia:
 
 Opracowania i dyskusje na temat tego zagadnienia:
 
-- [zpl oze dc83d9](https://rentry.co/zpl-oze-dc83d9)
-- [zpl eco dc83d9](https://rentry.co/zpl-eco-dc83d9)
-- [zpl krt dc83d9](https://rentry.co/zpl-krt-dc83d9)
-- [zpl ene dc83d9](https://rentry.co/zpl-ene-dc83d9)
-- [zpl sol dc83d9](https://rentry.co/zpl-sol-dc83d9)
 - [W Czystym Powietrzu największy chaos bywa dziś nie w nagłówk](https://telegra.ph/W-Czystym-Powietrzu-największy-chaos-bywa-dziś-nie-w-nagłówkach-tylko-w-papierach-Kto-z-kim-zawiera-umowę-04-27)
 - [W Czystym Powietrzu największy chaos bywa dziś nie w nagłówk](https://telegra.ph/W-Czystym-Powietrzu-największy-chaos-bywa-dziś-nie-w-nagłówkach-tylko-w-papierach-Kto-z-kim-zawiera-umowę-04-27-2)
 - [W Czystym Powietrzu największy chaos bywa dziś nie w nagłówk](https://telegra.ph/W-Czystym-Powietrzu-największy-chaos-bywa-dziś-nie-w-nagłówkach-tylko-w-papierach-Kto-z-kim-zawiera-umowę-04-27-3)
@@ -3153,3 +3148,8 @@ Opracowania i dyskusje na temat tego zagadnienia:
 - [W Czystym Powietrzu największy chaos bywa dziś nie w nagłówk](https://telegra.ph/W-Czystym-Powietrzu-największy-chaos-bywa-dziś-nie-w-nagłówkach-tylko-w-papierach-Kto-z-kim-zawiera-umowę-04-27-6)
 - [W Czystym Powietrzu największy chaos bywa dziś nie w nagłówk](https://telegra.ph/W-Czystym-Powietrzu-największy-chaos-bywa-dziś-nie-w-nagłówkach-tylko-w-papierach-Kto-z-kim-zawiera-umowę-04-27-7)
 - [W Czystym Powietrzu największy chaos bywa dziś nie w nagłówk](https://telegra.ph/W-Czystym-Powietrzu-największy-chaos-bywa-dziś-nie-w-nagłówkach-tylko-w-papierach-Kto-z-kim-zawiera-umowę-04-27-8)
+- [zpl oze dc83d9](https://rentry.co/zpl-oze-dc83d9)
+- [zpl eco dc83d9](https://rentry.co/zpl-eco-dc83d9)
+- [zpl krt dc83d9](https://rentry.co/zpl-krt-dc83d9)
+- [zpl ene dc83d9](https://rentry.co/zpl-ene-dc83d9)
+- [zpl sol dc83d9](https://rentry.co/zpl-sol-dc83d9)

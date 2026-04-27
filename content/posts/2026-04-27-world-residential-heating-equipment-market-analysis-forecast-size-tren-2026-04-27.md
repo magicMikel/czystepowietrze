@@ -1,6 +1,6 @@
 ---
 title: "World Residential Heating Equipment - Market Analysis, Forecast, Size, Tren"
-date: 2026-04-27T14:05:54.925Z
+date: 2026-04-27T22:04:29.719Z
 draft: false
 description: "World Residential Heating Equipment - Market Analysis, Forecast, Size, Trends and Insights - IndexBox"
 author: "Agnieszka Kowalczyk"
@@ -18,32 +18,33 @@ ai_generated: true
 ---
 
 
-W praktyce oznacza to, że właściciele domów szukają sposobów na zmniejszenie wydatków na ogrzewanie. Jednym z rozwiązań jest zastosowanie ekologicznych źródeł ciepła, takich jak pompy ciepła lub kotły na biomasę. Warto wiedzieć, że na tego typu inwestycje można uzyskać dofinansowanie z Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej (NFOŚiGW) oraz Wojewódzkiego Funduszu Ochrony Środowiska i Gospodarki Wodnej (WFOŚiGW).
+W dzisiejszych czasach coraz więcej osób szuka sposobów, aby zmniejszyć swoje wydatki na ogrzewanie domu. Jednym z nich jest uzyskanie dofinansowania na tego typu inwestycje. W tym artykule dowiesz się, jak uzyskać dofinansowanie na ogrzewanie domu i jakie są warunki, które musisz spełnić, aby otrzymać takie wsparcie.
 
-Co ważne dla wnioskodawcy, dofinansowanie na ogrzewanie domu można uzyskać w ramach programu "Czyste Powietrze". Program ten oferuje dofinansowanie w wysokości do 30 000 zł na wymianę starego kotła na węgiel na nowy, bardziej ekologiczny. Warto wiedzieć, że program "Czyste Powietrze" jest realizowany do 2029 roku, a wnioski można składać do 31 grudnia 2028 roku.
+W praktyce oznacza to, że możesz otrzymać dofinansowanie na zakup i montaż nowoczesnych urządzeń grzewczych, takich jak piece na biomasę, pompy ciepła lub kotły gazowe. Co ważne dla wnioskodawcy, dofinansowanie może wynieść nawet do 50% kosztów inwestycji, ale nie więcej niż 15 000 złotych.
 
-Pułapki na które uważać to m.in. terminy składania wniosków oraz wymagania dotyczące dokumentacji. W praktyce oznacza to, że wnioskodawca musi spełnić określone warunki, takie jak posiadanie ważnego pozwolenia na budowę lub zgłoszenia robót budowlanych.
+Warto wiedzieć, że dofinansowanie na ogrzewanie domu oferują różne instytucje, takie jak NFOŚiGW (Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej) i WFOŚiGW (Wojewódzki Fundusz Ochrony Środowiska i Gospodarki Wodnej). Każda z nich ma swoje własne programy i warunki dofinansowania, dlatego też warto się z nimi zapoznać.
 
-Oto tabela porównawcza dotacji na ogrzewanie domu:
-| Dotacja | Wysokość dofinansowania | Termin składania wniosków |
-| --- | --- | --- |
-| Program "Czyste Powietrze" | do 30 000 zł | do 31 grudnia 2028 roku |
-| Program "Mój Prąd" | do 5 000 zł | do 31 grudnia 2026 roku |
+Poniżej przedstawiamy tabelę porównawczą dotacji oferowanych przez NFOŚiGW i WFOŚiGW:
 
-Warto wiedzieć, że dofinansowanie na ogrzewanie domu można uzyskać również w ramach programu "Mój Prąd". Program ten oferuje dofinansowanie w wysokości do 5 000 zł na zakup i montaż instalacji fotowoltaicznej.
+| Instytucja | Program | Wysokość dofinansowania | Termin składania wniosków |
+| --- | --- | --- | --- |
+| NFOŚiGW | Program priorytetowy „Czyste Powietrze” | do 50% kosztów inwestycji, nie więcej niż 15 000 zł | od 15 maja do 15 września |
+| WFOŚiGW | Program „Ogrzewanie domu” | do 30% kosztów inwestycji, nie więcej niż 10 000 zł | od 1 stycznia do 31 grudnia |
+
+Pułapki na które uważać to m.in. terminy składania wniosków, które mogą się zmieniać, oraz wymagania dotyczące dokumentacji, które muszą być spełnione, aby otrzymać dofinansowanie.
 
 Jak złożyć wniosek — 3 proste kroki:
-1. Sprawdź, czy spełniasz warunki dofinansowania.
-2. Zgromadź niezbędną dokumentację, taką jak pozwolenie na budowę lub zgłoszenie robót budowlanych.
-3. Złóż wniosek o dofinansowanie w wybranym urzędzie lub online.
+1. Wybierz program dofinansowania, który Cię interesuje i sprawdź, czy spełniasz warunki dofinansowania.
+2. Zgromadź wszystkie niezbędne dokumenty, takie jak rysunki techniczne, kosztorysy i umowy.
+3. Złóż wniosek w wybranym programie dofinansowania i czekaj na decyzję.
 
 Najczęstsze pytania (FAQ):
-1. Jakie są warunki dofinansowania na ogrzewanie domu?
-Odpowiedź: Warunki dofinansowania na ogrzewanie domu są określone w programie "Czyste Powietrze" i obejmują m.in. posiadanie ważnego pozwolenia na budowę lub zgłoszenia robót budowlanych.
-2. Jak długo trwa procedura dofinansowania?
-Odpowiedź: Procedura dofinansowania trwa zwykle kilka miesięcy i obejmuje weryfikację wniosku oraz dokumentacji.
-3. Czy mogę uzyskać dofinansowanie na ogrzewanie domu, jeśli już korzystałem z programu "Czyste Powietrze"?
-Odpowiedź: Tak, możesz uzyskać dofinansowanie na ogrzewanie domu, jeśli już korzystałeś z programu "Czyste Powietrze", ale musisz spełnić określone warunki, takie jak posiadanie ważnego pozwolenia na budowę lub zgłoszenia robót budowlanych.
+1. Czy mogę otrzymać dofinansowanie na ogrzewanie domu, jeśli już raz otrzymałem dofinansowanie na inne cele?
+Nie, jeśli już raz otrzymałeś dofinansowanie na inne cele, nie możesz otrzymać dofinansowania na ogrzewanie domu.
+2. Czy muszę mieć podpisany kontrakt z wykonawcą, aby złożyć wniosek o dofinansowanie?
+Nie, nie musisz mieć podpisany kontrakt z wykonawcą, aby złożyć wniosek o dofinansowanie, ale musisz mieć wybranego wykonawcę i określony kosztorys.
+3. Czy dofinansowanie na ogrzewanie domu jest tylko dla właścicieli domów jednorodzinnych?
+Nie, dofinansowanie na ogrzewanie domu jest dostępne dla wszystkich właścicieli nieruchomości, niezależnie od typu budynku.
 
 
 ---
@@ -51,13 +52,13 @@ Odpowiedź: Tak, możesz uzyskać dofinansowanie na ogrzewanie domu, jeśli już
 > **Nota redakcyjna:** Powyższy artykuł został wygenerowany przez sztuczną inteligencję. Postać autora jest fikcyjna i stworzona wyłącznie na potrzeby redakcyjne. Treść ma charakter informacyjny i nie stanowi porady prawnej, finansowej ani technicznej. Przed podjęciem decyzji inwestycyjnych lub złożeniem wniosków dotacyjnych skonsultuj się z odpowiednim specjalistą.
 
 
-## Powiązane: To nie wygląda już jak pojedyncze eksperymenty. Polski BESS zaczyna układać się w cały pipeline
+## Powiązane: Enea koryguje rozliczenia net-billing. Co to oznacza dla faktur prosumentów?
 
 Temat ten jest szerzej omówiony na portalu **[ecoaudyt.app](https://ecoaudyt.app)** — bezpłatnej platformie audytów energetycznych i analiz OZE dla właścicieli nieruchomości.
 
-Przeczytaj artykuł: **[To nie wygląda już jak pojedyncze eksperymenty. Polski BESS zaczyna układać się w cały pipeline](https://ecoaudyt.app/blog/polski-bess-pipeline-systemowy-magazyny-energii-2026)**
+Przeczytaj artykuł: **[Enea koryguje rozliczenia net-billing. Co to oznacza dla faktur prosumentów?](https://ecoaudyt.app/blog/enea-korekta-faktur-net-billing-rozliczenie-prosument-2026)**
 
-> Jeszcze niedawno o dużych magazynach energii w Polsce mówiło się głównie przy okazji pojedynczych zapowiedzi. Wiosna 2026 r. pokazuje jednak coś więcej niż serię odrębnych newsów. Gdy zestawi się Żarn…
+> Od ponad dwóch lat net-billing teoretycznie powinien działać godzinowo. Enea przyznaje, że przez pewien czas stosowała rozliczenie miesięczne. Teraz trwa korygowanie. Warto wiedzieć, co to zmienia — i…
 
 Więcej poradników, kalkulatorów i analiz dotacyjnych na [ecoaudyt.app](https://ecoaudyt.app).
 

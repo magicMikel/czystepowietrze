@@ -1,6 +1,6 @@
 ---
 title: "World Residential Heating Equipment - Market Analysis, Forecast, Size, Tren"
-date: 2026-04-27T22:04:55.533Z
+date: 2026-04-27T22:05:24.859Z
 draft: false
 description: "World Residential Heating Equipment - Market Analysis, Forecast, Size, Trends and Insights - IndexBox"
 author: "Agnieszka Kowalczyk"
@@ -18,31 +18,34 @@ ai_generated: true
 ---
 
 
-W praktyce oznacza to, że posiadacze domów jednorodzinnych mogą uzyskać dofinansowanie na wymianę starego kotła na nowy, bardziej efektywny. Warto wiedzieć, że dofinansowanie może wynieść nawet do 30% kosztów kwalifikowanych, co w praktyce oznacza kilka tysięcy złotych.
- 
-Co ważne dla wnioskodawcy, dofinansowanie może być przyznane na różne rodzaje ogrzewania, w tym na pompę ciepła, kotły na pellet lub biomasę, a także na instalację solarną. Pułapki na które uważać to m.in. terminy składania wniosków, które są ograniczone, oraz konieczność spełnienia określonych wymogów, takich jak np. izolacja domu.
+W praktyce oznacza to, że każdy z nas może uzyskać dofinansowanie na ogrzewanie domu, jeśli tylko spełni określone warunki. Warto wiedzieć, że dotacje na ogrzewanie domu są przyznawane przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej (NFOŚiGW) oraz Wojewódzkie Fundusze Ochrony Środowiska i Gospodarki Wodnej (WFOŚiGW).
 
-Poniżej znajduje się tabela porównująca różne rodzaje dofinansowań na ogrzewanie domu:
-| Rodzaj dofinansowania | Wysokość dofinansowania | Termin składania wniosków |
-| --- | --- | --- |
-| Dofinansowanie na pompę ciepła | do 20 000 zł | do 30 czerwca 2026 |
-| Dofinansowanie na kotły na pellet | do 15 000 zł | do 31 lipca 2026 |
-| Dofinansowanie na instalację solarną | do 10 000 zł | do 31 sierpnia 2026 |
+Dotacje na ogrzewanie domu mogą wynieść nawet do 45% kosztów kwalifikowanych, co oznacza, że możemy uzyskać dofinansowanie w wysokości 20 000 - 50 000 złotych. Co ważne dla wnioskodawcy, dotacje te są przyznawane na różne rodzaje ogrzewania, w tym na ogrzewanie gazowe, olejowe, węglowe, a także na pompę ciepła.
 
-Warto wiedzieć, że dofinansowanie może być łączone z innymi formami wsparcia, takimi jak np. ulga termomodernizacyjna. Co ważne, dofinansowanie może być przyznane tylko raz na jeden dom.
+Poniżej przedstawiamy tabelę porównawczą dotacji na różne rodzaje ogrzewania:
+| Rodzaj ogrzewania | Kwota dofinansowania |
+| --- | --- |
+| Ogrzewanie gazowe | 20 000 - 30 000 zł |
+| Ogrzewanie olejowe | 15 000 - 25 000 zł |
+| Ogrzewanie węglowe | 10 000 - 20 000 zł |
+| Pompa ciepła | 30 000 - 50 000 zł |
+
+Pułapki na które uważać to przede wszystkim terminy składania wniosków, które są ograniczone. Warto wiedzieć, że terminy te są różne dla poszczególnych województw, dlatego też należy sprawdzić informacje u odpowiedniego WFOŚiGW.
+
+W praktyce oznacza to, że każdy z nas musi dokładnie sprawdzić warunki i terminy składania wniosków, aby nie przegapić szansy na uzyskanie dofinansowania.
 
 Jak złożyć wniosek — 3 proste kroki:
-1. Wybierz rodzaj dofinansowania, na który chcesz uzyskać wsparcie.
-2. Zbierz wszystkie niezbędne dokumenty, takie jak np. kosztorys inwestycji i dokumenty potwierdzające własność domu.
-3. Złóż wniosek w wybranej przez siebie instytucji, takiej jak NFOŚiGW lub WFOŚiGW.
+1. Sprawdź warunki i terminy składania wniosków u odpowiedniego WFOŚiGW.
+2. Przygotuj wszystkie niezbędne dokumenty, w tym projekt techniczny i kosztorys.
+3. Złóż wniosek wraz z wymaganymi dokumentami w terminie określonym przez WFOŚiGW.
 
 Najczęstsze pytania (FAQ):
-1. Jakie są warunki uzyskania dofinansowania na ogrzewanie domu?
-Odpowiedź: Warunki uzyskania dofinansowania są różne w zależności od rodzaju dofinansowania. Ogólnie rzecz biorąc, wymagane jest spełnienie określonych wymogów, takich jak np. izolacja domu.
-2. Czy dofinansowanie może być łączone z innymi formami wsparcia?
-Odpowiedź: Tak, dofinansowanie może być łączone z innymi formami wsparcia, takimi jak np. ulga termomodernizacyjna.
-3. Jaki jest termin składania wniosków o dofinansowanie?
-Odpowiedź: Termin składania wniosków jest ograniczony i zależy od rodzaju dofinansowania. Warto sprawdzić terminy składania wniosków przed złożeniem wniosku.
+1. Czy mogę uzyskać dofinansowanie na ogrzewanie domu, jeśli już korzystałem z dotacji?
+Odpowiedź: Tak, możesz uzyskać dofinansowanie na ogrzewanie domu, nawet jeśli już korzystałeś z dotacji, o ile spełniasz warunki określone przez NFOŚiGW i WFOŚiGW.
+2. Jaki jest maksymalny okres trwania umowy o dofinansowanie?
+Odpowiedź: Maksymalny okres trwania umowy o dofinansowanie wynosi 5 lat.
+3. Czy mogę zmienić rodzaj ogrzewania, na które uzyskałem dofinansowanie?
+Odpowiedź: Nie, nie możesz zmienić rodzaju ogrzewania, na które uzyskałeś dofinansowanie, bez uprzedniej zgody WFOŚiGW.
 
 ---
 
